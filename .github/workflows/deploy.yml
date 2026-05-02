@@ -1,0 +1,44 @@
+name: Deploy K9 Academy
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Install dependencies
+        run: npm install --legacy-peer-deps
+
+      - name: Build
+        env:
+          CI: false
+          REACT_APP_FIREBASE_API_KEY: ${{ secrets.REACT_APP_FIREBASE_API_KEY }}
+          REACT_APP_FIREBASE_AUTH_DOMAIN: ${{ secrets.REACT_APP_FIREBASE_AUTH_DOMAIN }}
+          REACT_APP_FIREBASE_PROJECT_ID: ${{ secrets.REACT_APP_FIREBASE_PROJECT_ID }}
+          REACT_APP_FIREBASE_APP_ID: ${{ secrets.REACT_APP_FIREBASE_APP_ID }}
+          REACT_APP_SHEET_URL: ${{ secrets.REACT_APP_SHEET_URL }}
+          REACT_APP_ADMIN_EMAIL: ${{ secrets.REACT_APP_ADMIN_EMAIL }}
+          REACT_APP_STRIPE_PUPPY: ${{ secrets.REACT_APP_STRIPE_PUPPY }}
+          REACT_APP_STRIPE_ENGAGE: ${{ secrets.REACT_APP_STRIPE_ENGAGE }}
+          REACT_APP_STRIPE_OBEDIENCE: ${{ secrets.REACT_APP_STRIPE_OBEDIENCE }}
+          REACT_APP_STRIPE_KNOW: ${{ secrets.REACT_APP_STRIPE_KNOW }}
+          REACT_APP_STRIPE_BUNDLE: ${{ secrets.REACT_APP_STRIPE_BUNDLE }}
+        run: npm run build
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build

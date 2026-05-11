@@ -28,17 +28,17 @@ Your puppy has just been pulled from everything familiar: littermates, mom, smel
 Take puppy directly outside to their designated potty spot before entering the house. Let them sniff around the yard calmly for 10–15 minutes. Bring inside to a small, puppy-proofed area — don't give full house access yet. Use a leash indoors if needed. Introduce the crate with the door open, treats inside, no pressure. Keep greetings calm — no loud voices, no roughhousing, no picking up repeatedly.
 
 **Setting up your space:**
-Baby gates or an exercise pen are your best friends. A puppy should never have unsupervised access to rooms they haven't earned. Start small — one room or area — and expand as trust is built. Every accident, every chewed item, every bad habit formed happened because the puppy had too much freedom too soon.
+Baby gates or an exercise pen are your best friends. A puppy should never have unsupervised access to rooms they haven't earned. Start small — one room or area — and expand as trust is built. Every accident, every chewed item, every bad habit formed happened because the puppy had too much freedom too soon. Don't be afraid to use a leash inside for the first few weeks.
 
 **The first night:**
-Put the crate next to your bed. Your puppy will likely cry. This is normal — they've never slept alone. Don't take them into bed, but do put your hand near the crate so they can smell you. Set an alarm to take them out for a potty break every 3–4 hours. This is temporary. Within 1–2 weeks most puppies sleep through the night.`,
+Put the crate next to your bed. Your puppy will likely cry. This is normal — they've never slept alone. Don't take them into bed, but do put your hand near the crate so they can smell you. Set an alarm to take them out for a potty break every few hours depending on the puppy's age. This is temporary. Puppies generally need a potty break every hour per month of age (so two months old needs a potty break every two hours).`,
         checklist: [
           "Crate set up in a quiet area before puppy arrives",
           "Designated potty spot chosen outside",
           "Puppy-proofed room or ex-pen ready",
-          "Water bowl, food, collar with ID tag ready",
-          "Vet appointment scheduled within first week",
-          "First night plan: crate next to your bed",
+          "Water bowl, food, collar and leash",
+          "Training treats and toys",
+          "Vet appointment scheduled as needed",
           "Baby gates installed to limit access",
         ],
       },
@@ -48,22 +48,25 @@ Put the crate next to your bed. Your puppy will likely cry. This is normal — t
         content: `Potty training is not complicated — but it requires consistency. Most puppies can be reliably house-trained within 2–4 weeks if you follow the rules. Most puppies take much longer because the rules aren't followed consistently.
 
 **The core rule:**
-Puppies go potty after every single one of these events: waking up (even from a nap), eating a meal, drinking a big amount of water, playing, and any time more than 1–2 hours have passed. Take them outside immediately — not in 5 minutes.
+Puppies go potty after every single one of these events: waking up (even from a nap), eating a meal, drinking a big amount of water, playing, training sessions, and any time more than 1–2 hours have passed. Take them outside immediately — not in 5 minutes.
 
 **Outside routine:**
-Take puppy to the same spot every time. Stand still and boring. Give them 3–5 minutes. If they go — throw a party. Treat, praise, play. If they don't go after 5 minutes, bring them back inside, put them directly in the crate for 10–15 minutes, and try again.
+Take puppy to the same spot every time. Stand still and boring. Ask them to "go potty." Give them 3–5 minutes. If they go, throw a party. Treat, praise, play. If they don't go after 5 minutes, bring them back inside and try again in 10-15 minutes.
+
+**Puppy Pee Pads:**
+Puppy pee pads can be a useful management tool in scenerios where taking puppy on potty breaks consistently isn't possible. Consistently teaching a puppy that it is acceptable to eliminate indoors can sometimes slow the transition to going outside, particularly if the pads are used inconsistently or left available at all times. If pee pads are needed, pair them with a structured potty routine, supervision, positive reinforcement, and a gradual transition toward the desired final potty location.
 
 **Why the crate matters for potty training:**
-Dogs don't like to soil where they sleep. A properly sized crate (just big enough to stand, turn, lie down) means a puppy will hold it rather than go inside. This is why free roaming leads to accidents — they just go wherever they are.
+Dogs don't like to potty where they sleep. A properly sized crate (just big enough to stand, turn, lie down) means a puppy will hold it rather than go inside. This is why free roaming leads to accidents — they just go wherever they are.
 
 **When accidents happen:**
-And they will. Clean up with an enzyme cleaner (regular cleaner doesn't remove the scent that tells them "here is where I go"). Do not punish the puppy — if you didn't catch them in the act, it means nothing to them. If you DO catch them mid-squat, calmly interrupt with an "ah-ah," pick them up, and take them outside immediately.
+And they will. Clean up with an enzyme cleaner (regular cleaner doesn't remove the scent that tells them "here is where I go"). Do not punish the puppy — if you didn't catch them in the act, it means nothing to them. If you DO catch them mid-squat, calmly interrupt with a "no," pick them up, and take them outside immediately.
 
 **Signs they need to go:**
 Sniffing the ground, circling, suddenly leaving the area they were in, squatting. Learn to read these early and you'll catch it before it happens.
 
 **Regression:**
-Common around 4–5 months when puppies get more confident and start testing. Go back to basics — more supervision, more frequent trips outside, smaller freedom. It passes.
+Common around 4–5 months when puppies get more confident and start testing. Go back to basics — more supervision, more frequent trips outside, smaller freedom. It's normal, and it passes.
 
 **How long does it take?**
 With consistency: 2–4 weeks to mostly reliable, 4–6 months to fully reliable. Small breeds often take longer than large breeds.`,
@@ -82,22 +85,22 @@ With consistency: 2–4 weeks to mostly reliable, 4–6 months to fully reliable
         duration: "11 min",
         content: `The crate is not a punishment. Done correctly, it becomes your dog's favorite place — a den, a safe space, a tool for a lifetime of calm behavior.
 
-Most people rush crate training and create crate-hating dogs. The process should take days to weeks, not hours.
+Many people rush crate training and create dogs that hate the crate. The process should take days to weeks, not hours. Practice these steps every day and build up duration slowly. Never use the crate as punishment.
 
-**Phase 1 — Introduction (Days 1–3):**
-Leave the crate door open at all times. Toss high-value treats inside throughout the day. Feed meals at the entrance, then just inside, then fully inside with door open. Never close the door yet.
+**Phase 1 — Introduction:**
+Leave the crate door open at all times during the day (except for during naps and bedtime). Toss high-value treats inside throughout the day. Play games where they are rewarded for going into their crate. Feed meals inside the crate with the door open at first, and transition the crate door being closed during their meal. 
 
-**Phase 2 — Door Closing (Days 4–7):**
+**Phase 2 — Door Closing:**
 Once puppy enters willingly, close door for 5 seconds, treat, open. Extend to 30 seconds, 1 minute, 5 minutes. Always release before they stress — you want to beat the anxiety, not wait for it.
 
-**Phase 3 — Duration (Week 2+):**
-Build up to 1–2 hour stretches during the day. For nighttime, puppies under 12 weeks need a potty break every 3–4 hours. Set an alarm rather than waiting for crying.
+**Phase 3 — Duration:**
+Build up to longer stretches during the day. For nighttime, puppies under 12 weeks need a potty break every 2–3 hours. Set an alarm rather than waiting for crying.
 
 **The golden rule:**
-Never let the puppy out when they're crying. Wait for 2–3 seconds of quiet, then release. This one rule prevents 90% of crate problems.
+Never let the puppy out when they're crying. Wait for a few seconds of quiet, then release.
 
 **Making the crate comfortable:**
-Cover three sides with a blanket (den feeling). Put a worn t-shirt inside that smells like you. A lick mat or frozen Kong inside makes crate time something they look forward to.`,
+Cover three sides with a blanket (den feeling). Put a worn t-shirt inside that smells like you. A lick mat or frozen Kong or a chew inside makes crate time something they look forward to. A bed or blanket can be added as well but monitor your puppy to ensure they isn't won't shred and ingest it. Soft ambient music can be played during naps or bedtime.`,
         checklist: [
           "Crate sized appropriately (stand, turn, lie — no more)",
           "Meals being fed inside crate",

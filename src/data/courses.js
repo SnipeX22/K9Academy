@@ -25,7 +25,7 @@ export const COURSES = [
 Your puppy has just been pulled from everything familiar: littermates, mom, smells, sounds. Give them space to decompress. A crate in a quiet corner, a worn t-shirt that smells like you, and minimal visitors for the first few days makes an enormous difference.
 
 **What to do on Day 1:**
-Take puppy directly outside to their designated potty spot before entering the house. Let them sniff around the yard calmly for 10–15 minutes. Bring inside to a small, puppy-proofed area — don't give full house access yet. Introduce the crate with the door open, treats inside, no pressure. Keep greetings calm — no loud voices, no roughhousing, no picking up repeatedly.
+Take puppy directly outside to their designated potty spot before entering the house. Let them sniff around the yard calmly for 10–15 minutes. Bring inside to a small, puppy-proofed area — don't give full house access yet. Use a leash indoors if needed. Introduce the crate with the door open, treats inside, no pressure. Keep greetings calm — no loud voices, no roughhousing, no picking up repeatedly.
 
 **Setting up your space:**
 Baby gates or an exercise pen are your best friends. A puppy should never have unsupervised access to rooms they haven't earned. Start small — one room or area — and expand as trust is built. Every accident, every chewed item, every bad habit formed happened because the puppy had too much freedom too soon.

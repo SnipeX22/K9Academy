@@ -20,7 +20,7 @@ export const COURSES = [
       {
         title: "Bringing Your Puppy Home",
         duration: "8 min",
-        content: `The first 48 hours set the tone for everything. Before your puppy even walks through the door, your home needs to be ready — and more importantly, your mindset needs to be right.
+        content: `The first 48 hours set the tone for everything. Before your puppy even walks through the door, your home needs to be ready- and more importantly, your mindset needs to be right.
 
 Your puppy has just been pulled from everything familiar: littermates, mom, smells, sounds. Even the most confident puppy is experiencing a major life change. Give them space to decompress and adjust to their new environment. A crate in a quiet corner, a worn t-shirt that smells like you, and minimal visitors for the first few days can make an enormous difference in helping them settle in.
 
@@ -36,7 +36,7 @@ Keep greetings calm and low-key. Everyone will be excited to meet the new puppy,
 **Setting up your space:**
 Baby gates and exercise pens are some of the most useful tools for new puppy owners. Puppies thrive when they have clear boundaries and manageable spaces. Start with a single room or small section of the house and gradually expand their access as they demonstrate reliability. Freedom should be earned, not given automatically.
 
-Many common puppy problems occur because owners provide too much freedom too soon. House-training setbacks, destructive chewing, counter surfing, and inappropriate play habits often begin when a puppy is left unsupervised in a space they're not ready to handle.
+Many common puppy problems occur because owners provide too much freedom too soon. Potty training setbacks, destructive chewing, counter surfing, and inappropriate play habits often begin when a puppy is left unsupervised in a space they're not ready to handle.
 
 Consider keeping a lightweight leash attached while the puppy is supervised indoors. This makes it easier to redirect unwanted behavior and prevents games of chase when you need to guide them away from something.
 
@@ -62,11 +62,9 @@ Your puppy may seem shy, nervous, clingy, or unusually quiet during the first fe
           "Designated potty spot chosen outside",
           "Puppy-proofed room or ex-pen ready",
           "Food and water bowls",
-          "Puppy food purchased and ready",
-          "Collar with ID tag",
-          "Leash and backup leash",
-          "Training treats",
-          "Safe chew toys and enrichment toys",
+          "Puppy food",
+          "Leash and collar",
+          "Treats, safe chews, enrichment toys",
           "Baby gates installed to limit access",
           "Enzyme cleaner for potty accidents",
           "Poop bags",
@@ -80,26 +78,38 @@ Your puppy may seem shy, nervous, clingy, or unusually quiet during the first fe
         duration: "10 min",
         content: `Potty training is not complicated — but it requires consistency. Most puppies can be reliably house-trained within 2–4 weeks if you follow the rules. Most puppies take much longer because the rules aren't followed consistently.
 
+The biggest mistake new puppy owners make is waiting until they think the puppy needs to go. By the time a puppy starts actively searching for a place to eliminate, you're already behind. Successful potty training comes from preventing accidents before they happen, not reacting after the fact.
+
 **The core rule:**
-Puppies go potty after every single one of these events: waking up (even from a nap), eating a meal, drinking a big amount of water, playing, training sessions, and any time more than 1–2 hours have passed. Take them outside immediately — not in 5 minutes.
+Puppies go potty after every single one of these events: waking up (even from a nap), eating a meal, drinking a large amount of water, playing, training sessions, and any time more than 1–2 hours have passed. Take them outside immediately — not in 5 minutes. Young puppies have very little warning before they need to go.
 
 **Outside routine:**
-Take puppy to the same spot every time. Stand still and boring. Ask them to "go potty." Give them 3–5 minutes. If they go, throw a party. Treat, praise, play. If they don't go after 5 minutes, bring them back inside and try again in 10-15 minutes.
+Take puppy to the same spot every time. Consistency helps them associate that location with bathroom breaks and creates a predictable routine. Stand still and boring. Ask them to "go potty." Give them 3–5 minutes. If your puppy goes, use enthusiastic praise, a high-value treat, or a brief play session. Your puppy should learn that going potty outside is one of the best decisions they can make. 
+
+If they don't go after 5 minutes, bring them back inside and try again in 10-15 minutes.
 
 **Puppy Pee Pads:**
 Puppy pee pads can be a useful management tool in scenerios where taking puppy on potty breaks consistently isn't possible. Consistently teaching a puppy that it is acceptable to eliminate indoors can sometimes slow the transition to going outside, particularly if the pads are used inconsistently or left available at all times. If pee pads are needed, pair them with a structured potty routine, supervision, positive reinforcement, and a gradual transition toward the desired final potty location.
 
 **Why the crate matters for potty training:**
-Dogs don't like to potty where they sleep. A properly sized crate (just big enough to stand, turn, lie down) means a puppy will hold it rather than go inside. This is why free roaming leads to accidents — they just go wherever they are.
+Dogs naturally prefer not to eliminate where they sleep. A properly sized crate (just big enough to stand, turn, lie down) means a puppy will hold it rather than go inside. Anything larger may encourage the puppy to sleep on one side and potty on the other. This is one reason free roaming often leads to accidents. A puppy loose in the house has unlimited opportunities to make mistakes, while a crate helps teach bladder control and reinforces good habits.
 
 **When accidents happen:**
-And they will. Clean up with an enzyme cleaner (regular cleaner doesn't remove the scent that tells them "here is where I go"). Do not punish the puppy — if you didn't catch them in the act, it means nothing to them. If you DO catch them mid-squat, calmly interrupt with a "no," pick them up, and take them outside immediately.
+And they will. 
+
+Accidents are a normal part of raising a puppy and should be viewed as information rather than failure. Every accident usually means one of three things: the puppy wasn't supervised closely enough, too much time passed between potty breaks, or the puppy had too much freedom. Clean accidents thoroughly using an enzyme cleaner. Regular household cleaners may remove the stain and smell for humans, but dogs can still detect the scent and may return to the same spot repeatedly. 
+
+Do not punish the puppy — if you didn't catch them in the act, it means nothing to them. If you DO catch them mid-squat, calmly interrupt with a simple "no" or "outside," pick them up, and take them outside immediately.
 
 **Signs they need to go:**
-Sniffing the ground, circling, suddenly leaving the area they were in, squatting. Learn to read these early and you'll catch it before it happens.
+Many puppies give subtle warnings before they eliminate. Learning to recognize these signs can dramatically reduce accidents.
+
+Some signs to watch for are: sniffing the ground, circling, suddenly leaving the area they were in, squatting. The earlier you recognize these signals, the easier potty training becomes.
 
 **Regression:**
-Common around 4–5 months when puppies get more confident and start testing. Go back to basics — more supervision, more frequent trips outside, smaller freedom. It's normal, and it passes.
+Regression is common around 4–5 months of age when puppies become more confident and begin testing boundaries. Many owners assume the puppy is fully trained and start giving more freedom than the puppy is ready for. A few accidents later, it feels like training has been lost. 
+
+Go back to basics — more supervision, more frequent trips outside, smaller freedom. Most regressions resolve quickly when structure is reintroduced.
 
 **How long does it take?**
 With consistency: 2–4 weeks to mostly reliable, 4–6 months to fully reliable. Small breeds often take longer than large breeds.`,

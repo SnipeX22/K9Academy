@@ -22,24 +22,56 @@ export const COURSES = [
         duration: "8 min",
         content: `The first 48 hours set the tone for everything. Before your puppy even walks through the door, your home needs to be ready — and more importantly, your mindset needs to be right.
 
-Your puppy has just been pulled from everything familiar: littermates, mom, smells, sounds. Give them space to decompress. A crate in a quiet corner, a worn t-shirt that smells like you, and minimal visitors for the first few days makes an enormous difference.
+Your puppy has just been pulled from everything familiar: littermates, mom, smells, sounds. Even the most confident puppy is experiencing a major life change. Give them space to decompress and adjust to their new environment. A crate in a quiet corner, a worn t-shirt that smells like you, and minimal visitors for the first few days can make an enormous difference in helping them settle in.
 
 **What to do on Day 1:**
-Take puppy directly outside to their designated potty spot before entering the house. Let them sniff around the yard calmly for 10–15 minutes. Bring inside to a small, puppy-proofed area — don't give full house access yet. Use a leash indoors if needed. Introduce the crate with the door open, treats inside, no pressure. Keep greetings calm — no loud voices, no roughhousing, no picking up repeatedly.
+Take your puppy directly outside to their designated potty spot before entering the house. Let them calmly explore the area and sniff around for 10–15 minutes. This helps them begin associating that location with bathroom breaks and starts building good habits from the moment they arrive.
+
+Once inside, limit their access to a small, puppy-proofed area. Resist the temptation to let them roam freely throughout the house. A large space can feel overwhelming and increases the chances of accidents, chewing, and developing bad habits.
+
+Introduce the crate in a positive way. Leave the door open and toss treats or toys inside. Allow your puppy to explore at their own pace. Never force them into the crate or use it as punishment. The goal is for the crate to become a safe place where they choose to rest.
+
+Keep greetings calm and low-key. Everyone will be excited to meet the new puppy, but too much excitement can create stress and overstimulation. Avoid loud voices, constant handling, or passing the puppy from person to person.
 
 **Setting up your space:**
-Baby gates or an exercise pen are your best friends. A puppy should never have unsupervised access to rooms they haven't earned. Start small — one room or area — and expand as trust is built. Every accident, every chewed item, every bad habit formed happened because the puppy had too much freedom too soon. Don't be afraid to use a leash inside for the first few weeks.
+Baby gates and exercise pens are some of the most useful tools for new puppy owners. Puppies thrive when they have clear boundaries and manageable spaces. Start with a single room or small section of the house and gradually expand their access as they demonstrate reliability. Freedom should be earned, not given automatically.
+
+Many common puppy problems occur because owners provide too much freedom too soon. House-training setbacks, destructive chewing, counter surfing, and inappropriate play habits often begin when a puppy is left unsupervised in a space they're not ready to handle.
+
+Consider keeping a lightweight leash attached while the puppy is supervised indoors. This makes it easier to redirect unwanted behavior and prevents games of chase when you need to guide them away from something.
 
 **The first night:**
-Put the crate next to your bed. Your puppy will likely cry. This is normal — they've never slept alone. Don't take them into bed, but do put your hand near the crate so they can smell you. Set an alarm to take them out for a potty break every few hours depending on the puppy's age. This is temporary. Puppies generally need a potty break every hour per month of age (so two months old needs a potty break every two hours).`,
+Many new owners worry when their puppy cries during the first night. In reality, this is completely normal. Your puppy has never slept alone before and is suddenly in a completely unfamiliar environment. Place the crate next to your bed so your puppy can hear and smell you. Your presence provides reassurance and helps reduce anxiety. If your puppy becomes restless, calmly speak to them or place your hand near the crate.
+
+Set alarms throughout the night for potty breaks based on your puppy's age. As a general guideline, puppies can usually hold their bladder for approximately one hour per month of age, though individual puppies vary. Keep nighttime potty trips quiet and boring. No play sessions, no excitement, and no wandering around the yard. Go out, do business, offer calm praise, and return to the crate.
+
+
+**Establishing a Routine:**
+Puppies thrive on predictability. Try to keep feeding times, potty breaks, naps, and play sessions consistent from day to day. A predictable schedule helps your puppy understand what to expect and can significantly reduce stress during the transition period.
+During the first few days, focus on potty training, crate training, bonding, building trust, learning their name, and establishing a routine. Avoid trying to teach dozens of commands immediately. The relationship comes first.
+
+**Common Mistakes New Puppy Owners Make:**
+One of the biggest mistakes is expecting too much too soon. Puppies are babies. Accidents will happen. Sleep will be interrupted. Progress is rarely perfectly linear.
+Other common mistakes include giving too much freedom too early, inconsistent potty schedules, punishing accidents after the fact, overstimulating the puppy with visitors, skipping naps and allowing overtired behavior, and expecting immediate crate acceptance. Remember that your puppy is learning everything for the first time. Patience and consistency will always outperform frustration and correction.
+
+**Common Mistakes New Puppy Owners Make:**
+Your puppy may seem shy, nervous, clingy, or unusually quiet during the first few days. As they become comfortable, their true personality will begin to emerge. A quiet puppy may become energetic and playful. A nervous puppy may become confident and adventurous. Focus on creating positive experiences, maintaining structure, and building trust. The goal during the first week isn't perfection, it's helping your puppy feel safe, secure, and confident in their new home. The habits you build now will influence your puppy's behavior for months and years to come.`,
         checklist: [
           "Crate set up in a quiet area before puppy arrives",
           "Designated potty spot chosen outside",
           "Puppy-proofed room or ex-pen ready",
-          "Water bowl, food, collar and leash",
-          "Training treats and toys",
-          "Vet appointment scheduled as needed",
+          "Food and water bowls",
+          "Puppy food purchased and ready",
+          "Collar with ID tag",
+          "Leash and backup leash",
+          "Training treats",
+          "Safe chew toys and enrichment toys",
           "Baby gates installed to limit access",
+          "Enzyme cleaner for potty accidents",
+          "Poop bags",
+          "Bed, blanket or towel",
+          "Vet appointment scheduled if needed",
+          "Puppy's first week schedule planned",
         ],
       },
       {

@@ -45,13 +45,14 @@ Many new owners worry when their puppy cries during the first night. In reality,
 
 Set alarms throughout the night for potty breaks based on your puppy's age. As a general guideline, puppies can usually hold their bladder for approximately one hour per month of age, though individual puppies vary. Keep nighttime potty trips quiet and boring. No play sessions, no excitement, and no wandering around the yard. Go out, do business, offer calm praise, and return to the crate.
 
-
 **Establishing a Routine:**
 Puppies thrive on predictability. Try to keep feeding times, potty breaks, naps, and play sessions consistent from day to day. A predictable schedule helps your puppy understand what to expect and can significantly reduce stress during the transition period.
+
 During the first few days, focus on potty training, crate training, bonding, building trust, learning their name, and establishing a routine. Avoid trying to teach dozens of commands immediately. The relationship comes first.
 
 **Common Mistakes New Puppy Owners Make:**
 One of the biggest mistakes is expecting too much too soon. Puppies are babies. Accidents will happen. Sleep will be interrupted. Progress is rarely perfectly linear.
+
 Other common mistakes include giving too much freedom too early, inconsistent potty schedules, punishing accidents after the fact, overstimulating the puppy with visitors, skipping naps and allowing overtired behavior, and expecting immediate crate acceptance. Remember that your puppy is learning everything for the first time. Patience and consistency will always outperform frustration and correction.
 
 **Common Mistakes New Puppy Owners Make:**

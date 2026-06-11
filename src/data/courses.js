@@ -50,13 +50,12 @@ Puppies thrive on predictability. Try to keep feeding times, potty breaks, naps,
 
 During the first few days, focus on potty training, crate training, bonding, building trust, learning their name, and establishing a routine. Avoid trying to teach dozens of commands immediately. The relationship comes first.
 
+Your puppy may seem shy, nervous, clingy, or unusually quiet during the first few days. As they become comfortable, their true personality will begin to emerge. A quiet puppy may become energetic and playful. A nervous puppy may become confident and adventurous. Focus on creating positive experiences, maintaining structure, and building trust. The goal during the first week isn't perfection, it's helping your puppy feel safe, secure, and confident in their new home. The habits you build now will influence your puppy's behavior for months and years to come.
+
 **Common Mistakes New Puppy Owners Make:**
 One of the biggest mistakes is expecting too much too soon. Puppies are babies. Accidents will happen. Sleep will be interrupted. Progress is rarely perfectly linear.
 
-Other common mistakes include giving too much freedom too early, inconsistent potty schedules, punishing accidents after the fact, overstimulating the puppy with visitors, skipping naps and allowing overtired behavior, and expecting immediate crate acceptance. Remember that your puppy is learning everything for the first time. Patience and consistency will always outperform frustration and correction.
-
-**Common Mistakes New Puppy Owners Make:**
-Your puppy may seem shy, nervous, clingy, or unusually quiet during the first few days. As they become comfortable, their true personality will begin to emerge. A quiet puppy may become energetic and playful. A nervous puppy may become confident and adventurous. Focus on creating positive experiences, maintaining structure, and building trust. The goal during the first week isn't perfection, it's helping your puppy feel safe, secure, and confident in their new home. The habits you build now will influence your puppy's behavior for months and years to come.`,
+Other common mistakes include giving too much freedom too early, inconsistent potty schedules, punishing accidents after the fact, overstimulating the puppy with visitors, skipping naps and allowing overtired behavior, and expecting immediate crate acceptance. Remember that your puppy is learning everything for the first time. Patience and consistency will always outperform frustration and correction.`,
         checklist: [
           "Crate set up in a quiet area before puppy arrives",
           "Designated potty spot chosen outside",
@@ -126,30 +125,51 @@ With consistency: 2–4 weeks to mostly reliable, 4–6 months to fully reliable
       {
         title: "Crate Training Done Right",
         duration: "11 min",
-        content: `The crate is not a punishment. Done correctly, it becomes your dog's favorite place — a den, a safe space, a tool for a lifetime of calm behavior.
+        content: `The crate is not a punishment. When introduced correctly, it becomes one of the most valuable tools you'll ever use as a dog owner. A properly crate-trained dog sees their crate as a den, a bedroom, and a safe place to relax when life becomes overwhelming.
 
-Many people rush crate training and create dogs that hate the crate. The process should take days to weeks, not hours. Practice these steps every day and build up duration slowly. Never use the crate as punishment.
+One of the biggest mistakes new puppy owners make is rushing the process. They put the puppy in the crate, close the door, and hope the puppy "gets used to it." This often creates fear, anxiety, and negative associations that can take weeks or months to undo.
 
-**Phase 1 — Introduction:**
-Leave the crate door open at all times during the day (except for during naps and bedtime). Toss high-value treats inside throughout the day. Play games where they are rewarded for going into their crate. Feed meals inside the crate with the door open at first, and transition the crate door being closed during their meal. 
+Crate training should be a gradual process. For some puppies it may take a few days. For others it may take several weeks. The goal is not simply to get the puppy into the crate—it's to teach them that being in the crate is enjoyable and safe.
+
+**Why Crate Training Matters:**
+A properly crate-trained dog is often easier to housebreak, less likely to deveolp destructive habits, safer when unsupervised, more comfortable during travel or vet visits, and better able to settle and relax on their own.
+
+**Phase 1 — Positive Introduction:**
+Leave the crate door open at all times during the day. Allow them to explore at their own pace. Toss high-value treats inside throughout the day. Play games where they are rewarded for going into their crate. Feed meals inside the crate with the door open at first, and transition the crate door being closed during their meal. Praise any time they voluntarily step in. Don't worry about duration yet. Focus entirely on making the crate a rewarding place to be.
 
 **Phase 2 — Door Closing:**
-Once puppy enters willingly, close door for 5 seconds, treat, open. Extend to 30 seconds, 1 minute, 5 minutes. Always release before they stress — you want to beat the anxiety, not wait for it.
+Once your puppy is willingly entering the crate, begin introducing the door. Close door for 5 seconds, treat, open. Extend to 30 seconds, 1 minute, 5 minutes. Always release before they stress and reward calm behavior throughout; you want to beat the anxiety, not wait for it. Keep sessions short and successful.
+
+If your puppy becomes anxious, you've progressed too quickly. Simply go back to an easier duration and build up again.
 
 **Phase 3 — Duration:**
-Build up to longer stretches during the day. For nighttime, puppies under 12 weeks need a potty break every 2–3 hours. Set an alarm rather than waiting for crying.
+Once your puppy is comfortable with the door closed, begin extending crate time gradually. Build up to longer stretches during the day. 
+
+Young puppies need significantly more sleep than most people realize. Many puppies require 18-20 hours of sleep per day. The crate can help create healthy nap routines while preventing overstimulation and unwanted behaviors.
+
+**Teaching Independence:**
+Many puppies are comfortable in the crate until their owner leaves the room. Practice this separately. Start by putting the puppy in the crate, taking one step away, return and reward. Gradually increase distance until briefing leaving thr room. The goal is to teach the puppy that your departure is normal and temporary. This helps prevent separation anxiety from developing later in life.
+
+**Nighttime Crate Training:**
+Nighttime is often the most challenging part of crate training. For young puppies, the crate should ideally be placed near your bed during the first few weeks. Your presence provides comfort and reduces stress. Puppies under 12 weeks need a potty break every 2–3 hours. Set an alarm rather than waiting for crying. Take the puppy outside, allow them to relieve themselves, and return them directly to the crate.
+
+Keep interactions calm and boring. Nighttime is for sleeping, not playing.
 
 **The golden rule:**
-Never let the puppy out when they're crying. Wait for a few seconds of quiet, then release.
+Never let the puppy out when they're crying. Wait for a few seconds of quiet, then release. You want calmness to be rewarded- not frustration. 
+
+It's equally important to recognize the difference between demand barking and a genuine potty emergency. If a very young puppy suddenly becomes distressed, they may genuinely need to go outside.
 
 **Making the crate comfortable:**
-Cover three sides with a blanket (den feeling). Put a worn t-shirt inside that smells like you. A lick mat or frozen Kong or a chew inside makes crate time something they look forward to. A bed or blanket can be added as well but monitor your puppy to ensure they isn't won't shred and ingest it. Soft ambient music can be played during naps or bedtime.`,
+The crate should feel safe, secure, and relaxing. You can cover three sides with a blanket or cover, put a worn t-shirt inside that smells like you, a soft bed and some toys for comfort. If a bed or blanket is added, monitor your puppy to ensure they won't shred and ingest it. A lick mat or frozen Kong or a chew inside makes crate time something they look forward to. Soft ambient music can be played during naps or bedtime.
+
+Remember, successful crate training isn't about confinement. It's about teaching your puppy how to relax, self-soothe, and feel comfortable being alone. A puppy that loves their crate gains a safe place they can retreat to for the rest of their life. Put in the time now, move at your puppy's pace, and focus on creating positive experiences`,
         checklist: [
           "Crate sized appropriately (stand, turn, lie — no more)",
           "Meals being fed inside crate",
           "Treating randomly throughout day for crate entry",
           "Never releasing during crying — waiting for quiet",
-          "Crate covered on 3 sides with blanket",
+          "Crate made comfortable (cover, bed, blanket, toys, etc)",
           "Frozen Kong or lick mat used during crate time",
           "Nighttime potty breaks on an alarm, not waiting for crying",
         ],
@@ -157,101 +177,127 @@ Cover three sides with a blanket (den feeling). Put a worn t-shirt inside that s
       {
         title: "Socialization",
         duration: "9 min",
-        content: `Between 3 and 16 weeks, your puppy's brain is wide open. Experiences during this window shape what they consider normal for the rest of their life. Miss it, and you're spending years working through fear and reactivity.
+        content: `Socialization- the most important thing you'll do in the first 4 months. Between 3 and 16 weeks of age, your puppy enters what behaviorists call the critical socialization period. During this window, your puppy's brain is exceptionally receptive to new experiences. They are actively deciding what is safe, what is normal, and what should be feared. The experiences they have—or don't have—during this time can shape their behavior for years to come.
+
+Many owners focus heavily on obedience training during these early weeks. While teaching sit, down, and stay is valuable, socialization is far more important. A dog can learn obedience at any age. A dog that develops fear of people, dogs, sounds, or environments because they missed critical socialization opportunities often requires months or years of behavior modification. Socialization is not about creating a dog that loves everything, it's about creating a dog that can remain calm and neutral around anything.
 
 **What socialization actually means:**
-Socialization is NOT just meeting other dogs. It is exposing your puppy to the full range of what their adult life will contain — surfaces, sounds, people, vehicles, environments — in a positive or neutral way.
+One of the biggest misconceptions in dog ownership is that socialization simply means letting puppies play with other dogs. In reality, dog-to-dog interaction is only a small piece of the puzzle. True socialization means exposing your puppy to the sights, sounds, surfaces, people, environments, and situations they are likely to encounter throughout their life. Your goal is not to force interaction. Your goal is exposure.
 
-**The rule:**
+A puppy that calmly watches a bicycle pass by has gained valuable socialization experience even if they never interact with the person riding it. A puppy sitting quietly outside a coffee shop while people walk past is being socialized. A puppy observing traffic from a safe distance is being socialized. Confidence comes from exposure, not interaction.
+
+**The Golden Rule of Socialization:**
 Every experience should be positive or neutral. If your puppy shows fear — tucked tail, trying to retreat, freezing, whale eye — don't push through it. Back off to a distance where they're comfortable, let them observe, and pair the scary thing with treats. You cannot force confidence. You can only build it slowly.
 
+The quality of the interaction matters far more than the number of interactions. One frightening experience can outweigh dozens of positive ones. Focus on creating successful experiences.
+
 **Vaccination and socialization:**
-Socialization outweighs isolation risk. Carry your puppy into environments before they're fully vaccinated rather than keeping them completely isolated. Puppy classes with health-screened dogs are safe and valuable before the full vaccine series is complete.
+One of the most damaging pieces of advice new owners receive is: "Don't take your puppy anywhere until they're fully vaccinated."
+
+While disease prevention is important, complete isolation during the critical socialization period can create lifelong behavioral problems. Carry your puppy into environments before they're fully vaccinated rather than keeping them completely isolated. A stroller can be a wonderful tool for safe socialization. Sit outside shopping centers, watch traffic from a distance, visiting friends with vaccinated dogs, car rides, puppy classes with health-screened dogs and outdoor observation sessions are all great ways to safely socialize. 
+
+Avoid high risk areas such as dog parks, pet stores, or areas frequented by unknown dogs. Parvo can survive in soil for years and is often deadly, so the key to early socialization is doing it SAFELY. The risk of poor socialization often outweighs the risk of safe, controlled exposure.
 
 **Key areas to focus on:**
 
-People — expose to as many types as possible: men with beards, people wearing hats or sunglasses, children of different ages, elderly people, people in uniforms, people carrying things like umbrellas or backpacks.
+People — men with beards, people wearing hats or sunglasses, children of different ages, elderly people, people in uniforms, walkers, joggers, cyclists, people carrying things like umbrellas or backpacks. Remember, exposuring does not mean meeting every person they see. Keep greetings minimal and positive or neutral.
 
-Sounds — traffic, crowds, thunderstorms (recordings work), fireworks (recordings), construction, vacuums, dropped pots, loud music.
+Sounds — traffic, crowds, thunderstorms (recordings work), fireworks (recordings), construction, lawn equipment, vacuums, dropped pots, loud music. Start at low volume and gradually increase intensity. Pair sounds with food and play.
 
-Surfaces — grass, gravel, metal grates, tile, hardwood, sand, water puddles, stairs, wobbly surfaces.
+Surfaces — grass, gravel, metal grates, tile, hardwood, sand, water puddles, stairs, wobbly surfaces. Confidence often develops through movement and exploration.
 
-Environments — parking lots, pet stores, parks, vet office (just to say hi — no procedures), outdoor cafes, busy sidewalks.
+Environments — parking lots, stores, parks, vet office, outdoor cafes, busy sidewalks. One of the best socialization exercises is simply sitting on a bench with treats and allowing your puppy to watch the world go by.
 
-Other dogs — ideally vaccinated, friendly adult dogs and puppies in a controlled setting. Dog parks are too overwhelming and risky for young puppies.
+Other dogs — ideally vaccinated, friendly adult dogs and puppies in a controlled setting. Dog socialization is important, but many owners overdo it. Dog parks are too overwhelming and risky for young puppies. Your puppy does not need to greet every dog they see, in fact, constantly greeting other dogs often creates frustration and leash reactivity later in life.
+
+Handling — touching paws, looking inside ears, opening the mouth, touching the tail, brushing, nail trimming, wearing collars or harnesses. Keep sessions short and reward heavily. Future vet visits and grooming appointments will be much easier.
 
 **After 16 weeks:**
-The critical window closes but socialization never stops. Keep exposing your dog to new things throughout their life — a dog that's regularly experiencing new environments stays more adaptable and confident.`,
+The critical socialization period closes around 16 weeks, but socialization should continue for life. Over time, dogs that only experience the same environments can become less adaptable and less confident. A dog that regularly encounters new things learns that this is normal.
+
+**The Goal:**
+The goal of socialization is not to create a dog that loves everyone and everything. The goal is to create a dog that can walk through the world with confidence.`,
         checklist: [
-          "Puppy class enrolled (before 16 weeks)",
-          "Introduced to 5+ types of different people",
-          "Exposed to at least 3 new sounds this week",
-          "Walked on at least 3 different surfaces",
+          "Puppy class enrolled or training plan decided",
+          "Introduced to 4 different people",
+          "Exposed to at least 4 new sounds",
+          "Walked on at least 4 different surfaces",
+          "Exposed to 4 different environments",
           "Car ride practice started",
-          "Vet visit done as a positive experience (treats throughout)",
+          "Daily handling sessions",
+          "Observed people, crowds, dogs, traffic from a distance",
           "Not forcing interactions when puppy shows stress signals",
         ],
       },
       {
         title: "Common Puppy Problems",
         duration: "14 min",
-        content: `Every puppy owner faces these. None of them mean your puppy is broken or bad. They mean you have a puppy.
+        content: `Every puppy owner faces these. None of them mean your puppy is stubborn, broken, bad, or trying to make your life difficult. They mean you have a puppy.
+
+Most problem behaviors are completely normal developmental stages. The key is understanding what drives them and responding consistently before they become lifelong habits.
 
 ─────────────────────────────
 **BITING (Mouthing/Nipping)**
 ─────────────────────────────
-This is the number one complaint from new puppy owners. Puppies explore the world with their mouths. It's normal. It also needs to be shaped.
+Puppies explore the world with their mouths the same way human babies explore with their hands. They investigate, play, communicate, and relieve teething discomfort through biting. Unfortunately, puppy teeth are razor sharp. Many owners assume their puppy is being aggressive. In almost every case, they're simply being a puppy.
 
-What NOT to do: Don't yelp loudly (can actually increase arousal in high-drive puppies). Don't hold the muzzle shut. Don't flick or tap the nose. Don't roughhouse with your hands — your hands are never toys.
+Puppies bite for a variety of reasons. You'll often notice biting gets significantly worse during the evening hours. This is commonly called the "puppy witching hour" and usually occurs when the puppy is tired but struggling to settle down.
 
-What TO do: The moment teeth touch skin, all fun stops immediately. Stand up, turn your back, cross your arms, ignore for 10–30 seconds. Then re-engage calmly. The message is: teeth on skin = all fun disappears. Consistency is everything. Every person in the household must respond the same way.
+What NOT to do: Don't yell loudly, hold the muzzle shut, flick or tap the nose, pin the puppy down, roughhouse with your hands.
 
-Redirect to appropriate chew toys. Have one nearby at all times. If puppy bites, redirect to the toy. If they take it — praise.
+What TO do: The moment teeth touch skin, give a firm "no", and all fun stops immediately. Stand up, turn your back, cross your arms, ignore for 10–30 seconds. Then re-engage calmly. The message is: teeth on skin = all fun disappears. After the brief timeout, calmly resume interaction. If biting resumes, repeat. Consistency is everything. Every person in the household must follow the same rules.
 
-**At what age does it stop?** Most puppies dramatically improve by 5–6 months with consistent handling. Teething (3–6 months) can make it worse temporarily. Puppies that still bite hard past 7 months need more structured management.
+**Redirecting:** Always have toys available. Redirect to appropriate chew toys. If your puppy bites, redirect to the toy, encourage them to bite the toy instead, and praise if they do. Over time they learn what is acceptable to chew and what isn't.
+
+Many severe biting episodes are actually caused by exhaustion. Puppies need far more sleep than most people realize, many requiring 18–20 hours of sleep daily. Often the solution isn't training, it's sleep.
+
+**At what age does it stop?** Most puppies dramatically improve by 5–6 months with consistent handling. Teething (3–6 months) can make it worse temporarily. Puppies that still bite hard past 7 months need more structured management and training. Remember to be consistent, clear, and firm with boundaries.
 
 ─────────────────────────────────
 **DESTRUCTIVE CHEWING**
 ─────────────────────────────────
-Puppies chew because they're teething, bored, anxious, or because nothing has taught them not to. Prevention is the only reliable cure.
+If you own a puppy, something will eventually be chewed. Puppies chew because they're teething, bored, anxious, or because nothing has taught them not to. Chewing itself isn't the problem, chewing the wrong thing is.
 
-Management: If a puppy has unsupervised access to your belongings, they will chew them. Period. Crate when unsupervised. Baby gates to limit access. Pick up anything valuable from puppy level.
+Management: The biggest mistake owners make is giving too much freedom too soon. If a puppy has unsupervised access to your belongings, they will chew them. Prevention is easier than correction; crate them when unsupervised, use baby gates to limit access, leash indoors when needed, pick up anything valuable. Set your puppy up for success.
 
-Provide appropriate outlets: Bully sticks, raw bones (appropriate size), frozen Kongs, Nylabones, antlers (some dogs do better with softer chews — watch for excessive wear on teeth). Rotate options so they stay interesting.
+Provide appropriate outlets: Bully sticks, raw bones, frozen Kongs, Nylabones, puppy safe chews. Rotate options so they stay interesting.
 
-If you catch them chewing something wrong: calmly interrupt with "ah-ah," remove the item, replace with an appropriate chew, and praise when they take it.
+If you catch them chewing something wrong, calmly interrupt with "no", remove the item, replace with an appropriate chew, and praise when they take it. Do not chase them, as this will turn it into a game.
 
 ─────────────────────────────
 **JUMPING UP**
 ─────────────────────────────
-Dogs jump to greet faces. It's natural. It becomes a problem because we accidentally reward it — even pushing them down is physical interaction.
+Dogs jump to greet faces. It's natural. Owners often reward jumping accidentally by talking to the puppy, touching the puppy, making eye contact, pushing the puppy away. Even negative attention can reinforce behavior.
 
-The fix: Four paws on the floor gets attention. Jumping gets nothing. Turn your back completely when they jump. The second all four paws land — even for a split second — mark and reward or give attention. Be consistent. Ask guests to do the same.
-
-This takes time because most puppies have been rewarded for jumping accidentally for weeks before the owner decides to fix it.
+The Solution: Four paws on the floor earns attention. Jumping earns nothing. When your puppy jumps, give a firm "no", turn away completely, remove all attention. The second all four paws hit the ground, mark and reward or give attention. Be consistent. Make sure visitors follow the same rules.
 
 ─────────────────────────────
 **COUNTER SURFING**
 ─────────────────────────────
-Never leave food accessible at counter level. A dog that has been rewarded by finding food on counters even once will check counters for life. Management first, training second.
+One stolen sandwich can create a counter surfer for life. Dogs repeat behaviors that pay well. The easiest way to stop counter surfing is preventing success. Never leave food, dirty plates, or snacks within reach. Every successful theft strengthens the habit.
 
-Teach "off" by setting up the situation intentionally: something enticing on the counter, you're watching. The moment they jump — "off," lure down, reward with something better on the floor.
+Teach "off" by setting up the situation intentionally: set something enticing on the counter while you're supervising. The moment they jump: "off," redirect, reward with something better on the floor.
 
 ─────────────────────────────
 **EXCESSIVE BARKING**
 ─────────────────────────────
-Identify the cause first. Alert barking (stranger at door), demand barking (wants attention), fear barking, boredom barking. Each has a different solution.
+Barking is normal, expecting a dog never to bark is unrealistic. The goal is appropriate barking.
 
-For demand barking: Never reward it. If your puppy barks at you to play or for food and you respond — you've taught them barking works. Ignore completely. Reward quiet.
+Identify the cause first. Dogs bark for different reasons: alert barking (stranger at door), demand barking (wants attention), fear barking, frustration barking, boredom barking. Each has a different solution.
 
-For alert barking: Allow one or two barks (they're doing their job), then redirect with a "thank you, go to your place" type command.
+For demand barking: Never reward it. This is the easiest type to accidentally reinforce. If your puppy barks at you to play or for food and you respond — you've taught them barking works. Ignore them completely, reward quiet.
+
+For alert barking: Allow one or two barks (they're doing their job), then redirect with a "thank you, go to your place" type command. Teach them what to do after noticing something. For dogs that continuously bark at a trigger, practice sound desensitization. Play the sound frequently and pair it with rewards or a certain command (such as place).
 
 ─────────────────────────────
-**SEPARATION ANXIETY**
+**SEPARATION ANXIETY & DISTRESS**
 ─────────────────────────────
-True separation anxiety (destructive, non-stop vocalization, self-harm) needs a veterinary behaviorist. What most puppies have is separation distress — an adjustment problem.
+True separation anxiety (destructive, non-stop vocalization, self-harm) often requires professional help. What most puppies have is separation distress, the puppy is simply uncomfortable being alone.
 
-Prevention: Practice short departures from day one. Leave the puppy in the crate, walk out, come back in 2 minutes. Build up duration slowly. Don't make departures and arrivals emotional. Matter-of-fact in and out. A puppy that has had crate training done well almost never develops severe separation issues.`,
+Prevention: Practice short departures from day one. Leave the puppy in the crate, walk out, come back in 2 minutes. Build up duration slowly. Don't make departures and arrivals emotional. A puppy that has had crate training done well almost never develops severe separation issues.
+
+**The Reality of Puppy Ownership:**
+Most puppy problems are temporary. The behaviors that frustrate owners most during the first few months are often completely normal developmental stages. Every behavior is either being reinforced or redirected, always stay consistent.`,
         checklist: [
           "Hands are never used as toys",
           "Biting: all fun stops the moment teeth touch skin",

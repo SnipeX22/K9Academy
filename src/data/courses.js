@@ -393,45 +393,71 @@ Proper enrichment can help reduce destructive chewing, excessive barking, diggin
 Enrichment is anything that allows your dog to engage in natural behaviors in a healthy and productive way. It doesn't need to be expensive or complicated. The goal is not entertainment, it's fulfillment.
 
 **The five categories:**
-1. Feeding enrichment (making them work for their food)
-2. Sensory enrichment (new smells, environments, textures)
-3. Social enrichment (interaction with you, other dogs, people)
-4. Cognitive enrichment (puzzles, training, problem-solving)
-5. Physical enrichment (play, exercise, movement)
+A well-rounded dog receives opportunities in all five categories. You don't need every category every day, but over the course of a week, all of them should be represented.
 
-A well-rounded dog receives opportunities in all five categories. You don't need every category every day, but over the course of a week, all of them should be represented.`,
+**1. Feeding enrichment:** Food is one of the easiest ways to provide enrichment. Most dogs spend less than 30 seconds eating a meal. Instead of feeding exclusively from a bowl, try Kongs, Snuffle mats, puzzle feeders, slow feeders, scatter feeding, food dispensing toys, training using meals, or cardboard box searches to name a few. Even simply throwing kibble into the grass and allowing your dog to search for it can dramatically increase engagement. The goal is to make eating an activity rather than an event.
+**2. Sensory enrichment:** Dogs experience the world primarily through their noses. Allowing dogs to explore smells is one of the most powerful forms of enrichment available. Examples include: scent work, new walking routes, pet-friendly stores, hiking trails, sniff spots, farmers markets, etc. One of the easiest enrichment activities is simply allowing your dog to sniff.
+**3. Social enrichment:** Dogs are social animals, but this doesn't mean every dog wants to play with every dog. Social enrichment can come from training sessions, play sessions, family interaction, calm outings, structured dog play, cooperative activities. Many dogs receive their most valuable social enrichment simply through meaningful engagement with their owner.
+**4. Cognitive enrichment:** Cognitive enrichment challenges the brain. This is where dogs learn to think, solve problems, and work through frustration. Examples include: Training, games, puzzles, nose work, search games, hide and seek, impulse control exercises. Mental work gives them a job.
+**5. Physical enrichment:** Physical enrichment goes beyond simply burning energy. Examples include: fetch, tug, swimming, hiking, agility, balance exercises, and structured play. Movement is essential for physical and mental health.
+
+**The Power of Nose Work:**
+If there is one enrichment activity every dog owner should learn, it's nose work. A dog's nose is extraordinary, dogs possess tens of thousands of times more scent-detection ability than humans. Using that nose is deeply satisfying.
+
+Simple nose work games include treat scatters, find-it games, hidden food searches, searching for favorite toys, scent trails. Just 10–15 minutes of nose work can leave many dogs noticeably calmer and more settled.
+
+**Enrichment for High-Drive Dogs:**
+Owners of working breeds often believe they need endless physical exercise. The reality is that many high-drive dogs become even fitter and more demanding when exercise is the only outlet. A dog that runs five miles every day simply becomes capable of running six. Mental work creates a more sustainable outlet.
+
+For many high-drive dogs, the ideal care combines physical exercise, training, scent work, play, and rest- not just more exercise.
+
+**Signs Your Dog Needs More Enrichment:**
+You may need to increase enrichment if your dog frequently chews inappropriate objects, paces, follows you constantly, struggles to settle, barks excessively, digs holes, gets into trouble when left alone, or seems restless despite exercise. These behaviors often indicate unmet mental needs.
+
+**Remember,** enrichment doesn't have to be complicated. It doesn't have to take hours or even cost money. The goal is to provide opportunities for them to think, explore, problem solve, and engage with the world the way dogs were designed to.`,
         checklist: [
           "Identified which enrichment categories your dog gets regularly",
           "Noted which categories are missing",
           "At least one feeding enrichment activity per day",
+          "One nose work activity per day (a walk in a new area, scatter feeding, etc)",
           "Mental enrichment happening separately from walks",
         ],
       },
       {
         title: "Feeding Enrichment & Puzzle Ideas",
         duration: "8 min",
-        content: `The easiest enrichment upgrade you can make: stop feeding your dog from a bowl. Every meal is an opportunity for mental engagement.
+        content: `One of the easiest ways to provide enrichment is by changing how your dog receives their food. Most dogs finish a meal from a bowl in under a minute. Feeding enrichment turns mealtime into an activity that engages their brain, nose, and natural problem-solving instincts.
 
-**Beginner options (start here):**
-Scatter feeding — take their kibble and scatter it in the grass. They spend 10–15 minutes sniffing it out. This alone can dramatically reduce anxiety and hyperactivity.
+**Scatter Feeding:** Take your dog's meal and scatter it throughout the grass, yard, or even around a room indoors. Your dog must use their nose to search for every piece. This is one of the simplest and most effective enrichment activities available and can significantly reduce hyperactivity and restlessness.
 
-Lick mats — spread wet food, peanut butter (xylitol-free), Greek yogurt, or canned pumpkin on a rubber mat. Freeze for longer engagement. Great for crate time.
+**Lick Mats:** Spread wet food, plain Greek yogurt, canned pumpkin, mashed banana, or peanut butter onto a lick mat. For a longer-lasting challenge, place it in the freezer before offering it. The repetitive licking motion is naturally calming and makes lick mats excellent for crate time, grooming sessions, or helping a dog settle down after exercise.
 
-Sniff mats — a rubber mat with folds and pockets to hide kibble in. Forces them to use their nose.
+**Snuffle Mats:** A snuffle mat contains layers of fabric strips where kibble and treats can be hidden. Dogs must sniff and search through the folds to locate their food. This encourages natural foraging behavior and provides excellent mental stimulation for dogs of all ages.
 
-**Intermediate options:**
-Kong stuffing — fill a Kong with wet food, kibble, bits of meat. Freeze overnight. Provides 20–40 minutes of engagement depending on the dog. Prep several at once and keep them in the freezer.
+**Stuffed Kongs:** Fill a Kong with kibble, canned food, wet dog food, cooked meat, plain yogurt, pumpkin, or a combination of ingredients. Freezing the Kong overnight can provide anywhere from 20 to 60 minutes of engagement depending on the dog's experience level.
 
-Puzzle feeders — Nina Ottosson and similar brands make feeders rated level 1–4. Start easy and work up. If a dog gets frustrated and gives up, the puzzle is too hard.
+**Puzzle Feeders:** Puzzle toys require dogs to move sliders, flip compartments, spin pieces, or manipulate parts of the toy to access food. Start with easier puzzles and gradually increase difficulty as your dog gains confidence. The goal is to challenge them—not frustrate them.
 
-Snuffle balls and slow bowls — forces slower eating and more sniffing.
+**Slow Feeders:** Slow feeder bowls use ridges and obstacles to make dogs work around the bowl to access their food. While simple, they help slow down fast eaters and add a small amount of problem-solving to every meal.
 
-**Advanced options:**
-Hide the bowl — hide the food bowl in a different location every day. Simple but effective.
+**Snuffle Balls:** A compact version of a snuffle mat. Food is hidden throughout layers of fabric attached to a ball-shaped toy. These are excellent for dogs who enjoy carrying toys while searching for food.
 
-Muffin tin game — place kibble in some cups of a muffin tin, cover all cups with tennis balls. Dog has to figure out which ones have food.
+**The Muffin Tin Game:** Place kibble or treats in some compartments of a muffin tin and cover every compartment with tennis balls or similarly sized toys. Your dog must figure out which compartments contain food and remove the obstacles to access their reward.
 
-**Tip:** Rotate between enrichment options so they stay interesting. A dog that gets the same puzzle every day stops being challenged by it.`,
+**Hide-and-Seek Feeding:** Instead of feeding from a bowl, place small portions of food around a room and allow your dog to search for them. Start easy and gradually increase difficulty as they learn the game. This is an excellent introduction to nose work.
+
+**The Hidden Bowl Game:** Hide your dog's food bowl somewhere different each day and encourage them to find it. Begin with obvious locations and slowly make the challenge more difficult. Many dogs become remarkably good at searching once they understand the rules.
+
+**Cardboard Box Searches:** Place kibble, treats, or food toys inside cardboard boxes and allow your dog to investigate. Multiple boxes can be used to create a more challenging search. Most dogs enjoy tearing into boxes almost as much as finding the food inside.
+
+**Towel Roll-Up Puzzle:** Scatter kibble across a towel, roll it up loosely, and allow your dog to unroll it while searching for food. As they improve, fold and roll the towel more tightly to increase the challenge.
+
+**Frozen Food Cups:** Layer kibble, treats, wet food, broth, or dog-safe fruits and vegetables into a container and freeze it. This creates a longer-lasting enrichment activity that works especially well during hot weather.
+
+**Training for Meals:** Instead of feeding from a bowl, use your dog's daily kibble during short training sessions throughout the day. Sit, down, place, recall, tricks, leash work, and impulse-control exercises can all become opportunities to earn meals while providing valuable mental stimulation.
+
+**Rotate Your Options**
+The biggest mistake owners make is finding one enrichment activity and using it every day. Dogs become efficient at solving familiar puzzles. Rotate between different feeding activities throughout the week to keep them mentally engaged and interested. Variety creates challenge, and challenge creates enrichment.`,
         checklist: [
           "At least one meal per day not fed from a bowl",
           "Lick mat or snuffle mat acquired",

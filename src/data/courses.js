@@ -9,9 +9,10 @@ export const COURSES = [
     description:
       "Everything you need from the moment your pup comes home. Structure, crate training, potty training, socialization, common puppy problems, and the habits that set your dog up for life.",
     includes: [
-      "Week-by-week puppy roadmap",
+      "Daily puppy roadmap",
       "Crate training step-by-step",
       "Potty training guide",
+      "Socialization guide",
       "Solving biting, chewing & other common problems",
       "Printable daily schedule by age",
       "Milestone & sleep tracker printables",
@@ -380,14 +381,16 @@ By 4 months, many puppies can hold it for 3–4 hours during the day and sleep t
       {
         title: "Why Enrichment Matters",
         duration: "6 min",
-        content: `A tired dog is a good dog. But there's a difference between physically tired and mentally tired — and most owners only provide one.
+        content: `A tired dog is a good dog. But there's a difference between physically tired and mentally tired, and many owners only provide one.
 
-A dog that gets a 30-minute walk but nothing else to do will find their own entertainment. That entertainment is usually chewing your furniture, barking at everything, or developing anxious habits.
+A dog can walk two miles, come home physically tired, take a short nap, and then immediately start chewing furniture, barking at the window, digging in the yard, or pestering you for attention. Why? Because their body is tired. Their brain isn't.
 
-**Mental enrichment exhausts dogs faster than physical exercise.** A 15-minute nose work session or training game can leave a dog more settled than an hour-long walk. This is especially true for working breeds, herding dogs, terriers, and any dog with high drive.
+**Mental enrichment exhausts dogs faster than physical exercise,** and is often the cause of many behavioral problems. A 15-minute nose work session or training game can leave a dog more settled than an hour-long walk, because thinking, problem solving, learning, and using their nose is tiring. This is especially true for working breeds, herding dogs, terriers, and any dog with high drive.
+
+Proper enrichment can help reduce destructive chewing, excessive barking, digging, hyperactivity, restlessness, attention-seeking behaviors, frustration, mild anxiety, and difficulty settling in the home. Many owners attempt to solve these problems by adding more exercise, but sometimes the solution is actually more thinking.
 
 **What enrichment actually is:**
-It's anything that engages your dog's brain, nose, body, or social nature in a way that feels satisfying. It doesn't need to be expensive or complicated.
+Enrichment is anything that allows your dog to engage in natural behaviors in a healthy and productive way. It doesn't need to be expensive or complicated. The goal is not entertainment, it's fulfillment.
 
 **The five categories:**
 1. Feeding enrichment (making them work for their food)
@@ -396,7 +399,7 @@ It's anything that engages your dog's brain, nose, body, or social nature in a w
 4. Cognitive enrichment (puzzles, training, problem-solving)
 5. Physical enrichment (play, exercise, movement)
 
-A well-rounded dog gets some of each, most days. You don't need to do all of them every day — but if weeks go by without variety, you'll see it in their behavior.`,
+A well-rounded dog receives opportunities in all five categories. You don't need every category every day, but over the course of a week, all of them should be represented.`,
         checklist: [
           "Identified which enrichment categories your dog gets regularly",
           "Noted which categories are missing",

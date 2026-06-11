@@ -316,22 +316,25 @@ Most puppy problems are temporary. The behaviors that frustrate owners most duri
 **Sample Schedule (8–12 week puppy):**
 
 6:00 AM — Wake up, immediately outside to potty
-6:15 AM — Breakfast (in crate or on a sniff mat)
-6:30 AM — 15 min of calm play or exploration
-6:45 AM — Outside potty, then crate nap
+6:15 AM — Breakfast (in crate)
+6:30 AM — 15 min of calm play, exploration, or training
+6:45 AM — Outside potty
+7:00 AM — Nap
 9:00 AM — Wake, outside potty
 9:15 AM — Short training session (5 min), play
-9:45 AM — Outside potty, crate nap
-12:00 PM — Repeat morning pattern
+9:45 AM — Outside potty
+10:00 AM — Nap
+12:00 PM — Wake, outside potty
+12:15 PM — Lunch (in crate), Repeat morning pattern
 3:00 PM — Repeat
 6:00 PM — Dinner, play, training
 8:00 PM — Final outside time, wind down
 9:00 PM — Crate for the night
 
 **Key principles:**
-Puppies sleep 16–18 hours per day. Naps are not optional — they're as important as the awake time. An overtired puppy bites, can't settle, and can't learn. Put them in the crate before they hit this wall, not after.
+Puppies sleep 18–20 hours per day. Naps are not optional, they are just as important as the awake time. An overtired puppy bites, can't settle, and can't learn. Put them in the crate before they hit this wall, not after.
 
-Potty outside within 5 minutes of: waking up, eating, playing.
+Potty outside within 5 minutes of waking up, eating, playing, etc.
 
 Training sessions are 5 minutes max at this age. Short, positive, end while they still want more.
 

@@ -462,38 +462,66 @@ The biggest mistake owners make is finding one enrichment activity and using it 
           "At least one meal per day not fed from a bowl",
           "Lick mat or snuffle mat acquired",
           "Frozen Kongs prepped in freezer",
-          "Puzzle feeder tried and calibrated to dog's level",
+          "Tried at least 3 different types of feeding enrichment",
           "Scatter feeding in grass tried at least once",
         ],
       },
       {
-        title: "Play, Bonding & Tug",
+        title: "Play & Bonding",
         duration: "10 min",
         content: `Play is the most underused tool in dog training. When your dog wants to play with you more than anything else in the environment — you have focus, motivation, and a dog that chooses to be near you.
 
+The strongest relationships aren't built through obedience alone. They're built through shared experiences. A dog that genuinely enjoys interacting with you is easier to train, easier to motivate, and more likely to choose you over environmental distractions. The goal isn't to become your dog's source of food, it's to become your dog's favorite thing in the world. 
+
 **Why play matters for the relationship:**
-Play builds trust and positive association with you. It creates motivation you can use in training. It gives your dog a "job" when done with structure. And honestly, it's just fun.
+Play creates value in the relationship and builds trust and positive association with you. It creates motivation you can use in training without relying entirely on food and provides a healthy outlet for energy and drive. For many dogs, especially working breeds, play becomes one of the highest-value rewards available.
 
 **Tug:**
-Tug is one of the best bonding activities for dogs with any level of drive. Old advice said it made dogs dominant — that's been thoroughly disproven. Tug with rules builds impulse control and a dog that listens better.
+Tug is one of the best bonding activities for dogs with any level of drive. Myths claim that tug creates dominance, aggression, or a dog that wants to challenge you, but has been thoroughly disproven. In reality, structured tug often builds impulse control and creates a dog that listens better. Many police, sport, military, and working dogs use tug as one of their primary rewards.
 
-The rules: You start the game. "Out" or "drop" ends the game on your cue. If teeth touch skin, game stops immediately and calmly. You end the game — not the dog walking away. Vary intensity so you control their arousal level.
+**The rules:** A good tug game has structure. You start the game; the toy doesn't appear until you're ready. You control the reward, and the game exists because of you. "Out" or "drop" ends the game on your cue. If teeth touch skin, the game stops immediately and calmly. You end the game, not the dog walking away. Vary intensity so you control their arousal level, sometimes play hard and sometimes more gently. Learning to control excitement levels during play creates a dog that can switch between excitement and calmness more effectively.
 
-Teaching "Out": Freeze — go completely still. The instant there's any slack in the toy, mark with "yes" and restart the game. The game restarting is the reward for releasing.
+Teaching "Out": One of the most valuable skills a dog can learn is releasing an item voluntarily. Many owners immediately start pulling, prying, or trading food. Instead, use the game itself. While playing tug, freeze — go completely still and ask for an "out". Once released, mark with "yes" and restart the game with a hidden, high value tug. This creates faster and more reliable outs than constantly bribing with food.
 
 **Chase and recall games:**
-Run away from your dog. They will chase you. When they catch you, make it a celebration. This is the foundation of a reliable recall and costs nothing.
+One of the easiest ways to improve your relationship with your dog is by turning yourself into part of the fun. Most owners accidentally do the opposite. Their dog grabs something, runs away, and the owner immediately chases after them. From the dog's perspective, this is fantastic. They just started a game, and the human joined in.
 
-Hide and seek — have a family member hold the dog while you hide, then call them. When they find you, big reward. This teaches them their name, come, and that finding you is the best thing ever.
+Instead, reverse the roles. The next time you're playing with your dog, turn and run away from them. Act excited and encourage them to chase you. Most dogs naturally find movement rewarding and will immediately follow. When they catch up to you, make it worth their effort. Celebrate, play, tug, reward them, or simply make the interaction fun. Over time, your dog starts learning that staying close to you and pursuing you is more rewarding than running away from you. This simple game becomes one of the foundations of a strong recall because your dog begins associating coming toward you with good things rather than the end of fun.
 
-**Keep-away (modified):**
-Let your dog carry a toy while you walk. Don't chase them when they have it — crouch down and act interested in something else. Their natural instinct is to bring it back to show you. Reward that moment. This is how you build a retriever out of any dog.
+**Hide and seek:** 
+Hide and seek is one of the most underrated games you can play with a puppy. It requires no equipment, takes only a few minutes, and develops several valuable skills at the same time. Put your dog in a stay (or have someone hold them) and go hide. Once hidden, call your dogs name and encourage them to come find you. When they do, make it a big deal. Praise them enthusiastically, reward them, play with them, and make finding you feel like they just won the lottery.
+
+What makes this game so powerful is that it develops several important skills simultaneously. Your dog learns to respond to their name, improves their recall, gains confidence solving problems independently, and begins viewing finding you as one of the most rewarding things they can do.
+
+**Building Retrieval Through Keep-Away:**
+Many owners accidentally create dogs that refuse to bring toys back. The dog grabs a ball or toy, starts carrying it proudly, and the owner immediately chases them to get it back. The dog quickly learns that possessing the toy means a fun game of keep-away begins. Instead of chasing your dog, try doing the opposite. 
+
+If your dog picks up a toy, simply let them have it. Don't pressure them, don't follow them, and don't immediately try to take it away. Walk away from them instead. Kneel down. Become interesting. Pick up another toy. Act like something more exciting is happening elsewhere. Most dogs are naturally curious. Before long, they'll start moving back toward you to investigate. When they do, praise them, engage with them, and restart the game.
+
+Over time, your dog begins learning that bringing toys back to you doesn't end the fun—it actually creates more fun. This concept becomes the foundation for a reliable retrieve, even in breeds that aren't naturally inclined to retrieve.
+
+**Training Through Play:** 
+Many owners rely almost entirely on food rewards, but toys and play can be an incredibly powerful reinforcer— especially for dogs with moderate to high drive. Instead of rewarding every behavior with a piece of food, try using play as the reward. Ask for a sit and immediately start a tug session. Ask for a down and throw a toy. Call your dog to you and reward with a game of chase or tug. For many dogs, especially working breeds, the opportunity to play is every bit as valuable as food. In some cases, it becomes even more powerful.
+
+The benefit is that play creates energy and enthusiasm. Rather than simply performing behaviors for a treat, the dog begins actively engaging with you because they anticipate the game that follows. Training becomes faster, more animated, and often more enjoyable for both dog and owner.
+
+**Play Builds Confidence:** 
+Play isn't just about exercise or obedience, it also plays a major role in confidence building. Every time a dog successfully catches a toy, wins a tug game, finds a hidden object, or solves a simple challenge, they're learning that they can interact with the world successfully. Confident dogs are rarely born confident. More often, they're dogs that have repeatedly experienced success. They've learned how to solve problems, recover from challenges, and engage with new situations without becoming overwhelmed.
+
+Play provides those opportunities naturally. It allows dogs to experiment, think, succeed, and develop resilience in a low-pressure environment.
 
 **Bonding activities beyond play:**
-Grooming sessions done calmly and positively. Car rides (dogs that love car rides got taken on fun trips, not just to the vet). Sniff walks where you follow their nose. Even just sitting outside together and watching the world. Presence matters.`,
+A calm grooming session can become a trust-building exercise when approached with patience and positive reinforcement. Car rides can become exciting adventures when they consistently lead to enjoyable destinations rather than only veterinary visits. Even something as simple as a slow sniff walk allows your dog to engage with the world while sharing that experience with you. 
+
+Sometimes the most valuable thing you can do is absolutely nothing. Sit outside together. Watch people walk by. Relax in the backyard. Let your dog observe the world while simply existing alongside you. There are no commands, no expectations, and no training goals. Just time together. Relationships are built through shared experiences, and dogs are no different. The strongest bonds often come from the accumulation of hundreds of small moments rather than a few extraordinary ones. 
+
+**The Goal:**
+The goal of play is not simply to tire your dog out. The goal is connection.
+
+Every game, every training session, every walk, and every shared experience is an opportunity to increase your value in your dog's eyes. Over time, those experiences create a dog that chooses to engage with you, chooses to stay close to you, and genuinely enjoys interacting with you. When that relationship exists, training becomes dramatically easier. Your dog isn't listening because they have to. They're listening because they want to.`,
         checklist: [
           "Dedicated play session happening daily",
-          "Tug toy designated — only comes out for tug",
+          "Tug toy designated (only comes out for tug)",
           "'Out' command being practiced",
           "Chase and recall game tried",
           "Play being used as a training reward, not just given freely",
@@ -501,30 +529,90 @@ Grooming sessions done calmly and positively. Car rides (dogs that love car ride
         ],
       },
       {
-        title: "Training Games & Engagement",
+        title: "Training & Engagement Games",
         duration: "9 min",
         content: `Training doesn't have to be formal. Some of the most effective work happens in 3-minute bursts woven into normal daily life.
 
-**The engagement game (foundation of everything):**
-Stand with your dog. Say nothing. Do nothing. Wait. The moment your dog makes eye contact with you voluntarily — mark and reward. Repeat. You're teaching your dog that checking in with you has value. Do this in the house first, then in gradually more distracting environments.
+**The Engagement Game:**
+Stand with your dog and do absolutely nothing. Don't talk, don't lure, and don't ask for behavior. Simply wait. The moment your dog voluntarily looks at you, mark and reward.
 
-**Name game:**
-Say your dog's name once. The moment they look at you — mark and reward. This sounds obvious but most dogs' names have been poisoned — they've heard their name followed by corrections so many times that it means nothing. Rebuild it as the best word in the world.
+**Name Game:**
+Say your dog's name once. The moment they look at you, mark and reward. The goal is to teach your dog that hearing their name is always worth paying attention to.
 
-**Find it:**
-Toss a treat on the ground and say "find it." Dog sniffs it out. This is a great reset between training repetitions — it lets the dog decompress mentally for a moment. Also good in new environments to build positive association.
+**Find It:**
+Toss a treat on the ground and say, "Find it." Let your dog use their nose to locate it. Great for decompression, confidence building, and redirecting focus in distracting environments.
 
-**Which hand:**
-Hold a treat in one closed fist. Present both fists. Let the dog sniff, paw, and puzzle out which hand has the treat. When they nose the correct hand — open it and reward. Simple cognitive game for rainy days.
+**Which Hand?:**
+Hide a treat in one closed fist and present both hands. Allow your dog to investigate and reward them when they correctly identify the hand holding the treat.
+
+**Restrained Recalls:**
+Have someone gently hold your dog while you move away. Get excited, call them, and reward heavily when they're released and run to you.
+
+**Round Robin Recall:**
+Have multiple people spread out around a room or yard and take turns calling the dog. Reward every successful recall.
+
+**Touch:**
+Present your hand and reward your dog for touching it with their nose. This becomes useful for recalls, positioning, confidence building, and focus work.
+
+**Treat Toss:**
+Toss a treat away from you. When your dog finishes eating it and turns back toward you, mark and reward. This teaches automatic re-engagement.
+
+**Treat Trail:**
+Create a trail of treats through a room, hallway, or yard. Let your dog follow the scent path to the end.
+
+**Hide and Seek:**
+Hide somewhere nearby and call your dog. Reward heavily when they find you. This builds recall, confidence, and problem-solving skills.
+
+**Hide the Toy:**
+Let your dog watch you hide a favorite toy and encourage them to find it. Increase difficulty as they improve.
+
+**The Box Game:**
+Put a cardboard box on the floor and reward your dog for interacting with it. You can later add multiple boxes or hide treats inside.
+
+**The Shell Game:**
+Place a treat under one of several cups and move them around. Let your dog indicate which cup contains the reward.
+
+**Center:**
+Reward your dog for standing or sitting between your legs. This becomes a useful position around distractions and crowded environments.
+
+**Platform Training:**
+Use a low platform, bed, or sturdy object and reward your dog for getting onto it. Great for body awareness and impulse control.
+
+**Paws Up:**
+Reward your dog for placing their front feet onto an object. This improves confidence and rear-end awareness.
+
+**Around:**
+Teach your dog to move around a cone, chair, tree, or other object. This is a fun introduction to body control and directional cues.
+
+**Chair Recall:**
+Call your dog around furniture, obstacles, or through tight spaces. This teaches them to navigate obstacles while staying engaged with you.
+
+**The Magnet Game:**
+Hold a treat at your side and reward your dog for choosing to stay near your leg while walking.
+
+**Doorway Game:**
+Approach a doorway. If your dog rushes forward, the door closes. If they remain calm, the door opens. The environment becomes the reward.
+
+**Place-to-Place:**
+Set up two dog beds or platforms several feet apart. Send your dog back and forth between them for rewards.
+
+**Doorway Game:**
+Approach a doorway. If your dog rushes forward, the door closes. If they remain calm, the door opens. The environment becomes the reward.
+
+**Food Bowl Recall:**
+Place your dog's food bowl on the ground. Before releasing them to eat, call them to you and reward with permission to access their meal.
+
+**Follow the Leader:**
+Walk unpredictable patterns around your yard or house and reward your dog for choosing to stay engaged and follow your movement.
 
 **Free shaping:**
-Put a new object on the floor (cardboard box, bucket, cone). Say nothing. Reward any interaction — sniff, paw, step toward it. Shape incrementally toward whatever behavior you want. This teaches dogs to offer behaviors and problem-solve, which makes them faster learners overall.
+Place a new object on the floor and reward any interaction with it. A glance, a sniff, a paw touch, or stepping onto it all earn rewards. Shape incrementally toward whatever behavior you want.
 
 **Training in daily life:**
-Ask for a sit before meals. Ask for a wait before going out the door. Ask for eye contact before throwing the ball. These small moments add up to a dog that is responsive and used to working with you.`,
+Ask for a sit before meals, eye contact before throwing a toy, a wait before going through doors, or a down before putting on the leash. Small repetitions throughout the day add up faster than most formal training sessions. Training doesn't have to take hours of your time.`,
         checklist: [
-          "Engagement game practiced — rewarding eye contact",
-          "Dog's name being charged (paired with good things only)",
+          "Engagement game practiced",
+          "Training integrated into daily life",
           "Find it game used as a training break",
           "At least one shaping or puzzle game tried",
           "Asking for behaviors before daily rewards (meals, doors, ball)",

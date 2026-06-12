@@ -608,6 +608,27 @@ Walk unpredictable patterns around your yard or house and reward your dog for ch
 **Free shaping:**
 Place a new object on the floor and reward any interaction with it. A glance, a sniff, a paw touch, or stepping onto it all earn rewards. Shape incrementally toward whatever behavior you want.
 
+**Drive Building- The Tease and Escape Game:**
+Take a toy and make it come alive. Drag it away from your dog, let it dart behind your legs, and keep it moving away from them. Prey runs. Prey does not run toward predators. The moment your dog commits to chasing, let them catch and win occasionally. The goal is building desire, not frustration.
+
+**Drive Building- The Flirt Pole:**
+A flirt pole is essentially a giant cat toy for dogs. Move the lure unpredictably across the ground and allow your dog to chase, stalk, and occasionally catch it. Keep sessions short to maintain intensity.
+
+**Drive Building- Back-Tie Chasing:**
+Have someone gently restrain your dog while you tease them with a toy. Move away, make the toy exciting, and build anticipation. After several seconds, release the dog and let them chase. This creates explosive commitment to the toy and is commonly used in working dog programs.
+
+**Drive Building- The Two Toy Game:**
+Use two identical toys. Throw one toy and let your dog grab it. The moment they have it, become animated with the second toy. Most dogs will race back to you to continue the game. This builds retrieval while increasing toy engagement.
+
+**Drive Building- The Runaway Toy:**
+Throw a toy and immediately run in the opposite direction. Many dogs naturally want to chase both the toy and their owner. This builds engagement and prevents dogs from running off with rewards.
+
+**Drive Building- The Strike Game:**
+Hold a tug toy behind your back. Bring it out suddenly, make it move for a few seconds, then hide it again before your dog can get it. The anticipation often increases desire dramatically. After several repetitions, allow them to win.
+
+**Drive Building- The Possession Game:**
+When your dog catches the toy, don't immediately ask for an out. Let them carry it, parade around with it, and enjoy possession. Many owners end the game every time the dog wins. Dogs that enjoy possession often develop stronger toy drive over time.
+
 **Training in daily life:**
 Ask for a sit before meals, eye contact before throwing a toy, a wait before going through doors, or a down before putting on the leash. Small repetitions throughout the day add up faster than most formal training sessions. Training doesn't have to take hours of your time.`,
         checklist: [

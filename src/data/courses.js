@@ -590,6 +590,9 @@ Call your dog around furniture, obstacles, or through tight spaces. This teaches
 **The Magnet Game:**
 Hold a treat at your side and reward your dog for choosing to stay near your leg while walking.
 
+**The "Out" Game:**
+Hide a toy behind your back. Give your dog a different toy and begin playing. Ask for an "out" or "drop it" and reward with the new toy.
+
 **Doorway Game:**
 Approach a doorway. If your dog rushes forward, the door closes. If they remain calm, the door opens. The environment becomes the reward.
 
@@ -668,29 +671,56 @@ Ask for a sit before meals, eye contact before throwing a toy, a wait before goi
       {
         title: "How Dogs Learn (The Simple Version)",
         duration: "7 min",
-        content: `You don't need to be a professional trainer to teach your dog. You need to understand one thing: behavior that gets rewarded repeats. Behavior that gets ignored fades.
+        content: `You don't need to be a professional trainer to teach your dog. You don't need fancy equipment, complicated methods, or years of experience. You simply need to understand one basic principle:
 
-That's the whole framework. Everything else is application.
+Behavior that gets rewarded repeats. Behavior that doesn't gets weaker over time.
+
+That's the foundation of dog training. Every day your dog is learning. They're learning which behaviors get them food, attention, toys, freedom, and access to the things they want. The more a behavior pays off, the more likely it is to happen again. Training isn't about forcing your dog to do things. It's about making the behaviors you want more rewarding than the behaviors you don't.
 
 **Marker training:**
-A marker — either a clicker or a verbal "yes!" — tells your dog the exact moment they did the right thing. It bridges the gap between the behavior and the reward. Without a marker, your dog is guessing at what earned the treat. With one, they know exactly.
+A marker, either a clicker or a verbal "yes!", tells your dog the exact moment they did the right thing. A marker is one of the most powerful communication tools you can give your dog. It bridges the gap between the behavior and the reward. Without a marker, your dog is guessing at what earned the treat. With one, they know exactly.
 
-How to build it: Say "yes!" and immediately give a treat. Do this 20 times in a row. Now "yes!" means "something good is coming." Use it every single time you reward.
+To build it, start in a quiet room. Say "yes!" and immediately give a treat. Do this 20 times in a row. Now "yes!" means "something good is coming." Use it every single time you reward. Once that association is built, the marker becomes a powerful teaching tool.
 
 **The training loop:**
+Almost every training exercise follows the same basic pattern:
+
 Cue → dog does the behavior → mark the exact moment → reward. Simple.
 
+For example: You say "sit." Your dog sits. You mark with "yes." You give a reward. That's the entire process. The clearer you are during each step, the faster your dog will learn.
+
+**Timing Matters:**
+
+Good timing can make training easy. Poor timing can make training confusing. Your marker should happen the instant your dog performs the behavior you want. Not five seconds later. Not after they've already done something else. The reward can come a second or two afterward because the marker tells your dog exactly what earned it. This is why marker training is so effective, it creates precision and clarity.
+
 **Rate of reinforcement:**
-When teaching something new, reward every correct repetition. As the dog gets it consistently, you can start requiring a better version — faster response, straighter position, more duration. This is called raising criteria. Only raise one thing at a time.
+When teaching something new, reward every correct repetition. Many owners accidentally make learning harder by expecting too much too soon. When your dog is learning a new behavior, every successful repetition should earn a reward. As your dog becomes more consistent, you can gradually ask for better performance — faster response, straighter position, more duration. This is called raising criteria. Only raise one thing at a time. If you increase duration, distance, and distractions simultaneously, most dogs will struggle. Always set your dog up for success.
+
+**Reward What You Like:**
+Many owners spend their day correcting unwanted behaviors while ignoring good ones, try doing the opposite. Catch your dog making good choices such as lying down calmly, checking in with you, etc.The behaviors that get reinforced become stronger. The more often you reward good decisions, the more frequently your dog will make them.
 
 **Luring vs. shaping:**
-Luring means using a treat to guide the dog into the position you want (treat at the nose, move it back = sit). Shaping means waiting for the dog to offer behavior on their own and rewarding closer and closer approximations. Both work. Luring is faster to start. Shaping builds more thinking dogs.
+There are two common ways to teach new behaviors. 
+
+Luring uses a reward to guide your dog into position. For example: Hold a treat at your dog's nose and slowly move it upward. Most dogs naturally follow the treat and end up sitting. The moment they sit, mark and reward. Luring is simple, fast, and beginner-friendly. It's often the easiest way to introduce new positions.
+
+Shaping rewards small steps toward a behavior rather than guiding the dog. For example: Instead of luring your dog onto a bed, you reward them for looking at it. Then stepping toward it. Then touching it. Then standing on it. Then lying down. Shaping encourages dogs to think and solve problems independently. It often creates more engaged and confident learners.
+
+Both methods work well and most trainers use a combination of the two.
 
 **Session length:**
-Keep sessions to 5–10 minutes. End before the dog checks out. The dog that ends a session wanting more comes back the next time eager and ready.
+One of the most common mistakes new owners make is training for too long. Dogs learn best in short, focused sessions. For most dogs, 5-10 minutes is plenty. Some sessions may only last a few minutes, and that's okay. End training while your dog is still interested. The dog that ends a session wanting more comes back the next time eager and ready. Short, successful sessions almost always outperform long, frustrating ones.
 
 **One thing at a time:**
-Don't try to teach sit, down, and heel in the same session. One behavior per session, especially with puppies. Consolidate before adding.`,
+Avoid teaching multiple new skills in the same session. One behavior per session, especially with puppies. Dogs learn faster when lessons are clear and simple. Once a behavior becomes reliable, you can begin introducing new skills.
+
+**Be Consistent:**
+Dogs learn through repetition. If jumping gets attention sometimes but not others, your dog will keep trying. If coming when called earns rewards occasionally but not consistently, your recall will be unreliable. Clear rules create clear communication. The more consistent you are, the faster your dog learns.
+
+**Remember:**
+Training isn't about controlling your dog. It's about teaching them how to succeed. Every reward gives your dog information. Every repetition builds understanding. Keep sessions short, reward generously, be consistent, and focus on progress rather than perfection. Dogs learn one successful repetition at a time.
+
+The best training method is the one that your dog understands and responds to consistently. Don't get caught up in debates about whose approach is "right." Focus on clear communication, consistency, and results. If your dog is learning, enjoying the process, and becoming a well-mannered companion, you're on the right track. Be willing to adapt. Good trainers don't force every dog into the same system—they adjust their approach to fit the dog in front of them.`,
         checklist: [
           "Marker word chosen ('yes') and charged with treats",
           "Training treats cut to pea-size or smaller",

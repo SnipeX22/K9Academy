@@ -711,6 +711,11 @@ Both methods work well and most trainers use a combination of the two.
 **Session length:**
 One of the most common mistakes new owners make is training for too long. Dogs learn best in short, focused sessions. For most dogs, 5-10 minutes is plenty. Some sessions may only last a few minutes, and that's okay. End training while your dog is still interested. The dog that ends a session wanting more comes back the next time eager and ready. Short, successful sessions almost always outperform long, frustrating ones.
 
+**Rewards:**
+Rewards are how we communicate to our dogs that they made the right choice. A reward can be anything your dog finds valuable: food, toys, praise, play, access to the environment, or even being released to do something they want to do. Not all rewards are created equal. A piece of kibble might be enough to practice "sit" in your living room, but it may not be valuable enough when you're competing with squirrels, other dogs, or a busy park. The more difficult the environment or behavior, the more valuable the reward should be.
+
+It's also important to remember that dogs decide what is rewarding, not us. Some dogs will work all day for food. Others would rather chase a ball, play tug, or receive affection. Part of training is discovering what motivates your individual dog and using that to your advantage. The goal isn't to bribe your dog forever. The goal is to build a history of reinforcement so strong that choosing the correct behavior becomes a habit. Rewards are simply the tool we use to get there.
+
 **One thing at a time:**
 Avoid teaching multiple new skills in the same session. One behavior per session, especially with puppies. Dogs learn faster when lessons are clear and simple. Once a behavior becomes reliable, you can begin introducing new skills.
 
@@ -722,8 +727,8 @@ Training isn't about controlling your dog. It's about teaching them how to succe
 
 The best training method is the one that your dog understands and responds to consistently. Don't get caught up in debates about whose approach is "right." Focus on clear communication, consistency, and results. If your dog is learning, enjoying the process, and becoming a well-mannered companion, you're on the right track. Be willing to adapt. Good trainers don't force every dog into the same system—they adjust their approach to fit the dog in front of them.`,
         checklist: [
-          "Marker word chosen ('yes') and charged with treats",
-          "Training treats cut to pea-size or smaller",
+          "Marker word chosen ('yes') and paired with a reward",
+          "Reward preference identified (treats, toys, praise, etc)",
           "Sessions kept to 5–10 minutes max",
           "Training started in a low-distraction environment",
           "One behavior focused on per session",
@@ -732,65 +737,74 @@ The best training method is the one that your dog understands and responds to co
       {
         title: "Sit & Down",
         duration: "10 min",
-        content: `**Sit:**
-Hold a treat at your dog's nose. Slowly move it back over their head. Their rear will naturally drop. The moment it touches the ground — mark and reward.
+        content: `One of the biggest mistakes new owners make is rushing to add commands before the dog actually understands the behavior. First teach the behavior itself, then add the word for it. If your dog doesn't reliably know what "sit" means yet, repeating "sit, sit, sit" won't help. Build the behavior first, then attach a cue to it.
+        
+**Sit:**
+Hold a treat at your dog's nose and slowly move it back over their head. As their head follows the treat upward, their rear will naturally lower toward the ground. The moment their rear touches the floor, mark and reward. Practice until your dog is offering the behavior consistently. Once they're succeeding most of the time (roughly 8 or 9 out of 10 repetitions), begin adding the verbal cue.
 
-Once they're doing it reliably (8 or 9 out of 10 tries), add the verbal cue: say "sit" right before you move the treat. After enough repetitions, the word becomes the cue, and you fade out the lure by pretending to have a treat in your hand but rewarding from the other hand.
+Say: "Sit", then immediately perform the lure. After enough repetitions, your dog will begin associating the word with the action. As they improve, gradually fade the lure by using the same hand motion without a treat and rewarding from your other hand. A common mistake is continuing to lure forever. The goal is for the verbal cue to become meaningful, not for your dog to follow food every time.
 
 **Down:**
-From a sit, bring the treat from their nose straight down to the ground between their front paws. Most dogs will fold into a down. Mark the moment elbows hit the ground. If they stand up instead, start over — never push or physically force them down.
-
-Some dogs are reluctant to lie down in new environments because it makes them feel vulnerable. Don't make a big deal of it — just practice in comfortable spaces first and build confidence.
+Start with your dog sitting. Place a treat at their nose and slowly move it straight down between their front paws. Once the treat reaches the floor, slowly pull it outward along the ground. Most dogs will naturally follow the food and fold into a down position. The moment both elbows touch the ground, mark and reward. If your dog stands up instead, simply reset and try again. Dogs learn best when they choose the behavior themselves. Keep in mind that some dogs are naturally hesitant to lie down in unfamiliar environments. Lying down places them in a more vulnerable position than sitting. If your dog struggles with downs outside the house, practice in comfortable environments first and build confidence gradually.
 
 **Adding duration (Stay):**
-Stay is not a separate command — it's built into sit and down. Ask for sit. Wait one second. Mark and reward. Next rep: two seconds. Build in small steps.
+Stay does not need to be separate command, it can be built into sit and down. If you ask your dog to sit, the expectation is that they remain sitting until released. Start small, ask for sit. Wait one second. Mark and reward. Next repetition, wait two seconds, then three, etc. Build gradually and set your dog up to succeed.
 
 The rules of stay:
-1. Only release with a specific word ("ok," "free," "break")
-2. If they break, you asked for too long — back up and rebuild shorter
-3. Never repeat the cue. Say "sit" once. If they don't do it, reset and try again.
-4. Go back to them to reward rather than always calling them out of the stay
+1. Every stay should have a clear ending. Only release with a specific word ("ok," "free," "break"), your dog should remain in position until they hear that word.
+2. If they break, lower your criteria. Reduce the duration, make it easier, and rebuild.
+3. Never repeat commands. Say "sit" once. Repeated cues teach dogs they can ignore the first few commands.
+4. Go back to them to reward rather than always calling them out of the stay. This teaches the dog that remaining in position is what earns reinforcement.
 
 **The 3 Ds:**
-Duration (how long), Distance (how far you move away), Distraction (what's happening around them). Only work on one D at a time. If you increase distance, reduce duration. If you add distraction, stay close and keep it short.`,
+Duration (how long), Distance (how far you move away), Distraction (what's happening around them)
+
+Only work on one D at a time.If you're working on longer duration, stay close and keep distractions low. If you're adding distance, shorten the duration. Build each one separately and your dog will progress much faster.
+
+**Proofing Behaviors:**
+Just because your dog can perform a behavior in your living room doesn't mean they truly know it. Once your dog understands a behavior, begin practicing it in new locations with gradually increasing distractions. This process is called proofing. The goal isn't just a dog that can sit, it's a dog that can sit anywhere.`,
         checklist: [
           "Sit reliable with lure",
           "Sit reliable with verbal cue only",
           "Down reliable — elbows touching ground",
           "Stay being built in 1-second increments",
           "Release word established and used consistently",
-          "Never physically forcing dog into position",
+          "Not repeating commands",
         ],
       },
       {
         title: "Come (Recall)",
         duration: "9 min",
-        content: `Recall is the most important command you will ever teach. It can prevent a serious accident. It builds an off-leash relationship. And it's the most commonly poisoned command in pet dogs.
+        content: `Recall is the most important command you will ever teach.
+
+A reliable recall can prevent a serious accident, stop your dog from running into danger, allow for safe off-leash freedom, and strengthen your relationship more than almost any other behavior. Unfortunately, it's also one of the most commonly poisoned commands in dog training.
 
 **The cardinal rule:**
-"Come" should always be the best thing that ever happened to your dog. If you call your dog and then clip the leash, end the fun, give them a bath, or do anything unpleasant — you are teaching them that coming to you has bad consequences.
+Your recall word should predict good things every single time. Many owners accidentally poison their recall by repeatedly calling their dog for things they don't enjoy. If you call your dog and then clip the leash, end the fun, give them a bath, or do anything unpleasant, you are teaching them that coming to you has bad consequences. Whenever possible, call your dog, reward them generously, and then release them back to what they were doing. Teach them that coming to you does not always end the fun.
 
-Never call your dog if you can't enforce it. If they won't come and you've already said "come" — you've just taught them it's optional. Go get them calmly instead.
+Never call your dog if you can't enforce it. If they won't come and you've already said "come", you've just taught them it's optional. 
 
-**Teaching it:**
-Crouch down, open arms, happy excited voice. When dog arrives: grab collar gently first (this prevents grab-the-treat-and-run), then treat generously. Recall gets your best treats. Always.
+**Teaching Recall:**
+Start indoors with very few distractions. Crouch down, open your arms, and use a happy, excited voice. When your dog comes to you, Gently take hold of their collar (this prevents grab-the-treat-and-run), mark the behavior, then treat generously. Try to use high value rewards for recall. By gently touching or holding the collar before delivering the reward, you teach your dog that being physically handled is part of the game. You can alternatively lure into a sit when recalled.
 
-Practice inside first. Then in the yard on a long line. Then gradually more distracting environments — always on the long line until you'd bet money on it.
+Practice inside first. Then in the yard on a long line. Then gradually more distracting environments on the long line. Only increase difficulty when your dog is consistently successful at the current level.
 
 **The long line:**
-A 20–30 foot line attached to a harness (not a collar — too much neck pressure if they hit the end). Let them wander and sniff. Call once. If they don't turn toward you within 2–3 seconds, apply gentle pressure toward you on the line. When they arrive — celebrate.
+A long line is one of the best training tools you can own. Use a 15-30 foot line and allow your dog to wander, sniff, and explore. Then call them; if they immediately turn toward you, reward generously when they arrive. If they don't respond within a few seconds, apply gentle pressure on the line to guide them toward you. The goal isn't to drag the dog, it's to help them make the correct choice. When they arrive, celebrate. Every successful repetition builds the habit.
 
-**Never punish a dog that comes to you.** Even if they made you wait, even if they were doing something wrong before. The moment they arrive, it's a party. The goal is a dog that sprints to you because experience has taught them it's always worth it.
+**Never punish a dog that comes to you.** Even if they made you wait, even if they were doing something wrong before. The moment your dog reaches you, the previous behavior is irrelevant. Coming to you should always feel safe and rewarding. The goal is a dog that sprints to you because experience has taught them it's always worth it.
 
 **Poisoned recall:**
-If your dog has already learned that recall means "fun ends" — start fresh with a new word. Pick a word you've never used before and build it from scratch the right way.`,
+If your recall has already become unreliable, don't panic. Many dogs have learned that "come" is optional because of inconsistent training or repeated negative experiences. Sometimes the easiest solution is to start over. Choose a completely new recall word that your dog has never heard before and build it correctly from the beginning. Treat it like a brand-new behavior, protect it, reward it heavily, and avoid using it when you're unsure your dog will succeed.
+
+A reliable recall isn't built through repetition alone. It's built through trust.`,
         checklist: [
           "Recall word decided and never used for negative outcomes",
-          "Collar grab practiced before every reward",
-          "Best treats reserved for recall",
+          "Collar grab or sit practiced before every reward",
+          "Best rewards reserved for recall",
           "Long line acquired for outdoor practice",
           "Never calling if you can't enforce",
-          "Going to get the dog calmly rather than repeating recall",
+          "Never repeating recall",
         ],
       },
       {
@@ -798,58 +812,89 @@ If your dog has already learned that recall means "fun ends" — start fresh wit
         duration: "13 min",
         content: `Loose leash walking is the skill most people want and most dogs don't have. It's also the one that takes the most consistent practice to build.
 
-The goal is not a dog glued to your leg at all times. The goal is a dog that doesn't pull, stays generally in your vicinity, and checks in with you regularly.
+The goal is not a dog glued to your leg at all times. The goal is a dog that doesn't pull, stays generally in your vicinity, and checks in with you regularly. Your dog should be able to explore, sniff, and enjoy the walk while still maintaining leash manners.
 
 **Heel position:**
-Dog on your left, shoulder roughly at your leg, both facing the same direction. Start by rewarding your dog just for standing in this position — before taking a step.
+Start by rewarding position before movement. With your dog on your side, reward them for simply standing beside you. Their shoulder should be roughly even with your leg, with both of you facing the same direction. At first, don't worry about walking, just reward the position. Build the skill where your dog can succeed before adding distractions (house, driveway, backyard, etc).
 
 **Teaching the walk:**
-Take one step. If the dog stays in position, mark and reward before they pull. Take two steps. Mark. Build gradually. The reward happens IN position — not after you stop walking.
+Once your dog understands position, begin taking small steps. Take one step. If your dog remains beside you, mark and reward. Try two steps, then three. Build gradually.
+
+The key is rewarding before your dog makes a mistake. Many owners wait until the dog pulls before responding. Instead, reward the behavior you want while it's happening.
 
 **When they pull:**
-Stop. Dead stop. Don't say anything. Don't reel them in. Wait. The second the leash goes slack or they look back at you — mark, reward, and start moving again. The rule: tension on the leash = you stop. Loose leash = you go.
+When the leash becomes tight, stop completely. Don't jerk the leash, drag the dog, or repeat commands. Simply become a statue. The moment the leash becomes loose again, mark and continue walking.
 
-Be patient. In the beginning you may take 5 steps before stopping again. That's fine. The lesson is being learned.
+Many dogs quickly learn a very simple rule: pulling makes the walk stop, and a loose leash makes the walk continue. The walk itself becomes the reward. This is one of the clearest lessons you can teach.
+
+Another effective method is changing direction the moment tension appears on the leash. Instead of stopping, calmly turn and walk the other way. Don't yank the dog around or make a big correction. Just change direction and keep moving. When your dog catches up and begins paying attention to your movement, reward them. This teaches the dog that forging ahead doesn't get them where they want to go. Staying connected to you does.
+
+Many trainers use a combination of both methods. Sometimes they stop. Sometimes they turn and walk the opposite direction. In both cases, the lesson remains the same: tension on the leash does not move you forward.
 
 **Pattern walking:**
-Change directions constantly — left turns, right turns, about-turns, circles. This keeps the dog focused on you because they never know where you're going next. A dog that's watching you doesn't pull because they're following your lead.
+Pattern walking is another simple way to build engagement. Instead of walking in a straight line, make frequent turns, circles, and direction changes. A dog that never knows exactly where you're going must pay attention to your movement. Dogs that are actively watching their owner tend to pull far less than dogs that are focused entirely on the environment.
 
 **Realistic expectations:**
-Don't expect a puppy to walk perfectly on leash. Expect improvement over weeks and months. Practice in your driveway before you expect it on a busy sidewalk. Build the behavior in low distraction first.
+Be realistic with your expectations, especially if you're working with a puppy. Young dogs are curious, impulsive, and easily distracted. They are not supposed to walk perfectly. Progress should be measured over weeks and months, not days. A successful walk may simply be fewer leash corrections than last week or more check-ins than yesterday.
 
-Equipment note: A front-clip harness reduces pulling through physics and buys you time while you train the actual behavior. It's a management tool, not a training solution — but it makes the process much more manageable.`,
+It's also important to remember that sniffing is not the enemy. For many dogs, sniffing is the entire reason they enjoy walks. Rather than fighting it, use it as a reward. When your dog walks nicely on a loose leash, give them opportunities to investigate interesting smells. This teaches them that staying connected to you creates more freedom, not less.
+
+Equipment can help make the process easier, but it won't teach the behavior for you. A front-clip harness can reduce pulling through simple mechanics and give owners more control while training. Just remember that equipment is a management tool. The actual skill comes from consistent practice and repetition.
+
+The end goal is not perfection. The end goal is a dog that understands staying connected to you is rewarding and that pulling never gets them where they want to go. When that lesson becomes habit, loose leash walking starts to feel effortless.`,
         checklist: [
           "Consistent side established (left is traditional)",
           "Rewarding IN heel position, not after stopping",
-          "Stopping completely the moment leash tightens",
+          "Stopping completely or turning the moment leash tightens",
           "Changing directions frequently during practice",
           "Low-distraction environment used for initial training",
-          "Front-clip harness used if pulling is severe",
         ],
       },
       {
         title: "Place",
         duration: "8 min",
-        content: `Place means "go to your mat or bed and stay there until released." It's one of the most practical commands in daily life.
+        content: `Place means "go to your bed, mat, or designated spot and remain there until released." It is one of the most useful commands you can teach because it gives your dog a clear job and a clear place to be.
 
-A dog on place can't be jumping on guests, begging at the table, getting underfoot in the kitchen, or chaos-ing around when the doorbell rings. It gives your dog a job — and dogs with a job are calmer.
+A dog on place can't jump on guests, beg at the dinner table, pace around the kitchen while you're cooking, or rush the front door every time someone arrives. Instead of constantly telling your dog what not to do, place teaches them exactly what you want them to do.
 
 **What you need:**
-A defined spot — a mat, a raised dog bed, a folded blanket. Something your dog can physically be "on." The more defined the physical boundary, the easier for the dog to understand.
+Choose a clearly defined object for your dog to use as their place. A dog bed, raised cot, mat, or folded blanket all work well. The more obvious the boundary is, the easier it will be for your dog to understand where they are supposed to be.
 
-**Teaching it:**
-Lure or point your dog onto the mat. Mark and reward when all four paws are on it. Start building duration exactly like you did with sit/stay — 1 second, 2 seconds, 5 seconds. Release with your release word.
+Try to use the same object every time while teaching. Consistency helps your dog learn faster and builds a strong association between the cue and the location.
 
-Add distance gradually: take one step back, return, mark and reward. Then two steps. Then walk around the mat. Then walk out of the room briefly.
+**Teaching Place:**
+Begin by guiding your dog onto the mat or bed. You can use a treat to lure them if needed. The moment all four paws are on the place object, mark and reward.
 
-**Proofing place:**
-Once reliable at home, start adding distractions: kids walking by, food dropped on the floor, doorbell sound (use a recording). Start easy and build.
+At first, don't worry about duration. Simply focus on helping your dog understand that being on the bed or mat is what earns rewards. Once they're willingly getting onto place, begin waiting briefly before rewarding. Start with one second, then two seconds, then five seconds. Build gradually and release them before they become restless or decide to leave on their own. Remember that place is not just getting onto the bed. The goal is remaining there calmly until released.
 
-**Sending from a distance:**
-Eventually you want to be able to point to the mat from across the room and have your dog go there. Build this by standing progressively farther away when you give the cue. This takes time but is very useful for real life.
+**Building Duration**
+Duration is where place becomes useful in everyday life. After your dog gets onto place, wait a few seconds before rewarding. As they become successful, slowly increase the amount of time they remain there. Build duration in small increments. Jumping from five seconds to two minutes is a recipe for failure. Instead, work gradually and reward often while your dog is making good choices. 
+
+If your dog gets up repeatedly, the exercise is simply too difficult right now. Shorten the duration and help them succeed. A dog that repeatedly succeeds learns faster than a dog that repeatedly fails.
+
+**Adding Distance**
+Once your dog can remain on place comfortably, begin moving away from them. Start by taking a single step back. Return to your dog, mark, and reward. Then try two steps. Then three. Gradually work up to walking around the room, moving behind furniture, or briefly leaving their sight. Whenever possible, return to your dog to reward them rather than constantly calling them off the bed. This reinforces the idea that staying on place is what earns rewards.
+
+**Proofing Place**
+A command isn't truly learned until it works around distractions. Once your dog understands place at home, begin introducing challenges. Start small and work up gradually. Walk around the room, sit in different chairs, drop a toy nearby, or have another family member move around while your dog remains on place.
+
+As your dog improves, you can add more realistic distractions such as food being prepared, guests entering the house, children running around, or the sound of the doorbell. The key is to increase difficulty slowly enough that your dog continues to succeed.
+
+**Sending Your Dog to Place:**
+Eventually, you want your dog to go to place from anywhere in the room rather than only when standing next to the bed. Start by standing a few feet away when giving the cue. Reward heavily when your dog moves to the mat on their own. As they improve, gradually increase the distance. Over time, your dog will learn to immediately head to their place from across the room whenever they hear the command. This takes repetition and patience, but it transforms place from a training exercise into a practical everyday skill.
 
 **Place at the door:**
-This is the gold standard. Dog hears the doorbell, goes to place, stays there while you answer the door. Takes several weeks to build but transforms your life. Start by practicing the doorbell when nobody is actually at the door.`,
+One of the most valuable uses for place is managing guests. Most dogs become excited when the doorbell rings or someone knocks. Without guidance, this excitement often turns into barking, jumping, rushing the door, or weaving around guests as they enter. Place gives your dog a clear alternative behavior.
+
+The ultimate goal is simple: your dog hears the doorbell, goes to place, and remains there while you answer the door. Start practicing when nobody is actually visiting. Play a doorbell recording at low volume and immediately direct your dog to place. Reward heavily for success. As your dog improves, gradually increase the realism of the exercise. Practice opening the door, stepping outside briefly, or having family members enter and exit. Like all skills, this behavior is built one successful repetition at a time.
+
+**Common Mistakes**
+The biggest mistake owners make is progressing too quickly. They ask for too much duration, too much distance, or too much distraction before the dog is ready.
+
+Another common mistake is only sending the dog to place when something exciting is happening. If place only appears when guests arrive or when the dog is in trouble, it quickly loses value. Practice place during calm moments too. Reward generously, make it enjoyable, and allow your dog to succeed often.
+
+**The Goal**
+Place is more than a command. It's an off-switch. It's a way to help your dog relax, settle, and understand exactly what is expected of them. A reliable place command creates structure, reduces chaos, and gives your dog a clear job during situations that might otherwise be overwhelming.`,
         checklist: [
           "Designated place mat or bed established",
           "Dog going to place on cue reliably",

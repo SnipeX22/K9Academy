@@ -352,11 +352,11 @@ By 4 months, many puppies can hold it for 3–4 hours during the day and sleep t
       },
     ],
     printables: [
-      { name: "Daily Puppy Schedule (8–16 weeks)", type: "PDF" },
-      { name: "Potty Training Log", type: "PDF" },
-      { name: "Socialization Ideas & Info Guide", type: "PDF" },
-      { name: "Milestone Tracker", type: "PDF" },
-      { name: "Crate Training Progress Chart", type: "PDF" },
+      { name: "Daily Puppy Schedule (8–16 weeks)", type: "PDF", url: "https://drive.google.com/file/d/1IqdjgkKO1eymXa-P4-TN05dxCtvOqlad/view?usp=drive_link" },
+      { name: "Potty Training Log", type: "PDF", type: "PDF", url: "https://drive.google.com/file/d/1QYD96QcSv2sE1Yl78oUxqcVZ4CE4QJUW/view?usp=drive_link" },
+      { name: "Socialization Ideas & Info Guide", type: "PDF", type: "PDF", url: "https://drive.google.com/file/d/1vgiRNb7qLX41NTbovga0C-CyJMy265YX/view?usp=drive_link" },
+      { name: "Milestone Tracker", type: "PDF", type: "PDF", url: "https://drive.google.com/file/d/1aYJSvV-UTEwlICCS9382qKu5oIEmpUTp/view?usp=drive_link" },
+      { name: "Crate Training Progress Chart", type: "PDF", type: "PDF", url: "https://drive.google.com/file/d/1LtipjMiYHgcThg2ycwS7Avru-HNmjxqV/view?usp=drive_link" },
     ],
   },
 
@@ -644,9 +644,9 @@ Ask for a sit before meals, eye contact before throwing a toy, a wait before goi
       },
     ],
     printables: [
-      { name: "Daily Enrichment Activity Ideas", type: "PDF" },
-      { name: "Enrichment Ideas by Category", type: "PDF" },
-      { name: "Rainy Day Activity List", type: "PDF" },
+      { name: "Daily Enrichment Activity Ideas", type: "PDF", url: "https://drive.google.com/file/d/1Zwn4BX3Chx8E7S8fJIAZNm5xy0piGxId/view?usp=drive_link" },
+      { name: "Enrichment Ideas by Category", type: "PDF", url: "https://drive.google.com/file/d/1PIfZAWvJrchxD_KjKQya6MV5k67qT5iF/view?usp=drive_link" },
+      { name: "Rainy Day Activity List", type: "PDF", url: "https://drive.google.com/file/d/1VjtR2xXnvnQowOyV77IfW1YsrbPUOnkX/view?usp=drive_link" },
     ],
   },
 
@@ -954,10 +954,10 @@ Place is more than a command. It's an off-switch. It's a way to help your dog re
       },
     ],
     printables: [
-      { name: "Training Session Log", type: "PDF" },
-      { name: "Command Checklist by Week", type: "PDF" },
-      { name: "The 3 Ds Proofing Chart", type: "PDF" },
-      { name: "Tricks & Extra Commands Reference Card", type: "PDF" },
+      { name: "Training Session Log", type: "PDF", url: "https://drive.google.com/file/d/1nLNwfrCy8bH_3lHEelx2E-NGC1AZEJoI/view?usp=drive_link" },
+      { name: "Command Checklist by Week", type: "PDF", url: "https://drive.google.com/file/d/1m_WYbQz2LBWqTv9yMUi6ZQa5JLfMjLOC/view?usp=drive_link" },
+      { name: "The 3 Ds Proofing Chart", type: "PDF", url: "https://drive.google.com/file/d/161_A_vxmx7Jp2ODXthfcDu1BxheWKesm/view?usp=drive_link" },
+      { name: "Tricks & Extra Commands Reference Card", type: "PDF", url: "https://drive.google.com/file/d/1jNgmPxKlRxdl_jGyxzmpb-PlSz7qdypF/view?usp=drive_link" },
     ],
   },
 
@@ -1203,9 +1203,9 @@ You don't need to catch every problem. You just need to notice when something is
       },
     ],
     printables: [
-      { name: "Body Language Quick Reference Guide", type: "PDF" },
-      { name: "Vaccine & Health Schedule", type: "PDF" },
-      { name: "Nutrition Label Reading Guide", type: "PDF" },
+      { name: "Body Language Quick Reference Guide", type: "PDF", url: "https://drive.google.com/file/d/1TTVD2MsoMZwMF-xQZe86cHmauMnMOCNv/view?usp=drive_link" },
+      { name: "Vaccine & Health Schedule", type: "PDF", url: "https://drive.google.com/file/d/1xLSytV8VkPFe2GqDqW0ViJCMFivqyhDL/view?usp=drive_link" },
+      { name: "Nutrition Label Reading Guide", type: "PDF", url: "https://drive.google.com/file/d/1ibLRUIeiOZL7SoWhbzRyCqzhRQsVjRNg/view?usp=drive_link" },
     ],
   },
 ];

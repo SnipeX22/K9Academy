@@ -981,26 +981,45 @@ Place is more than a command. It's an off-switch. It's a way to help your dog re
       {
         title: "Reading Body Language",
         duration: "13 min",
-        content: `Your dog is talking to you constantly. The problem is most people only notice the big signals — a growl, a bite, a tail wag. By then, your dog has been sending messages for several minutes.
+        content: `Your dog is communicating with you constantly. The problem is that most people only notice the obvious signals—a wagging tail, a growl, barking, or a bite. By the time a dog reaches those bigger behaviors, they've often been communicating their feelings for quite a while.
 
-Dogs don't bite without warning. They warn — we just don't see it. Understanding these signals lets you intervene early, reduce stress, and prevent problems entirely.
+Learning to read body language allows you to identify stress, fear, excitement, and discomfort early. This helps prevent problems before they happen and gives you a better understanding of what your dog is experiencing. The better you become at reading your dog, the better you'll become at training them.
 
-**Relaxed, happy dog:**
-Loose, wiggly body — the whole body moves, not just the tail. Soft, relaxed eyes with no tension around them. Mouth slightly open, relaxed. Tail in a neutral position wagging loosely. Weight distributed evenly. Smooth coat. Play bow (front end down, rear up) means "I want to play."
+**The Whole Dog Matters:**
+One of the biggest mistakes people make is focusing on a single body part. A wagging tail does not automatically mean a happy dog. Raised hackles do not automatically mean aggression. Pinned ears do not automatically mean fear. Body language should always be evaluated as a complete picture. Look at the dog's eyes, ears, mouth, tail, posture, movement, and the situation they're in. Context matters.
 
-**Stress signals (low level — these come first):**
-Yawning outside of being tired. Lip licking when there's no food. Looking away or turning the head. Sniffing the ground suddenly in a social situation. Shaking off (like after a bath) with no moisture. Showing the whites of the eyes (whale eye). A slightly tucked tail. Ears slightly pinned back. Panting when it isn't hot.
+**Relaxed and Comfortable Body Language:**
+A relaxed dog looks soft and loose. Their body moves freely without stiffness or tension. Their muscles appear relaxed, their movements are smooth, and they generally seem comfortable in their environment.
 
-These signals are often missed completely. When a dog is showing these in a situation, they are communicating discomfort. The appropriate response is to reduce the pressure on them — more distance, less intensity, remove the stressor.
+Common signs of a relaxed dog include: a loose, wiggly body, soft eyes with no tension around them, a relaxed mouth that may be slightly open, natural ear position, a tail held in a neutral position with a loose wag, even weight distribution, relaxed movement.
+A dog that feels safe and comfortable generally looks effortless. Nothing appears rigid or forced.
+
+**Early Stress Signals:**
+Stress signals are often subtle. They're easy to miss because they don't look dramatic, but they're some of the most important forms of communication your dog has. Yawning outside of being tired. Lip licking when there's no food. Looking away or turning the head. Sniffing the ground suddenly in a social situation. Shaking off (like after a bath) with no moisture. Showing the whites of the eyes (whale eye). A slightly tucked tail. Ears slightly pinned back. Panting when it isn't hot.
+
+These signals are often missed completely, and usually appear before barking, growling, or reactive behavior. When your dog begins showing stress signals, don't ignore them. Don't force them to "work through it." Instead, make the situation easier. Increase distance from the trigger. Reduce distractions. Lower your expectations. Give your dog time to process what's happening. Many behavior problems can be prevented simply by noticing stress earlier and responding appropriately. A dog that feels safe learns more effectively than a dog that feels overwhelmed.
 
 **Escalating arousal signals:**
-Stiff body — all the looseness disappears. Hackles raised along the spine (can indicate excitement OR threat — context matters). Hard, fixed stare. Weight shifted forward onto the front feet. Tail held high and stiff (different from a loose wag). Lips pulled tight. Closed mouth.
+As a dog's emotional state intensifies, their body language often becomes more obvious. This doesn't necessarily mean aggression. Arousal can be caused by excitement, frustration, prey drive, fear, or social conflict. A stiff body — all the looseness disappears. Hackles raised along the spine (can indicate excitement OR threat — context matters). Hard, fixed stare. Weight shifted forward onto the front feet. Tail held high and stiff (different from a loose wag). Lips pulled tight. Closed mouth.
 
 **The ladder of aggression:**
 Dogs communicate discomfort in escalating steps: yawn → look away → sniff ground → freeze → growl → snap → bite. A dog that bites "without warning" almost always warned — the warnings were missed. A growl is important communication, not a behavior to punish away.
 
+**Never Punish a Growl:**
+A growl is valuable information. It tells you your dog is uncomfortable and that the situation needs attention. Punishing a growl does not remove the discomfort, it simply removes the warning.
+
+The goal should be understanding why the dog felt the need to growl and addressing the underlying cause. A dog that learns growling is unsafe may skip directly to stronger forms of communication in the future.
+
+**Body Language During Training:**
+Your dog's body language should influence your training decisions. If your dog is repeatedly showing stress signals, becoming disengaged, or struggling to focus, the session may be too difficult. Ask yourself: Is the environment too distracting? Is the session too long? Am I asking for too much? Does my dog understand the exercise?
+
+Training should challenge your dog, not overwhelm them. The best trainers constantly adjust based on what the dog is communicating.
+
+**The ladder of aggression:**
+Dogs rarely jump directly to biting. Most dogs communicate discomfort through a series of escalating signals. A simplified version often looks like this: Stress signals → avoidance → freezing → growling → snapping → biting The exact sequence varies between dogs, but the principle remains the same. Dogs generally prefer communication over conflict. The problem is that humans frequently miss or ignore the earlier warnings.
+
 **Why this matters practically:**
-When you see early stress signals in training — your dog is telling you the session is too hard, too long, or too distracting. Adjust rather than push through. A dog that feels heard and safe learns faster.`,
+When you see early stress signals in training — your dog is telling you the session is too hard, too long, or too distracting. Adjust rather than push through. A dog that feels heard and safe learns faster. Once you can read those signals, you'll stop guessing how your dog feels.`,
         checklist: [
           "Can identify 5+ stress signals",
           "Watching for yawning and lip licking during training",

@@ -1032,29 +1032,61 @@ When you see early stress signals in training — your dog is telling you the se
       {
         title: "Genetics, Drives & Breed Instincts",
         duration: "10 min",
-        content: `Every dog breed was developed for a purpose. That purpose is still running in your dog's software, even if they've never done the job they were bred for.
+        content: `Every dog breed was developed for a purpose. Even if your dog has never herded sheep, hunted birds, guarded property, or tracked a scent trail, those instincts are still there. Generations of selective breeding created dogs that naturally think, react, and behave in certain ways. Understanding what your dog was bred to do helps explain many common behaviors. What owners often view as stubbornness, hyperactivity, reactivity, or disobedience is frequently just a dog expressing instincts they were specifically bred to have.
 
-This matters because many "problem behaviors" are just dogs doing what they were built to do. Understanding this shifts your approach from frustration to problem-solving.
+The goal isn't to suppress those instincts. The goal is to provide appropriate outlets for them.
 
-**Herding breeds (German Shepherd, Border Collie, Australian Shepherd, Heeler):**
-Bred to control the movement of livestock. They will try to control movement around them — children running, cyclists, other dogs. This is instinct, not aggression. Channel it into sport, games, and obedience.
+**Herding breeds:**
+German Shepherds, Border Collies, Australian Shepherds, Heelers, Corgis, and similar breeds were developed to control the movement of livestock. Because of this, many herding breeds are naturally drawn to movement. They may chase bicycles, joggers, children, squirrels, cars, or other dogs. Some will nip at heels, circle moving groups, or become frustrated when they can't control activity around them. These behaviors are usually not signs of aggression. They are instinctive behaviors that need direction and structure.
+
+Herding breeds typically thrive when given jobs. Obedience training, agility, rally, disc sports, scent work, trick training, and advanced engagement exercises often help satisfy their need to think and work.
 
 **Terriers:**
-Bred to hunt, chase, and kill vermin. Independently minded, tenacious, high prey drive for small animals. Recall can be difficult because historically they worked at a distance from the handler. Not broken — built.
+Terriers were developed to hunt and eliminate vermin. They were bred to enter burrows, pursue prey independently, and solve problems without human assistance. As a result, many terriers are confident, determined, and surprisingly stubborn. They often have strong prey drive and may become highly interested in squirrels, rabbits, birds, cats, and other small animals. Recall can be more challenging because these breeds were intentionally bred to work away from their handlers. This doesn't mean they're poorly trained. It means you're working with a dog that was designed to make decisions independently.
 
-**Retrievers (Labrador, Golden, Flat-Coat):**
-Bred to pick up and carry game gently and return it to the hunter. Social, food-motivated, biddable. Often easier to train but need significant daily exercise or they become destructive.
+Terriers often enjoy flirt poles, scent games, digging areas, and activities that allow them to chase, search, and problem-solve.
 
-**Guardian breeds (Rottweiler, Cane Corso, Mastiff):**
-Bred to protect. Naturally reserved or suspicious with strangers, territorial, deeply loyal to family. Need significant socialization and a confident handler. Misunderstood breed behavior is often just guardian instinct.
+**Retrievers:**
+Labrador Retrievers, Golden Retrievers, Flat-Coated Retrievers, Chesapeake Bay Retrievers, and similar breeds were developed to locate game birds, carry them gently, and return them to the hunter. Many retrievers naturally enjoy carrying objects, playing fetch, and interacting with people. They are often highly food-motivated, eager to learn, and relatively easy to train. Because they were bred to work alongside humans, many retrievers naturally enjoy cooperation and engagement.
 
-**Scent hounds (Beagle, Bloodhound, Basset):**
-Their nose overrides almost everything. Built to follow a scent trail independently. Recall is a challenge. Management and a long line are your friends.
+That said, they are still sporting dogs and generally require significant physical exercise and mental stimulation. A bored retriever often finds ways to entertain themselves, which may involve chewing, stealing items, counter surfing, or creating general household chaos.
 
-**Understanding drives:**
-Prey drive — desire to chase, catch, and interact with moving objects. Play drive — desire to interact with handler and toys. Pack drive — desire to be with and please their social group. Defense drive — response to perceived threat.
+**Guardian breeds:**
+Rottweilers, Cane Corsos, Mastiffs, Great Pyrenees, Anatolian Shepherds, and similar breeds were developed to protect people, livestock, or property. These breeds are often naturally reserved around strangers and tend to be more observant than outwardly social. While many owners expect every dog to greet strangers enthusiastically, that isn't necessarily normal behavior for guardian breeds. A well-socialized guardian dog should be neutral and confident, not fearful or reactive.
 
-Dogs with higher drives need more outlets, more training, and more engagement. The payoff is a dog that is more responsive and more capable.`,
+Guardian breeds benefit from extensive socialization and exposure to a variety of people, environments, and situations during puppyhood. The goal is not to make them love everyone. The goal is to teach them that most things in life are not threats.
+
+**Scent hounds:**
+Beagles, Bloodhounds, Basset Hounds, Coonhounds, and similar breeds experience the world primarily through their noses. Once a scent becomes interesting, everything else may suddenly become less important. Many scent hounds are not ignoring their owners because they're stubborn. They're simply doing exactly what they were bred to do. Because of this, reliable recalls often take longer to build and management becomes especially important. Long lines, fenced areas, and structured training are valuable tools for these breeds.
+
+Nose work, scent games, tracking, and food searches are often extremely fulfilling outlets.
+
+**Scent hounds:**
+Beagles, Bloodhounds, Basset Hounds, Coonhounds, and similar breeds experience the world primarily through their noses. Once a scent becomes interesting, everything else may suddenly become less important. Many scent hounds are not ignoring their owners because they're stubborn. They're simply doing exactly what they were bred to do. Because of this, reliable recalls often take longer to build and management becomes especially important. Long lines, fenced areas, and structured training are valuable tools for these breeds.
+
+**Sighthounds:**
+Greyhounds, Whippets, Salukis, Borzois, and similar breeds were developed to visually spot and chase prey at incredible speed. These dogs are often calm indoors but can become intensely focused on movement outdoors. Many have powerful chase instincts and should not be trusted off-leash in unsecured areas unless they have exceptional training and reliability.
+
+Sighthounds often enjoy lure coursing, chase games, and activities that allow them to use their natural athleticism.
+
+**Working Breeds:**
+Dobermans, Boxers, Belgian Malinois, Giant Schnauzers, and many other working breeds were developed to perform demanding tasks alongside humans. These dogs tend to be intelligent, energetic, and highly trainable. The upside is that they often excel in advanced training. The downside is that they typically require more engagement than the average pet dog.
+
+Without adequate outlets, many working breeds create their own jobs, and owners don't always appreciate the jobs they choose.
+
+**Food Drive**
+Food drive is the desire to work for food rewards. Dogs with high food drive are often easier for beginner owners to train because reinforcement is simple and consistent. Food drive can be developed and maintained through training, enrichment, and thoughtful use of meals. A dog that values food gives you countless opportunities to reward good behavior.
+
+ **Toy & Play Drive** 
+Some dogs care more about toys than treats. These dogs may find a ball, tug toy, frisbee, or game of chase more rewarding than food. Play drive can become one of the most powerful rewards in training because it creates excitement, engagement, and enthusiasm. Many working and sport dogs perform entire training sessions for the opportunity to play.
+
+**Nature vs. Training** 
+Breed traits explain tendencies, not destiny. A Labrador can struggle with recall. A terrier can have excellent obedience. A German Shepherd can be calm around children. Training, socialization, genetics, environment, and individual personality all play a role. Breed tendencies simply help explain why certain behaviors may come more naturally to some dogs than others.
+
+ **The Goal**
+The more you understand what your dog was bred to do, the easier it becomes to meet their needs. Instead of asking, "How do I stop my dog from doing this?" A better question is often: "What instinct is my dog trying to express, and how can I give them an appropriate outlet for it?"
+
+When you work with your dog's instincts instead of against them, training becomes easier, frustration decreases, and your relationship becomes much stronger.`,
         checklist: [
           "Researched original purpose of your dog's breed",
           "Identified primary drives in your dog",
@@ -1065,24 +1097,44 @@ Dogs with higher drives need more outlets, more training, and more engagement. T
       {
         title: "Working Lines vs. Show Lines",
         duration: "8 min",
-        content: `This distinction is most visible in German Shepherds, Belgian Malinois, Labrador Retrievers, and Cocker Spaniels — but the concept applies across many breeds.
+        content: `Many dog breeds have gradually split into two different populations: dogs bred primarily for appearance and dogs bred primarily for performance.
 
-**Show lines** are bred for conformation: how they look in the ring. Over generations, selection pressure shifts toward appearance — coat quality, structure, movement, proportions. Working ability becomes secondary.
+This distinction is most obvious in breeds like German Shepherds, Belgian Malinois, Labrador Retrievers, Golden Retrievers, Cocker Spaniels, and several sporting breeds, but the concept exists across much of the dog world. Understanding the difference can help explain why two dogs of the same breed may behave completely differently despite looking similar on paper.
 
-**Working lines** are bred for performance. In shepherds and protection breeds, that means tracking, protection work, and detection. In labs, that means hunting ability and biddability. Selection pressure is entirely on what the dog can do.
+**Show lines:** 
+Show lines are bred primarily for conformation. In other words, breeders select dogs based on how closely they match the breed standard and how well they perform in the show ring. Over many generations, this selection pressure emphasizes traits such as structure, movement, coat quality, proportions, and overall appearance. This doesn't mean show line dogs can't work. Many certainly can. However, performance traits often become secondary to appearance when breeding decisions are made.
 
-**What this produces:**
-Show lines tend to be softer temperamentally, lower drive, more relaxed about life. They're often easier pets for average households.
+As a result, many show lines tend to be lower drive, easier to live with, and more forgiving of training mistakes than their working line counterparts. For the average pet owner, this often makes them easier companions.
 
-Working lines tend to have higher drive, sharper nerves, more intensity, and more demanding exercise and mental stimulation needs. They also give more back when those needs are met — deeper engagement, more capability, stronger bond.
+**Working lines:** 
+Working lines are bred with performance as the primary goal. The exact traits being selected for depend on the breed. For German Shepherds and Belgian Malinois, this often means tracking ability, protection work, detection work, athleticism, trainability, environmental confidence, and working drive. For Labrador Retrievers, it may mean hunting ability, retrieving instinct, biddability, and endurance. For sporting breeds, it may mean field performance and working instinct.
 
-**German Shepherd specifically:**
-Show line GSDs have a more sloped back and angulated rear. Working lines have a straighter back and more compact body. West German show lines are a middle ground — more drive than most show lines but more stable than pure Czech or DDR working lines.
+Generation after generation, the dogs that perform best are chosen for breeding. The result is often a dog with greater intensity, higher energy, stronger drives, and a greater desire to work.
+
+**Temperament Differences:**
+One of the biggest differences owners notice is intensity. Many show line dogs are content with a relatively simple lifestyle. They enjoy walks, training sessions, family time, and moderate exercise. Working line dogs often demand more. Many have a stronger desire to chase, search, tug, retrieve, solve problems, and engage with their environment. They frequently require more mental stimulation in addition to physical exercise.
+
+This doesn't make them "better." It simply makes them different. The right dog depends entirely on the owner's lifestyle and goals.
+
+**Drive and Energy:**
+A common mistake is assuming exercise alone will satisfy a working line dog. In reality, many working dogs need both physical and mental outlets. A thirty-minute walk may leave their body tired, but their brain still wants a job. This is why working line dogs often excel in obedience, agility, scent work, tracking, protection sports, dock diving, etc.
+
+The more appropriate outlets they receive, the easier they generally become to live with.
+
+**The Pros and Cons of Working Lines:**
+Working lines offer incredible potential. They are often highly trainable, deeply engaged with their handlers, and capable of advanced work that would be difficult for many pet-bred dogs.
+
+The tradeoff is that they typically require more investment. A working line dog that receives training, structure, and outlets often becomes an exceptional companion. A working line dog that receives none of those things may invent their own activities, and owners rarely enjoy the jobs they choose. Many behavioral problems in working dogs stem from unmet needs rather than bad temperaments.
+
+**The Pros and Cons of Show Lines:**
+Show lines are often criticized unfairly by working dog enthusiasts. Lower drive does not mean lower quality. Many show line dogs make outstanding companions because they fit naturally into modern households. They still require training, exercise, and enrichment, but their needs are often easier for the average family to meet.
+
+For many owners, a moderately driven dog is actually the better choice. The best dog is not the one with the most drive. The best dog is the one whose needs match your lifestyle.
 
 **What this means for you:**
-If you have a working line dog in a pet home, that's not a problem — it's an opportunity. These dogs can do incredible things when their needs are met. But managing expectations matters: a working line shepherd needs more than a 30-minute walk and a bowl of kibble. The more you put in, the more you get out.
+Understanding working lines and show lines helps set realistic expectations. If your working line dog seems intense, demanding, and constantly ready for the next challenge, that's not a flaw. It's the result of generations of selective breeding. If your show line dog seems more relaxed, less driven, or easier to settle, that's not a flaw either. That was the goal. Neither type is inherently better. 
 
-If you have a show line dog and they seem lower energy or less intense — that's not a flaw, it's by design. Their needs are still real, just different in scale.`,
+The key is recognizing the dog in front of you, understanding what they were bred to be, and giving them an outlet that allows them to thrive.`,
         checklist: [
           "Know whether your dog is working or show line (if applicable)",
           "Expectations calibrated to actual drive level",
@@ -1092,24 +1144,53 @@ If you have a show line dog and they seem lower energy or less intense — that'
       {
         title: "Health & Nutrition Basics",
         duration: "9 min",
-        content: `You don't need to be a veterinarian. You need to know your dog well enough to notice when something is off — and understand the basics that keep them healthy.
+        content: `You don't need to be a veterinarian to keep your dog healthy.
+
+What you do need is a basic understanding of nutrition, preventive care, and the ability to recognize when something isn't normal. Nobody knows your dog better than you do. If you pay attention to their appetite, energy level, bathroom habits, and behavior, you'll often notice problems long before they become serious. The goal isn't to diagnose every issue yourself. The goal is knowing when something deserves attention.
 
 **Nutrition basics:**
-Look for a food where the first ingredient is a named meat protein — chicken, beef, salmon, turkey. "Meat meal" and "animal by-products" are lower-quality protein sources. Look for an AAFCO statement that says "complete and balanced for all life stages" or appropriate to your dog's age.
+Good nutrition is one of the most important investments you can make in your dog's health. There are endless debates about kibble, raw feeding, fresh food, grain-free diets, supplements, and feeding philosophies. Most of those debates matter far less than people think.
 
-How much to feed: Most bag guidelines overestimate. Feed for the body condition you want, not the weight they are. You should be able to feel the ribs with light pressure but not see them. For active dogs doing regular training, needs will be higher.
+The most important thing is feeding a complete and balanced diet that your dog does well on. When evaluating a food, look for a named protein source such as chicken, beef, salmon, turkey, lamb, or another identifiable meat. You should also look for an AAFCO statement indicating the food is complete and balanced for your dog's life stage. Ultimately, the "best" food is the one your dog thrives on. A shiny coat, healthy stool, good energy levels, healthy weight, and a strong appetite are often more important than marketing claims on the bag.
+
+Most feeding guidelines printed on food bags are exactly that—guidelines. They provide a starting point, not a rule. Every dog is different. Age, genetics, metabolism, activity level, environment, and overall health all influence how many calories a dog needs.
+
+Instead of feeding strictly according to the bag, feed according to body condition. You should be able to easily feel your dog's ribs with light pressure, but they shouldn't be visibly protruding in most breeds. From above, your dog should have a noticeable waist. From the side, you should see an abdominal tuck rather than a straight line from chest to hips. If your dog is gaining unwanted weight, reduce calories. If they're losing weight unintentionally, increase them. The dog in front of you matters more than the feeding chart.
 
 **Puppy vs. adult food:**
-Large breed puppies have specific calcium:phosphorus requirements. A large breed puppy food or an all-life-stages food formulated for large breeds prevents developmental bone problems. Don't rush a large breed puppy onto adult food — most should stay on puppy food until 12–18 months.
+Puppies are not simply small adult dogs. Their nutritional needs are different because they're actively growing and developing. This is especially important for large and giant breed puppies. Breeds such as German Shepherds, Labrador Retrievers, Golden Retrievers, Great Danes, Mastiffs, and similar dogs have specific calcium and phosphorus requirements during development.
 
-**Warning signs — see a vet:**
-Lethargy lasting more than 24 hours. Loss of appetite for more than one meal. Vomiting or diarrhea more than once. Bloated or distended abdomen — this is an emergency, especially in large deep-chested breeds. Limping, crying when touched, or sudden personality changes. Pale or white gums — this is an emergency.
+Feeding a properly formulated large breed puppy food helps support controlled growth and healthy bone development. Many large breed dogs should remain on puppy food until approximately 12 to 18 months of age, depending on their breed and growth rate. Rapid growth is not the goal, healthy growth is.
+
+**Hydration Matters:**
+Fresh water should always be available. While this sounds obvious, water intake can provide valuable information about your dog's health. A dog that suddenly drinks significantly more or significantly less water than normal may be showing early signs of illness. Pay attention to changes. Normal habits are often more important than exact numbers.
+
+**Healthy Weight Matters:**
+Excess weight is one of the most common health problems in pet dogs. Unfortunately, many owners don't recognize it because overweight dogs have become so common. Even a few extra pounds can place additional stress on joints, reduce stamina, increase the risk of certain diseases, and shorten overall lifespan. Keeping your dog lean is one of the simplest ways to improve both quality and length of life.
+
+**Warning signs — When to see a vet:**
+Trust your instincts. If something seems significantly different from your dog's normal behavior, it's worth paying attention to. Some common warning signs include: Loss of appetite lasting longer than a meal or two, significant lethargy, repeated vomiting, repeated diarrhea, difficulty breathing, limping, pain when touched, sudden behavioral changes, or anything that seems dramatically out of character for your dog.
+
+When in doubt, call your veterinarian. It's always better to ask questions early than wait until a problem becomes more serious.
+
+**Emergency Warning Signs:**
+Some situations require immediate veterinary attention. A bloated or distended abdomen, especially in large deep-chested breeds, should always be treated as an emergency. Conditions such as gastric dilatation-volvulus (GDV or bloat) can become life-threatening very quickly. Pale, gray, or white gums can indicate shock, internal bleeding, or other serious medical issues and should never be ignored. Difficulty breathing, collapse, seizures, severe trauma, or suspected toxin ingestion also require immediate veterinary care.
+
+If you aren't sure whether something is an emergency, call an emergency veterinary clinic and ask.
 
 **Preventive care:**
-Puppy vaccine series at 8, 12, and 16 weeks. Rabies per your local laws. Annual or tri-annual boosters depending on which vaccines. Monthly heartworm prevention year-round. Flea and tick prevention based on your region. Annual wellness exam minimum — twice a year for seniors.
+Preventing health problems is almost always easier, less stressful, and less expensive than treating them. Most puppies receive a series of vaccinations beginning around 8 weeks of age and continuing through approximately 16 weeks. Rabies vaccination requirements vary by location but are required by law in many areas. Adult dogs typically require periodic boosters based on your veterinarian's recommendations and local disease risks. Heartworm prevention is strongly recommended in most areas and is especially important in regions where mosquitoes are common. Flea and tick prevention should be tailored to your location and lifestyle. Even healthy dogs should receive regular wellness exams. Annual visits are generally recommended for adult dogs, while senior dogs often benefit from veterinary exams every six months.
 
 **Dental health:**
-Dental disease is the most common health problem in dogs and most owners don't address it. Daily brushing with dog-safe toothpaste is ideal. Raw meaty bones (appropriate size) help. Annual dental cleanings under anesthesia if your vet recommends them.`,
+Dental disease is one of the most common health issues seen in dogs, yet it is frequently overlooked. Bad breath is not normal. It's often one of the first signs of dental disease. Plaque and tartar buildup can lead to painful infections, damaged teeth, and even health problems affecting other organs. The gold standard for dental care is regular brushing with dog-safe toothpaste. Even a few brushing sessions per week can make a significant difference. Dental chews, appropriate chewing activities, and veterinary dental cleanings may also help maintain oral health. Like most health issues, prevention is much easier than treatment.
+
+**Supplements:**
+Most healthy dogs eating a complete and balanced diet do not require extensive supplementation. That said, some dogs may benefit from products such as fish oil, joint supplements, probiotics, or veterinarian-recommended supplements based on their age, lifestyle, or medical history. More supplements do not automatically equal better health. Always focus on nutrition, exercise, sleep, and preventive care before worrying about complicated supplement routines.
+
+**The Goal:**
+Good health care doesn't require perfection. Feed a quality diet, maintain a healthy weight, provide regular exercise, stay current on preventive care, and pay attention to changes in your dog's behavior.
+
+You don't need to catch every problem. You just need to notice when something isn't normal. Nobody sees your dog more than you do, and that makes you one of the most important parts of their healthcare team.`,
         checklist: [
           "Food has named meat protein as first ingredient",
           "AAFCO 'complete and balanced' statement confirmed",

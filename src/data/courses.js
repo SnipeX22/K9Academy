@@ -929,6 +929,8 @@ Place is more than a command. It's an off-switch. It's a way to help your dog re
 
 "Find It" — Toss a treat nearby and tell your dog to find it. Allow them to use their nose to search. This is a simple enrichment activity and a great way to redirect attention away from distractions.
 
+**Touch / Nose target** — Hold out a flat palm. Most dogs will naturally investigate and touch it with their nose. Mark the moment their nose makes contact and reward. Touch is one of the most versatile behaviors you can teach. It can be used for recalls, positioning, confidence building, obstacle training, and redirecting attention.
+
 
 **Fun Tricks:**
 
@@ -940,9 +942,7 @@ Place is more than a command. It's an off-switch. It's a way to help your dog re
 
 **Speak** — Wait for your dog to bark naturally, mark it, and reward. Once they're reliably offering the behavior, add the verbal cue.
 
-**Around** — Place a cone, chair, tree, or other object nearby. Lure your dog around it and reward when they complete the circle. Great for building body awareness and directional signals.
-
-**Touch / Nose target** — Hold out a flat palm. Most dogs will naturally investigate and touch it with their nose. Mark the moment their nose makes contact and reward. Touch is one of the most versatile behaviors you can teach. It can be used for recalls, positioning, confidence building, obstacle training, and redirecting attention.`,
+**Around** — Place a cone, chair, tree, or other object nearby. Lure your dog around it and reward when they complete the circle. Great for building body awareness and directional signals.`,
         checklist: [
           "Leave it started — treat in closed fist",
           "'Wait' being used at doors and before meals",

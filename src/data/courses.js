@@ -907,23 +907,30 @@ Place is more than a command. It's an off-switch. It's a way to help your dog re
       {
         title: "Bonus: Extra Commands & Fun Tricks",
         duration: "12 min",
-        content: `Once the basics are solid, this is where training gets fun. Tricks serve real purposes — they keep your dog mentally engaged, build your communication, and give you a way to show off a little.
+        content: `Once the basics are solid, this is where training gets fun. Tricks serve real purposes; they keep your dog mentally engaged, build your communication, and give you a way to show off a little.
 
 **Practical extras:**
 
-"Leave it" — teaches your dog to ignore something on cue. Start by putting a treat in your closed fist. When they stop trying to get it and pull back, mark and reward from the other hand. Build to treats on the floor, then high-value items, then distractions on walks.
+"Leave it" — teaches your dog to ignore something on cue. Start by putting a treat in your closed fist. When they stop trying to get it, mark and reward from the other hand. Do not reward with the "leave it" treat. Build to treats on the floor, then high-value items, then distractions on walks.
 
-"Wait" — a soft version of stay used for doors, cars, and feeding time. Dog pauses until released, but it's not a formal position hold. Great for preventing door-bolting.
+"Wait" — a soft version of stay used for doors, cars, and feeding time. The dog pauses until released, but it's not a formal position hold. Great for preventing door-bolting.
 
 "Off" — teaches a dog to remove themselves from furniture, people, or counters. Different from "down" (which means lie on the floor). "Off" means get off whatever you're on.
 
-"Drop it" / "Give" — essential for dogs that pick up things they shouldn't. Teach by offering a trade: dog has an item, you offer a better one and say "drop it" as they release. Never chase your dog to take something — they learn that having things makes you come to them.
+"Drop it" / "Out" — essential for dogs that pick up things they shouldn't. Teach by offering a trade: dog has an item, you offer a better one and say "drop it" as they release. Never chase your dog to take something, they learn that having things makes you come to them.
 
-"Go to your crate" — teaching this on cue means you're not wrestling your dog into their crate every time. Same as place training — lure in, mark, reward, build duration.
+"Crate" — teaching this on cue means you're not wrestling your dog into their crate every time. Same as place training — lure in, mark, reward, build duration.
 
-─────────────────────────────
+"Middle" / "Center" — Teach your dog to move between your legs and stand there comfortably. Lure them through your legs and reward when they're centered between them. This position can be useful in crowds, busy environments, or situations where you want your dog close and focused.
+
+"Focus" — Hold a treat near your face and reward eye contact. As your dog improves, begin waiting for them to offer eye contact without assistance. This becomes one of the most useful focus-building exercises you can teach.
+
+"Watch" — Similar to "focus", except have the dog watch a target. Start with treats, toys, or anything that interests the dog.
+
+"Find It" — Toss a treat nearby and tell your dog to find it. Allow them to use their nose to search. This is a simple enrichment activity and a great way to redirect attention away from distractions.
+
+
 **Fun Tricks:**
-─────────────────────────────
 
 **Shake / Paw** — Hold a treat in your closed fist near their paw. Many dogs will naturally paw at your hand. The moment they touch your hand with their paw, mark and reward. Add the verbal cue.
 
@@ -931,11 +938,11 @@ Place is more than a command. It's an off-switch. It's a way to help your dog re
 
 **Rollover** — From a down, lure the treat from their nose around toward their shoulder so they naturally roll. This takes several sessions to build — reward partial rolls at first (shaping).
 
-**Bow** — Lure the treat down from their nose to between their front paws without letting them sit. Many dogs naturally offer this as a stretch.
+**Speak** — Wait for your dog to bark naturally, mark it, and reward. Once they're reliably offering the behavior, add the verbal cue.
 
-**Go around** — A cone or chair leg to lure your dog around. Great for building body awareness and directional signals.
+**Around** — Place a cone, chair, tree, or other object nearby. Lure your dog around it and reward when they complete the circle. Great for building body awareness and directional signals.
 
-**Touch / Nose target** — Hold out a flat palm. Most dogs will sniff or bump it. Mark the moment their nose touches your palm. This is one of the most useful behaviors — you can use nose targeting to guide your dog into positions, through obstacles, or as a distraction in stressful situations.`,
+**Touch / Nose target** — Hold out a flat palm. Most dogs will naturally investigate and touch it with their nose. Mark the moment their nose makes contact and reward. Touch is one of the most versatile behaviors you can teach. It can be used for recalls, positioning, confidence building, obstacle training, and redirecting attention.`,
         checklist: [
           "Leave it started — treat in closed fist",
           "'Wait' being used at doors and before meals",

@@ -85,7 +85,7 @@ export default function PurchaseModal({ courseId, user, onClose, onSimulatePurch
             <p style={{fontSize:13,color:"var(--muted)",textAlign:"center",marginBottom:14,lineHeight:1.7}}>
               Secure checkout via Stripe. Return here after payment to access your courses.
             </p>
-            <a className="btn btn-gold btn-block" href={STRIPE[courseId]} target="_blank" rel="noreferrer">
+            <a className="btn btn-gold btn-block" href={stripeLink + (applied ? `?prefilled_promo_code=${applied.code}` : '')} target="_blank" rel="noreferrer">
               Pay ${finalPrice.toFixed(2)} with Stripe →
             </a>
           </>

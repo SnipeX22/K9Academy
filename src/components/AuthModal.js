@@ -19,7 +19,7 @@ export default function AuthModal({ mode, onClose, onAuth }) {
       ? await fb.signIn(email, password)
       : await fb.signUp(email, password);
     if (err) { setError(err); setLoading(false); return; }
-    const courseIds = await sheets.getPurchases(user.uid);
+    const courseIds = await sheets.getPurchases(user.uid, user.email);
     onAuth(user, courseIds);
     setLoading(false);
   }

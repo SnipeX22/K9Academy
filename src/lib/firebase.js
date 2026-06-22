@@ -91,14 +91,14 @@ async function sheetRequest(payload) {
 export const sheets = {
   // ── Purchases ──
 
-  async getPurchases(uid) {
-    if (DEMO) return cache.purchases[uid] || [];
-    if (cache.purchases[uid]) return cache.purchases[uid];
-    const res = await sheetRequest({ action: "getPurchases", uid });
-    const ids = res?.courseIds || [];
-    cache.purchases[uid] = ids;
-    return ids;
-  },
+  async getPurchases(uid, email) {
+  if (DEMO) return cache.purchases[uid] || [];
+  if (cache.purchases[uid]) return cache.purchases[uid];
+  const res = await sheetRequest({ action: "getPurchases", uid, email });
+  const ids = res?.courseIds || [];
+  cache.purchases[uid] = ids;
+  return ids;
+},
 
   async savePurchase(uid, email, courseId) {
     if (DEMO) {

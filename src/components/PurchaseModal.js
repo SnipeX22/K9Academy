@@ -19,11 +19,16 @@ export default function PurchaseModal({ courseId, user, onClose, onSimulatePurch
   const [applied, setApplied] = useState(null);
   const [codeErr, setCodeErr] = useState("");
   const [codeLoading, setCodeLoading] = useState(false);
-  const isDemo = fb.isDemo() || !STRIPE[courseId];
+
+  // Fix: define stripeLink properly
+  const stripeLink = STRIPE[courseId] || "";
+  const isDemo = fb.isDemo() || !stripeLink;
 
   const finalPrice = applied
     ? Math.max(0, Math.round(basePrice * (1 - applied.percent_off / 100) * 100) / 100)
     : basePrice;
+
+  const stripeUrl = stripeLink + (applied ? `?prefilled_promo_code=${applied.code}` : "");
 
   async function applyCode() {
     if (!code.trim()) return;
@@ -85,7 +90,7 @@ export default function PurchaseModal({ courseId, user, onClose, onSimulatePurch
             <p style={{fontSize:13,color:"var(--muted)",textAlign:"center",marginBottom:14,lineHeight:1.7}}>
               Secure checkout via Stripe. Return here after payment to access your courses.
             </p>
-            <a className="btn btn-gold btn-block" href={stripeLink + (applied ? `?prefilled_promo_code=${applied.code}` : '')} target="_blank" rel="noreferrer">
+            <a className="btn btn-gold btn-block" href={stripeUrl} target="_blank" rel="noreferrer">
               Pay ${finalPrice.toFixed(2)} with Stripe →
             </a>
           </>

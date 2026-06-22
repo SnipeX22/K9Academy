@@ -8,6 +8,7 @@ import Dashboard from "./components/Dashboard";
 import AdminPanel from "./components/AdminPanel";
 import HomePage from "./components/HomePage";
 
+const [pendingBuy, setPendingBuy] = useState(null);
 const ADMIN_EMAIL = process.env.REACT_APP_ADMIN_EMAIL || "";
 
 export default function App() {
@@ -36,11 +37,16 @@ export default function App() {
   }
 
   function handleAuth(u, courseIds) {
-    setUser(u);
-    setOwnedIds(courseIds);
-    setAuthModal(null);
+  setUser(u);
+  setOwnedIds(courseIds);
+  setAuthModal(null);
+  if (pendingBuy) {
+    setBuyModal(pendingBuy);
+    setPendingBuy(null);
+  } else {
     setPage("dashboard");
   }
+}
 
   function handleLogout() {
     fb.signOut();
@@ -50,9 +56,13 @@ export default function App() {
   }
 
   function handleBuy(courseId) {
-    if (!user) { setAuthModal("signup"); return; }
-    setBuyModal(courseId || "bundle");
+  if (!user) {
+    setPendingBuy(courseId || "bundle");
+    setAuthModal("signup");
+    return;
   }
+  setBuyModal(courseId || "bundle");
+}
 
   async function handleSimulatePurchase(courseId, u) {
     const uid = (u || user)?.uid;

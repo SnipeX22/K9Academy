@@ -8,20 +8,19 @@ import Dashboard from "./components/Dashboard";
 import AdminPanel from "./components/AdminPanel";
 import HomePage from "./components/HomePage";
 
-const [pendingBuy, setPendingBuy] = useState(null);
 const ADMIN_EMAIL = process.env.REACT_APP_ADMIN_EMAIL || "";
 
 export default function App() {
   const [page, setPage] = useState("home");
   const [authModal, setAuthModal] = useState(null);
   const [buyModal, setBuyModal] = useState(null);
+  const [pendingBuy, setPendingBuy] = useState(null);
   const [user, setUser] = useState(null);
   const [ownedIds, setOwnedIds] = useState([]);
   const [activeCourse, setActiveCourse] = useState(null);
   const [activeLessonIdx, setActiveLessonIdx] = useState(0);
   const [checks, setChecks] = useState({});
 
-  // Persist checklist state in session
   useEffect(() => {
     try { const s = sessionStorage.getItem("k9_checks"); if (s) setChecks(JSON.parse(s)); } catch {}
   }, []);
@@ -37,16 +36,16 @@ export default function App() {
   }
 
   function handleAuth(u, courseIds) {
-  setUser(u);
-  setOwnedIds(courseIds);
-  setAuthModal(null);
-  if (pendingBuy) {
-    setBuyModal(pendingBuy);
-    setPendingBuy(null);
-  } else {
-    setPage("dashboard");
+    setUser(u);
+    setOwnedIds(courseIds);
+    setAuthModal(null);
+    if (pendingBuy) {
+      setBuyModal(pendingBuy);
+      setPendingBuy(null);
+    } else {
+      setPage("dashboard");
+    }
   }
-}
 
   function handleLogout() {
     fb.signOut();
@@ -56,13 +55,13 @@ export default function App() {
   }
 
   function handleBuy(courseId) {
-  if (!user) {
-    setPendingBuy(courseId || "bundle");
-    setAuthModal("signup");
-    return;
+    if (!user) {
+      setPendingBuy(courseId || "bundle");
+      setAuthModal("signup");
+      return;
+    }
+    setBuyModal(courseId || "bundle");
   }
-  setBuyModal(courseId || "bundle");
-}
 
   async function handleSimulatePurchase(courseId, u) {
     const uid = (u || user)?.uid;

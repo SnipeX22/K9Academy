@@ -63,6 +63,12 @@ export default function App() {
     setBuyModal(courseId || "bundle");
   }
 
+  async function handleRefresh() {
+    if (!user) return;
+    const courseIds = await sheets.getPurchases(user.uid, user.email);
+    setOwnedIds(courseIds);
+  }
+
   async function handleSimulatePurchase(courseId, u) {
     const uid = (u || user)?.uid;
     const email = (u || user)?.email;
@@ -121,7 +127,7 @@ export default function App() {
   );
 
   if (page === "dashboard" && user) return (
-    <div><Nav /><Dashboard user={user} ownedIds={ownedIds} onBuy={handleBuy} onOpenCourse={openCourse} /><Modals /></div>
+    <div><Nav /><Dashboard user={user} ownedIds={ownedIds} onBuy={handleBuy} onOpenCourse={openCourse} onRefresh={handleRefresh} /><Modals /></div>
   );
 
   return (

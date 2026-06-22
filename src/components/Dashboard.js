@@ -16,7 +16,7 @@ export default function Dashboard({ user, ownedIds, onBuy, onOpenCourse }) {
       )}
 
       <div className="grid" style={{marginBottom:32}}>
-        {COURSES.map(c => {
+        {COURSES.filter(c => !c.bundleOnly || allOwned).map(c => {
           const owned = allOwned || ownedIds.includes(c.id);
           return (
             <div key={c.id} className={`dcard ${owned ? "" : "locked"}`} onClick={() => owned && onOpenCourse(c)}>

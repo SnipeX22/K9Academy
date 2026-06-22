@@ -1188,6 +1188,345 @@ You don't need to catch every problem. You just need to notice when something is
       { name: "Nutrition Label Reading Guide", type: "PDF", url: "https://drive.google.com/file/d/1ibLRUIeiOZL7SoWhbzRyCqzhRQsVjRNg/view?usp=drive_link" },
     ],
   },
+  {
+    id: "exclusive-problems",
+    tag: "Bundle Exclusive",
+    title: "Problem Solving Guide",
+    price: 0,
+    bundleOnly: true,
+    tagline: "Real fixes for the issues every owner eventually faces.",
+    description: "Leash reactivity, resource guarding, excessive barking, and separation anxiety — what causes them and how to actually fix them.",
+    includes: [],
+    lessons: [
+      {
+        title: "Leash Reactivity",
+        content: `Leash reactivity is one of the most common problems dog owners face and one of the most misunderstood. A reactive dog is not an aggressive dog — they are an overwhelmed dog.
+
+**Why it happens:**
+The leash prevents your dog from doing what they'd naturally do when something approaches — either investigate or move away. That loss of choice creates frustration and anxiety, which comes out as lunging, barking, and spinning. The leash also transmits your tension directly to your dog through your grip and body language.
+
+**The fix — Desensitization and Counter-Conditioning (DS/CC):**
+This is the only method that actually works long term. The goal is to change your dog's emotional response to the trigger, not just suppress the behavior.
+
+Find your dog's threshold — the distance at which they notice the trigger but haven't yet reacted. This is your working distance. At threshold: trigger appears → immediately feed high-value treats → trigger goes away → treats stop. Repeat hundreds of times. You are teaching your dog that the trigger predicts good things.
+
+**Management while you train:**
+Avoid situations you can't control. Cross the street early — before your dog notices the trigger, not after. Use a front-clip harness. Keep the leash loose — a tight leash signals danger to your dog and makes things worse.
+
+**What not to do:**
+Don't correct, jerk, or punish reactive behavior. You're not addressing the underlying emotion — you're adding a punishment on top of an already stressed dog. This reliably makes reactivity worse over time.
+
+**Progress timeline:**
+Weeks to months depending on severity and consistency. This is not a quick fix — it is a genuine behavior modification protocol. Stay consistent and you will see results.`,
+        checklist: [
+          "Identified your dog's threshold distance",
+          "High-value treats ready before every walk",
+          "Crossing the street before dog notices trigger",
+          "Keeping leash loose — not gripping tight",
+          "Treating the moment the trigger appears (not after reacting)",
+          "Avoiding over-threshold situations during training",
+        ],
+      },
+      {
+        title: "Resource Guarding",
+        content: `Resource guarding is when a dog protects food, toys, spaces, or people from perceived competition. It ranges from mild (eating faster when approached) to severe (snapping or biting). It is normal dog behavior — but it needs to be managed correctly.
+
+**What makes it worse:**
+Taking things away repeatedly. Punishing the growl. Reaching into the bowl while eating "to show them you're in charge." These approaches suppress the warning signals without addressing the emotion — and create dogs that bite without warning.
+
+**The fix — Trading Up:**
+Approach your dog when they have something. Offer something better. The moment they drop the item — give the trade and let them have the original item back too. You are teaching: a person approaching = good things, not loss.
+
+**Bowl exercises:**
+While your dog eats, approach and drop something amazing (real meat) into their bowl, then walk away. Repeat every meal. Over weeks, your dog starts looking up at you when you approach the bowl instead of hunching over it. That's the emotional shift you're after.
+
+**Prevention in puppies:**
+Never take things from puppies "to establish dominance." Instead practice trades constantly from day one. Puppies that learn people approaching means good things rarely develop guarding.
+
+**When to get help:**
+If your dog has already snapped or bitten over resources, work with a certified behaviorist. Severe resource guarding is manageable but needs professional guidance.`,
+        checklist: [
+          "Practicing trades daily — always offering something better",
+          "Dropping treats into bowl while dog eats",
+          "Never punishing the growl",
+          "Not taking items away without offering a trade",
+          "Children kept away from dog during eating and high-value chews",
+        ],
+      },
+      {
+        title: "Excessive Barking",
+        content: `Before you can fix barking you have to identify why it's happening. The solution is completely different depending on the cause.
+
+**Alert barking** (stranger at door, noise outside):
+Normal and often desirable in small amounts. Allow 2–3 barks then redirect with a calm "thank you, place" or similar. The goal is not silence — it's a dog that alerts briefly and then settles.
+
+**Demand barking** (wants food, attention, play):
+Your response to demand barking determines whether it continues. If you ever give them what they want when they bark — even once — you have reinforced it. The fix: complete extinction. Turn your back, leave the room, give zero attention. Reward quiet. This gets worse before it gets better (extinction burst) — push through it.
+
+**Boredom/Frustration barking:**
+This is an enrichment problem, not a training problem. The dog has unmet mental and physical needs. More exercise, more enrichment, more training. Address the root cause.
+
+**Separation barking:**
+Covered in the separation anxiety section. Different cause, different fix.
+
+**Fear barking** (at things that scare them):
+Punishment makes this significantly worse. Address the underlying fear with desensitization. The bark is a symptom — the fear is the problem.
+
+**General tips:**
+Never yell at a barking dog — to them, you are barking too. Keep your response calm and consistent. Management (removing the dog from the window they bark at all day) is a valid tool while you work on training.`,
+        checklist: [
+          "Identified the type of barking and its cause",
+          "Alert barking: allowing 2–3 barks then redirecting",
+          "Demand barking: giving zero attention until quiet",
+          "Boredom barking: enrichment increased",
+          "Never yelling at a barking dog",
+          "Management used where appropriate (blocking window access etc.)",
+        ],
+      },
+      {
+        title: "Separation Anxiety",
+        content: `True separation anxiety is a panic disorder. The dog is not being destructive out of spite — they are in genuine distress when left alone. This is important to understand because punishment makes it dramatically worse.
+
+**Signs of true separation anxiety:**
+Destructiveness only when alone. Non-stop vocalization on camera. Self-harm (chewing paws, scratching doors until bleeding). Inability to eat when alone. Symptoms start the moment you show leaving cues (picking up keys, putting on shoes).
+
+**Separation distress vs. true anxiety:**
+Most dogs have distress (uncomfortable alone) not clinical anxiety (panic). Distress is much easier to address. True severe anxiety often needs veterinary support — medication combined with behavior modification gets significantly better results than behavior modification alone.
+
+**The protocol (for distress and mild anxiety):**
+Practice departures starting at 1 second. Literally walk out the door and back in. Build to 5 seconds, 10 seconds, 30 seconds, 1 minute — over days and weeks. Never push ahead of where your dog is comfortable. The goal is to keep them under threshold the entire time.
+
+**What helps:**
+Calm, matter-of-fact departures and arrivals — no emotional goodbyes. A stuffed Kong when you leave (leaving = amazing thing appears). Camera to monitor. Exercise before alone time. A well-crate-trained dog often has an easier time because the crate itself is calming.
+
+**What doesn't help:**
+Getting another dog (the anxious dog is anxious about YOU, not lonely). Punishing destruction. Leaving for long periods and hoping they'll "get used to it."
+
+**When to see a vet:**
+If your dog cannot be left alone for even 30 seconds without panicking, consult a veterinary behaviorist. Medication is not a crutch — it lowers the anxiety enough that behavior modification can actually work.`,
+        checklist: [
+          "Camera set up to monitor dog when alone",
+          "Departure practice starting at 1 second",
+          "Building duration only when dog is comfortable at current level",
+          "Calm, low-key departures and arrivals",
+          "Kong or high-value chew given only when leaving",
+          "Vet consulted if dog cannot be alone for even a minute",
+        ],
+      },
+    ],
+    printables: [],
+  },
+  {
+    id: "exclusive-handler",
+    tag: "Bundle Exclusive",
+    title: "Handler Mistakes",
+    price: 0,
+    bundleOnly: true,
+    tagline: "The errors that silently sabotage your training.",
+    description: "The most common mistakes dog owners make — and how to identify and fix them in yourself. Often the dog isn't the problem.",
+    includes: [],
+    lessons: [
+      {
+        title: "Inconsistency",
+        content: `Inconsistency is the number one training killer. Dogs learn through patterns. When the rules change depending on your mood, who's home, or what you feel like enforcing that day — your dog can't learn the pattern.
+
+**Common examples:**
+Jumping is ignored on weekdays but corrected on weekends when guests are there. "Off the couch" means sometimes. "Come" is enforced in the yard but not the park. Food is never given from the table — except when the kids do it.
+
+**Why it's so damaging:**
+Intermittent reinforcement (sometimes the behavior works, sometimes it doesn't) actually makes behaviors more persistent, not less. The dog keeps trying because it worked once. This is the same mechanism that makes gambling addictive.
+
+**The fix:**
+Write down your house rules. Make them simple and make them absolute. Share them with everyone in the household. A rule that is enforced 80% of the time is not a rule — it's a suggestion.
+
+**The hardest part:**
+Being consistent when you're tired, in a hurry, or when the dog is being adorable. That is exactly when consistency matters most.`,
+        checklist: [
+          "House rules written down and shared with all household members",
+          "Same rules enforced regardless of mood or situation",
+          "Not allowing behaviors sometimes that are forbidden other times",
+          "Everyone in the house responding to jumping/barking/begging the same way",
+        ],
+      },
+      {
+        title: "Repeating Commands",
+        content: `If you say "sit" five times before your dog sits, you have not taught sit — you have taught "sit sit sit sit sit."
+
+**Why owners do it:**
+It feels like reminding. It feels like communication. It feels wrong to just stand there in silence.
+
+**What the dog learns:**
+The first cue means nothing. The fourth or fifth repetition is the real cue. Some dogs learn to wait for the frustrated tone of voice — that's the actual signal they're responding to.
+
+**The fix:**
+Say the cue once. Wait. If they don't respond, either they don't know it yet (go back to luring) or the environment is too distracting (move to an easier setting). Do not repeat the cue. Do not say it louder. Do not say it in a different tone.
+
+**If they don't respond:**
+Reset. Move, restart, ask again once. If they still don't respond, the behavior isn't trained well enough for this environment yet. That's information, not failure.
+
+**The test:**
+If your dog doesn't respond to a quiet, single cue in a low-distraction environment — the behavior needs more work, not more repetitions.`,
+        checklist: [
+          "Saying every cue exactly once",
+          "Waiting after giving a cue instead of repeating",
+          "Resetting and restarting rather than repeating the cue",
+          "Recognizing non-response as information about training level",
+          "Not raising voice or changing tone when dog doesn't respond",
+        ],
+      },
+      {
+        title: "Wrong Timing on Rewards",
+        content: `A reward marks the behavior that was happening at the exact moment it was delivered. Not the behavior before it. Not the behavior you were hoping for. The behavior at that precise second.
+
+**Common timing mistakes:**
+
+Calling dog to come, they arrive, you reach for the treat, they sit — you reward the sit, not the recall.
+
+Asking for a down, dog lies down, you say "good boy" and walk to get a treat — they stand up by the time you return, you reward the stand.
+
+Dog finally stops barking, you wait a beat to make sure they're done, you reach for a treat — you reward the sniffing they started doing while you were reaching.
+
+**Why a marker word matters:**
+"Yes!" at the exact right moment freezes the behavior in time. The treat can come a few seconds later because the marker told them exactly what earned it. Without a marker, your timing needs to be nearly perfect.
+
+**The fix:**
+Always have treats accessible during training. Say "yes" the instant the right thing happens. Deliver the treat within 3 seconds of the marker. Practice your marker timing by bouncing a ball and saying "yes" the moment it hits the floor — do this without a dog to sharpen the skill.`,
+        checklist: [
+          "Using a marker word ('yes') to pinpoint the exact behavior",
+          "Treats accessible during training — not across the room",
+          "Marking at the moment of the behavior, not after",
+          "Delivering treat within 3 seconds of marker",
+          "Practicing marker timing independently",
+        ],
+      },
+      {
+        title: "Training When Frustrated",
+        content: `Your emotional state transfers directly to your dog. Dogs are exquisitely sensitive to human body language, tone, and tension. When you are frustrated, your dog knows — and it affects their ability to learn.
+
+**What happens when you train frustrated:**
+Your timing gets worse. Your body language gets tighter. Your voice changes in ways you may not notice. Your dog picks all of this up and becomes anxious, shut down, or avoidant. The session ends worse than it started.
+
+**The signs you're getting frustrated:**
+Sighing heavily. Repeating the cue faster. Saying the dog's name in a certain tone. Feeling heat in your chest or face. Thinking "why won't you just do this."
+
+**The rule:**
+The moment you notice frustration — end the session. Not after one more try. Right now. Put the treats away, take a breath, do something else. Come back in 10 minutes or tomorrow.
+
+**Short sessions prevent frustration:**
+Most frustration in training comes from sessions that go too long. 5 minutes of focused, positive training is more effective than 20 minutes of grinding. End while it's still fun — for both of you.
+
+**It's not personal:**
+Your dog is not being stubborn, dominant, or spiteful. They are either confused, distracted, undertrained for this environment, or tired. Those are all solvable problems — but not when you're frustrated.`,
+        checklist: [
+          "Ending sessions at the first sign of personal frustration",
+          "Keeping sessions to 5–10 minutes maximum",
+          "Ending every session on a success (even an easy one)",
+          "Recognizing frustration signals in yourself",
+          "Not taking non-compliance personally",
+        ],
+      },
+    ],
+    printables: [],
+  },
+
+  {
+    id: "exclusive-advanced",
+    tag: "Bundle Exclusive",
+    title: "Advanced Tips & Tricks",
+    price: 0,
+    bundleOnly: true,
+    tagline: "Next-level skills once your foundation is solid.",
+    description: "Off-leash reliability, advanced commands, building real-world reliability, and sport foundations for dogs that are ready for more.",
+    includes: [],
+    lessons: [
+      {
+        title: "Building Off-Leash Reliability",
+        content: `Off-leash reliability is not a command. It is a relationship — built over months of consistent work, a bombproof recall, and a dog that genuinely chooses to stay near you.
+
+**The prerequisites:**
+Before going off leash in an open area, your dog needs: a recall that works 19 out of 20 times on a long line with distractions, solid engagement (they check in with you regularly without being asked), and at least 6 months of consistent obedience foundation.
+
+**The long line bridge:**
+Go from on-leash to off-leash via a long line (20–30 ft). The long line gives you the ability to enforce recall without chasing. Practice until the recall on the long line is so reliable it feels boring. Then drop the long line (let it drag) so the dog doesn't feel the weight difference. Then pick it up and put it away.
+
+**Proofing for real life:**
+Off-leash doesn't mean uncontrolled. It means your verbal cues work without the physical backup. Proof every command off-leash in low distraction before adding distractions. The hierarchy: backyard → quiet park → park with people → park with dogs.
+
+**The engagement piece:**
+A dog that is off-leash and ignoring you is a dog that hasn't learned that you are the most interesting thing in the environment. Go back to engagement games. Become unpredictable — change directions, hide behind trees, make yourself worth watching.
+
+**When to go back on leash:**
+Any time your dog's recall becomes unreliable. Off-leash is a privilege that gets earned repeatedly, not granted permanently.`,
+        checklist: [
+          "Recall reliable on long line with distractions before going off-leash",
+          "Long line used as bridge between leash and off-leash",
+          "Engagement games practiced regularly",
+          "Off-leash started in lowest distraction environment first",
+          "Going back to long line if reliability drops",
+        ],
+      },
+      {
+        title: "Adding Real-World Reliability",
+        content: `A command that only works in your living room is not trained — it's started. Real reliability means the behavior works anywhere, with anything going on around it.
+
+**Why commands fall apart outside:**
+Your dog learned the behavior in one context. The treat pouch, the training posture, the familiar room — these all become part of the cue. Take them away and the dog genuinely doesn't know what's being asked. This is called context specificity and it's completely normal.
+
+**How to build true reliability:**
+
+Change locations constantly. Practice sit in the kitchen, the backyard, the driveway, the parking lot, the park. Every new location is a new learning trial at first.
+
+Change your body position. Ask for sit while you're sitting, lying down, facing away, across the room. If the behavior only works when you're standing in front of them with a treat bag, you have a narrow behavior.
+
+Add real distractions gradually. Start with mild distractions (someone walking past at a distance) before adding intense ones (another dog nearby).
+
+Train without treats sometimes. Your dog should respond to your cue whether or not you have a treat bag. Vary when and what you reward — sometimes treats, sometimes play, sometimes just praise. Unpredictable rewards maintain behavior better than predictable ones.
+
+**The real test:**
+Can you recall your dog away from a running squirrel? Can your dog hold a stay while another dog plays nearby? These are the real-world moments training is for. Build toward them systematically.`,
+        checklist: [
+          "Practicing every command in at least 5 different locations",
+          "Varying body position when giving cues",
+          "Training without treat bag visible sometimes",
+          "Building distractions gradually from low to high",
+          "Varying reward type (treats, play, praise)",
+        ],
+      },
+      {
+        title: "Sport & Activity Foundations",
+        content: `If your dog has a solid foundation and high drive, structured dog sports are one of the best things you can do for your relationship and your dog's wellbeing. Here's an overview of what's available and what might suit your dog.
+
+**Nosework / Scent Work:**
+The most accessible dog sport. Dogs search for a specific odor (birch, anise, clove) hidden in boxes, rooms, vehicles, and outdoor areas. Any breed, any age, any fitness level. Mentally exhausting in the best way. Organizations: AKC Scent Work, NACSW.
+
+**Obedience Trials:**
+Formal competitive obedience — heeling patterns, retrieves, stays, jumps. Builds on everything in this course. A great goal to work toward with any well-trained dog. AKC offers multiple levels from Novice to Utility.
+
+**Rally Obedience:**
+More relaxed than formal obedience. Handler and dog navigate a course of signs with different exercises. Talking to your dog is allowed. Great entry point into dog sports.
+
+**Agility:**
+Dog navigates an obstacle course (jumps, tunnels, weave poles, contacts) as fast as possible. High energy, great bonding activity, requires physical fitness in both dog and handler. Wait until dog is 12–18 months before jumping to protect growth plates.
+
+**Schutzhund / IGP:**
+Protection sport with tracking, obedience, and protection phases. Primarily for working breeds (GSD, Malinois, Rottweiler, Doberman). Requires a club. Not about making dogs aggressive — it's a rigorous test of nerve, drive, and trainability.
+
+**Flyball / Dock Diving:**
+High energy team or individual sports. Great for ball-obsessed and water-loving dogs respectively.
+
+**How to get started:**
+Search for local clubs for any sport that interests you. Most offer intro classes. Watching a trial before signing up gives you a feel for the sport.`,
+        checklist: [
+          "Researched dog sports available in your area",
+          "Foundation obedience solid before adding sport-specific training",
+          "Found a local club or class to try",
+          "Dog's physical fitness and age considered before high-impact sports",
+          "Nosework tried as an accessible first sport",
+        ],
+      },
+    ],
+    printables: [],
+  },
 ];
 
 export const BUNDLE = {

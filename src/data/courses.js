@@ -20,7 +20,6 @@ export const COURSES = [
     lessons: [
       {
         title: "Bringing Your Puppy Home",
-        duration: "8 min",
         content: `The first 48 hours set the tone for everything. Before your puppy even walks through the door, your home needs to be ready- and more importantly, your mindset needs to be right.
 
 Your puppy has just been pulled from everything familiar: littermates, mom, smells, sounds. Even the most confident puppy is experiencing a major life change. Give them space to decompress and adjust to their new environment. A crate in a quiet corner, a worn t-shirt that smells like you, and minimal visitors for the first few days can make an enormous difference in helping them settle in.
@@ -75,7 +74,6 @@ Other common mistakes include giving too much freedom too early, inconsistent po
       },
       {
         title: "Potty Training",
-        duration: "10 min",
         content: `Potty training is not complicated — but it requires consistency. Most puppies can be reliably house-trained within 2–4 weeks if you follow the rules. Most puppies take much longer because the rules aren't followed consistently.
 
 The biggest mistake new puppy owners make is waiting until they think the puppy needs to go. By the time a puppy starts actively searching for a place to eliminate, you're already behind. Successful potty training comes from preventing accidents before they happen, not reacting after the fact.
@@ -125,7 +123,6 @@ With consistency: 2–4 weeks to mostly reliable, 4–6 months to fully reliable
       },
       {
         title: "Crate Training Done Right",
-        duration: "11 min",
         content: `The crate is not a punishment. When introduced correctly, it becomes one of the most valuable tools you'll ever use as a dog owner. A properly crate-trained dog sees their crate as a den, a bedroom, and a safe place to relax when life becomes overwhelming.
 
 One of the biggest mistakes new puppy owners make is rushing the process. They put the puppy in the crate, close the door, and hope the puppy "gets used to it." This often creates fear, anxiety, and negative associations that can take weeks or months to undo.
@@ -177,7 +174,6 @@ Remember, successful crate training isn't about confinement. It's about teaching
       },
       {
         title: "Socialization",
-        duration: "9 min",
         content: `Socialization- the most important thing you'll do in the first 4 months. Between 3 and 16 weeks of age, your puppy enters what behaviorists call the critical socialization period. During this window, your puppy's brain is exceptionally receptive to new experiences. They are actively deciding what is safe, what is normal, and what should be feared. The experiences they have—or don't have—during this time can shape their behavior for years to come.
 
 Many owners focus heavily on obedience training during these early weeks. While teaching sit, down, and stay is valuable, socialization is far more important. A dog can learn obedience at any age. A dog that develops fear of people, dogs, sounds, or environments because they missed critical socialization opportunities often requires months or years of behavior modification. Socialization is not about creating a dog that loves everything, it's about creating a dog that can remain calm and neutral around anything.
@@ -232,7 +228,6 @@ The goal of socialization is not to create a dog that loves everyone and everyth
       },
       {
         title: "Common Puppy Problems",
-        duration: "14 min",
         content: `Every puppy owner faces these. None of them mean your puppy is stubborn, broken, bad, or trying to make your life difficult. They mean you have a puppy.
 
 Most problem behaviors are completely normal developmental stages. The key is understanding what drives them and responding consistently before they become lifelong habits.
@@ -311,7 +306,6 @@ Most puppy problems are temporary. The behaviors that frustrate owners most duri
       },
       {
         title: "Building a Daily Schedule",
-        duration: "7 min",
         content: `Puppies thrive on routine. A predictable schedule regulates their energy, speeds up potty training, and prevents the overtired-biting spiral that makes new puppy owners want to cry.
 
 **Sample Schedule (8–12 week puppy):**
@@ -380,7 +374,6 @@ By 4 months, many puppies can hold it for 3–4 hours during the day and sleep t
     lessons: [
       {
         title: "Why Enrichment Matters",
-        duration: "6 min",
         content: `A tired dog is a good dog. But there's a difference between physically tired and mentally tired, and many owners only provide one.
 
 A dog can walk two miles, come home physically tired, take a short nap, and then immediately start chewing furniture, barking at the window, digging in the yard, or pestering you for attention. Why? Because their body is tired. Their brain isn't.
@@ -425,7 +418,6 @@ You may need to increase enrichment if your dog frequently chews inappropriate o
       },
       {
         title: "Feeding Enrichment & Puzzle Ideas",
-        duration: "8 min",
         content: `One of the easiest ways to provide enrichment is by changing how your dog receives their food. Most dogs finish a meal from a bowl in under a minute. Feeding enrichment turns mealtime into an activity that engages their brain, nose, and natural problem-solving instincts.
 
 **Scatter Feeding:** Take your dog's meal and scatter it throughout the grass, yard, or even around a room indoors. Your dog must use their nose to search for every piece. This is one of the simplest and most effective enrichment activities available and can significantly reduce hyperactivity and restlessness.
@@ -468,7 +460,6 @@ The biggest mistake owners make is finding one enrichment activity and using it 
       },
       {
         title: "Play & Bonding",
-        duration: "10 min",
         content: `Play is the most underused tool in dog training. When your dog wants to play with you more than anything else in the environment — you have focus, motivation, and a dog that chooses to be near you.
 
 The strongest relationships aren't built through obedience alone. They're built through shared experiences. A dog that genuinely enjoys interacting with you is easier to train, easier to motivate, and more likely to choose you over environmental distractions. The goal isn't to become your dog's source of food, it's to become your dog's favorite thing in the world. 
@@ -530,7 +521,6 @@ Every game, every training session, every walk, and every shared experience is a
       },
       {
         title: "Training & Engagement Games",
-        duration: "9 min",
         content: `Training doesn't have to be formal. Some of the most effective work happens in 3-minute bursts woven into normal daily life.
 
 **The Engagement Game:**
@@ -670,7 +660,6 @@ Ask for a sit before meals, eye contact before throwing a toy, a wait before goi
     lessons: [
       {
         title: "How Dogs Learn (The Simple Version)",
-        duration: "7 min",
         content: `You don't need to be a professional trainer to teach your dog. You don't need fancy equipment, complicated methods, or years of experience. You simply need to understand one basic principle:
 
 Behavior that gets rewarded repeats. Behavior that doesn't gets weaker over time.
@@ -736,7 +725,6 @@ The best training method is the one that your dog understands and responds to co
       },
       {
         title: "Sit & Down",
-        duration: "10 min",
         content: `One of the biggest mistakes new owners make is rushing to add commands before the dog actually understands the behavior. First teach the behavior itself, then add the word for it. If your dog doesn't reliably know what "sit" means yet, repeating "sit, sit, sit" won't help. Build the behavior first, then attach a cue to it.
         
 **Sit:**
@@ -774,7 +762,6 @@ Just because your dog can perform a behavior in your living room doesn't mean th
       },
       {
         title: "Come (Recall)",
-        duration: "9 min",
         content: `Recall is the most important command you will ever teach.
 
 A reliable recall can prevent a serious accident, stop your dog from running into danger, allow for safe off-leash freedom, and strengthen your relationship more than almost any other behavior. Unfortunately, it's also one of the most commonly poisoned commands in dog training.
@@ -809,7 +796,6 @@ A reliable recall isn't built through repetition alone. It's built through trust
       },
       {
         title: "Heel & Loose Leash Walking",
-        duration: "13 min",
         content: `Loose leash walking is the skill most people want and most dogs don't have. It's also the one that takes the most consistent practice to build.
 
 The goal is not a dog glued to your leg at all times. The goal is a dog that doesn't pull, stays generally in your vicinity, and checks in with you regularly. Your dog should be able to explore, sniff, and enjoy the walk while still maintaining leash manners.
@@ -852,7 +838,6 @@ The end goal is not perfection. The end goal is a dog that understands staying c
       },
       {
         title: "Place",
-        duration: "8 min",
         content: `Place means "go to your bed, mat, or designated spot and remain there until released." It is one of the most useful commands you can teach because it gives your dog a clear job and a clear place to be.
 
 A dog on place can't jump on guests, beg at the dinner table, pace around the kitchen while you're cooking, or rush the front door every time someone arrives. Instead of constantly telling your dog what not to do, place teaches them exactly what you want them to do.
@@ -906,7 +891,6 @@ Place is more than a command. It's an off-switch. It's a way to help your dog re
       },
       {
         title: "Bonus: Extra Commands & Fun Tricks",
-        duration: "12 min",
         content: `Once the basics are solid, this is where training gets fun. Tricks serve real purposes; they keep your dog mentally engaged, build your communication, and give you a way to show off a little.
 
 **Practical extras:**
@@ -980,7 +964,6 @@ Place is more than a command. It's an off-switch. It's a way to help your dog re
     lessons: [
       {
         title: "Reading Body Language",
-        duration: "13 min",
         content: `Your dog is communicating with you constantly. The problem is that most people only notice the obvious signals—a wagging tail, a growl, barking, or a bite. By the time a dog reaches those bigger behaviors, they've often been communicating their feelings for quite a while.
 
 Learning to read body language allows you to identify stress, fear, excitement, and discomfort early. This helps prevent problems before they happen and gives you a better understanding of what your dog is experiencing. The better you become at reading your dog, the better you'll become at training them.
@@ -1031,7 +1014,6 @@ When you see early stress signals in training — your dog is telling you the se
       },
       {
         title: "Genetics, Drives & Breed Instincts",
-        duration: "10 min",
         content: `Every dog breed was developed for a purpose. Even if your dog has never herded sheep, hunted birds, guarded property, or tracked a scent trail, those instincts are still there. Generations of selective breeding created dogs that naturally think, react, and behave in certain ways. Understanding what your dog was bred to do helps explain many common behaviors. What owners often view as stubbornness, hyperactivity, reactivity, or disobedience is frequently just a dog expressing instincts they were specifically bred to have.
 
 The goal isn't to suppress those instincts. The goal is to provide appropriate outlets for them.
@@ -1096,7 +1078,6 @@ When you work with your dog's instincts instead of against them, training become
       },
       {
         title: "Working Lines vs. Show Lines",
-        duration: "8 min",
         content: `Many dog breeds have gradually split into two different populations: dogs bred primarily for appearance and dogs bred primarily for performance.
 
 This distinction is most obvious in breeds like German Shepherds, Belgian Malinois, Labrador Retrievers, Golden Retrievers, Cocker Spaniels, and several sporting breeds, but the concept exists across much of the dog world. Understanding the difference can help explain why two dogs of the same breed may behave completely differently despite looking similar on paper.
@@ -1143,7 +1124,6 @@ The key is recognizing the dog in front of you, understanding what they were bre
       },
       {
         title: "Health & Nutrition Basics",
-        duration: "9 min",
         content: `You don't need to be a veterinarian to keep your dog healthy.
 
 What you do need is a basic understanding of nutrition, preventive care, and the ability to recognize when something isn't normal. Nobody knows your dog better than you do. If you pay attention to their appetite, energy level, bathroom habits, and behavior, you'll often notice problems long before they become serious. The goal isn't to diagnose every issue yourself. The goal is knowing when something deserves attention.

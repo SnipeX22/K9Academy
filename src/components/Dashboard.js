@@ -1,11 +1,21 @@
 import { COURSES, BUNDLE } from "../data/courses";
 
-export default function Dashboard({ user, ownedIds, onBuy, onOpenCourse }) {
+export default function Dashboard({ user, ownedIds, onBuy, onOpenCourse, onRefresh }) {
   const allOwned = ownedIds.includes("bundle");
+
   return (
     <div className="dash">
       <h1>My <span style={{color:"var(--tan)"}}>Courses</span></h1>
-      <p className="dash-sub">Welcome back{user.email ? `, ${user.email}` : ""}. Click any owned course to open it.</p>
+      <p className="dash-sub">
+        Welcome back{user.email ? `, ${user.email}` : ""}. Click any owned course to open it.
+      </p>
+
+      <button
+        className="btn btn-ghost btn-sm"
+        style={{marginBottom: 24}}
+        onClick={onRefresh}>
+        ↻ Refresh My Courses
+      </button>
 
       {ownedIds.length === 0 && (
         <div className="empty" style={{marginBottom:32}}>

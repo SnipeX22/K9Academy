@@ -93,7 +93,7 @@ export const sheets = {
 
   async getPurchases(uid, email) {
   if (DEMO) return cache.purchases[uid] || [];
-  if (cache.purchases[uid]) return cache.purchases[uid];
+  // Remove the cache check so it always fetches fresh on login
   const res = await sheetRequest({ action: "getPurchases", uid, email });
   const ids = res?.courseIds || [];
   cache.purchases[uid] = ids;

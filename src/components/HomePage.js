@@ -27,7 +27,7 @@ export default function HomePage({ onBuy, onScrollToCourses }) {
           <h2 className="stitle">Pick What You Need</h2>
           <p className="ssub">Each course includes written guides, interactive checklists, and downloadable printables.</p>
           <div className="grid">
-            {COURSES.map(c => (
+            {COURSES.filter(c => !c.bundleOnly).map(c => (
               <div key={c.id} className="ccard">
                 <span className="ctag">{c.tag}</span>
                 <div className="ctitle">{c.title}</div>

@@ -26,7 +26,6 @@ export default function LessonViewer({ course, lessonIdx, onSelectLesson, onBack
         {course.lessons.map((l, i) => (
           <button key={i} className={`lbtn ${i === lessonIdx ? "active" : ""}`} onClick={() => onSelectLesson(i)}>
             <span className="lbtn-title">{l.title}</span>
-            <span className="lbtn-dur">{l.duration} read</span>
           </button>
         ))}
         {course.printables?.length > 0 && (
@@ -46,7 +45,6 @@ export default function LessonViewer({ course, lessonIdx, onSelectLesson, onBack
         <button className="vback" onClick={onBack}>← Back to Dashboard</button>
         <span className="ltag">{course.tag} · Lesson {lessonIdx + 1} of {course.lessons.length}</span>
         <h1 className="ltitle">{lesson.title}</h1>
-        <div className="ldur">{lesson.duration} read</div>
         <div className="lbody">{fmt(lesson.content)}</div>
 
         <div className="checklist">

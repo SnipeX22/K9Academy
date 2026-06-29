@@ -650,11 +650,12 @@ Ask for a sit before meals, eye contact before throwing a toy, a wait before goi
     description:
       "Core obedience commands taught clearly and correctly — no professional experience needed. Once the basics are solid, a bonus section covers extra commands and fun tricks to keep things interesting.",
     includes: [
-      "Core commands: sit, down, stay, come, heel, place",
       "How dogs learn",
-      "Duration, distance & distraction guide",
+      "Core commands: sit, down, stay, come, heel, place",
+      "Duration, distance & distraction",
       "Keys to success in dog training",
-      "Bonus: extra commands and tricks",
+      "Bonus commands and tricks",
+      "Training tools and usage",
       "Training session log printable",
     ],
     lessons: [
@@ -887,6 +888,33 @@ Place is more than a command. It's an off-switch. It's a way to help your dog re
           "Distance from mat being gradually increased",
           "Doorbell practice started",
           "Release word used consistently",
+        ],
+      },
+      {
+        title: "Training Tools",
+        content: `Training tools are exactly that — tools. None of them train a dog by themselves, and no single tool is right for every dog. The best choice depends on your dog's temperament, your training goals, and your ability to use the tool correctly. Every tool should be introduced fairly, paired with clear communication, and used to teach the dog how to succeed rather than simply correcting mistakes.
+
+**Tool Options:**
+A **flat collar** is the simplest option and works well for identification and many dogs with good leash manners. 
+
+A **front-clip harness** helps reduce pulling by turning the dog's body back toward the handler when they pull, making it a useful management tool while loose leash walking is being taught. 
+
+A **head halter** provides additional control for some strong dogs but should be introduced gradually and never used with sudden leash corrections, as excessive force can place strain on the neck.
+
+A **slip lead** tightens when tension is applied and should be used with light, momentary pressure followed by immediate release — not constant tension (such as consistent pulling).
+
+A **prong collar** is designed to distribute pressure evenly around the neck and should be properly fitted high on the neck behind the ears. It should be used with brief leash pressure and instant release to communicate, never for prolonged pressure, dragging, or punishment.
+
+An electronic collar (e-collar) is intended as a communication tool at the lowest effective level the dog can perceive. It should only be introduced after the dog fully understands the behavior being asked, with the stimulation paired to known commands and followed by praise or reward when the dog responds correctly.
+
+**The Goal**
+Regardless of the tool you choose, the principles remain the same: teach the behavior first, communicate clearly, reward good decisions, and use the least amount of pressure necessary. Good timing, consistency, and a strong relationship with your dog will always have a greater impact on training success than the equipment attached to the leash.`,
+        checklist: [
+          "Evaluate your dog and determine the tools used",
+          "Tools purchased and ready",
+          "Behavior taught first",
+          "Research done on proper use of the chosen tools",
+          "Corrections are minimal, and not harsh",
         ],
       },
       {

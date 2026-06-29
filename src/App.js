@@ -7,11 +7,13 @@ import LessonViewer from "./components/LessonViewer";
 import Dashboard from "./components/Dashboard";
 import AdminPanel from "./components/AdminPanel";
 import HomePage from "./components/HomePage";
+import LegalPage from "./components/LegalPage";
 
 const ADMIN_EMAIL = process.env.REACT_APP_ADMIN_EMAIL || "";
 
 export default function App() {
   const [page, setPage] = useState("home");
+  const [legalSection, setLegalSection] = useState("refund");
   const [authModal, setAuthModal] = useState(null);
   const [buyModal, setBuyModal] = useState(null);
   const [pendingBuy, setPendingBuy] = useState(null);
@@ -61,6 +63,12 @@ export default function App() {
       return;
     }
     setBuyModal(courseId || "bundle");
+  }
+
+  function handleLegal(section) {
+    setLegalSection(section || "refund");
+    setPage("legal");
+    window.scrollTo(0, 0);
   }
 
   async function handleRefresh() {
@@ -118,6 +126,24 @@ export default function App() {
     <div><Nav /><AdminPanel onBack={() => setPage("home")} /><Modals /></div>
   );
 
+  if (page === "legal") return (
+    <div>
+      <Nav />
+      <LegalPage
+        section={legalSection}
+        onBack={(newSection) => {
+          if (newSection && typeof newSection === "string" && newSection !== legalSection) {
+            setLegalSection(newSection);
+            window.scrollTo(0, 0);
+          } else {
+            setPage("home");
+          }
+        }}
+      />
+      <Modals />
+    </div>
+  );
+
   if (page === "course" && activeCourse) return (
     <div>
       <Nav />
@@ -133,7 +159,11 @@ export default function App() {
   return (
     <div>
       <Nav />
-      <HomePage onBuy={handleBuy} onScrollToCourses={() => document.getElementById("courses")?.scrollIntoView({ behavior: "smooth" })} />
+      <HomePage
+        onBuy={handleBuy}
+        onScrollToCourses={() => document.getElementById("courses")?.scrollIntoView({ behavior: "smooth" })}
+        onLegal={handleLegal}
+      />
       <Modals />
     </div>
   );

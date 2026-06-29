@@ -21,7 +21,7 @@ To request a refund, email us with your order details and reason for the request
         },
         {
           heading: "Contact",
-          body: `For fulfillment issues or refund requests, please contact us at: snipex22.k9academy@gmail.com`
+          body: `For fulfillment issues or refund requests, please contact us at: zero.theshepherd.official@gmail.com`
         },
       ]
     },
@@ -64,7 +64,7 @@ You must provide accurate information when creating your account. Accounts may n
         },
         {
           heading: "Contact",
-          body: `Questions about these terms? Email us at: snipex22.k9academy@gmail.com`
+          body: `Questions about these terms? Email us at: zero.theshepherd.official@gmail.com`
         },
       ]
     },
@@ -107,7 +107,7 @@ Each of these services has their own privacy policies governing the data they co
         },
         {
           heading: "Contact",
-          body: `Privacy questions or data requests: snipex22.k9academy@gmail.com`
+          body: `Privacy questions or data requests: zero.theshepherd.official@gmail.com`
         },
       ]
     },

@@ -369,7 +369,7 @@ By 4 months, many puppies can hold it for 3–4 hours during the day and sleep t
       "Training through games",
       "Daily engagement schedule PDF",
       "Indoor and outdoor activity ideas",
-      "Building drive and focus",
+      "Drive building games",
     ],
     lessons: [
       {
@@ -650,10 +650,10 @@ Ask for a sit before meals, eye contact before throwing a toy, a wait before goi
     description:
       "Core obedience commands taught clearly and correctly — no professional experience needed. Once the basics are solid, a bonus section covers extra commands and fun tricks to keep things interesting.",
     includes: [
-      "Core commands: sit, down, stay, come, heel",
-      "How to actually teach your dog (the method)",
+      "Core commands: sit, down, stay, come, heel, place",
+      "How dogs learn",
       "Duration, distance & distraction guide",
-      "Common handling mistakes & fixes",
+      "Keys to success in dog training",
       "Bonus: extra commands and tricks",
       "Training session log printable",
     ],
@@ -955,11 +955,11 @@ Place is more than a command. It's an off-switch. It's a way to help your dog re
     description:
       "The knowledge that changes how you see your dog. Read their body language, understand their genetics and instincts, know the difference between working and show lines, and get the health and nutrition basics every owner should know.",
     includes: [
-      "Reading body language — full guide",
+      "Reading body language",
       "Stress signals & calming cues",
       "Genetics, drives & breed instincts",
       "Working vs. show line differences",
-      "Health & nutrition basics PDF",
+      "Health & nutrition basics",
     ],
     lessons: [
       {

@@ -1,6 +1,6 @@
 import { COURSES, BUNDLE } from "../data/courses";
 
-export default function HomePage({ onBuy, onScrollToCourses }) {
+export default function HomePage({ onBuy, onScrollToCourses, onLegal }) {
   return (
     <>
       <section className="hero">
@@ -77,7 +77,21 @@ export default function HomePage({ onBuy, onScrollToCourses }) {
         </div>
       </div>
 
-      <footer>K9 Academy · Built by a real dog owner, for every dog owner.</footer>
+      <footer style={{borderTop:"1px solid var(--border)",padding:"32px 24px",textAlign:"center"}}>
+        <div style={{fontSize:12,color:"var(--muted)",letterSpacing:"0.05em",marginBottom:14}}>
+          K9 Academy · Built by a real dog owner, for every dog owner.
+        </div>
+        <div style={{display:"flex",gap:20,justifyContent:"center",flexWrap:"wrap"}}>
+          {[["refund","Refund & Fulfillment Policy"],["terms","Terms of Service"],["privacy","Privacy Policy"],["disclaimer","Disclaimer"]].map(([id,label])=>(
+            <button key={id} onClick={()=>onLegal(id)}
+              style={{background:"none",border:"none",color:"var(--muted)",fontSize:11,cursor:"pointer",fontFamily:"'DM Sans',sans-serif",letterSpacing:"0.08em",textDecoration:"underline",padding:0,transition:"color .2s"}}
+              onMouseOver={e=>e.currentTarget.style.color="var(--tan)"}
+              onMouseOut={e=>e.currentTarget.style.color="var(--muted)"}>
+              {label}
+            </button>
+          ))}
+        </div>
+      </footer>
     </>
   );
 }

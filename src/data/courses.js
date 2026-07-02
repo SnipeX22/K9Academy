@@ -4,7 +4,7 @@ export const COURSES = [
     id: "puppy",
     tag: "Module 1",
     title: "Puppy Starter Pack",
-    price: 10,
+    price: 20,
     tagline: "Day one through 6 months — the complete foundation.",
     description:
       "Everything you need from the moment your pup comes home. Structure, crate training, potty training, socialization, common puppy problems, and the habits that set your dog up for life.",
@@ -359,7 +359,7 @@ By 4 months, many puppies can hold it for 3–4 hours during the day and sleep t
     id: "engage",
     tag: "Module 2",
     title: "Engage & Thrive",
-    price: 5,
+    price: 10,
     tagline: "Enrichment, play, bonding, and keeping your dog mentally alive.",
     description:
       "Ideas and strategies for enrichment, play, training games, and building a genuine bond with your dog. The stuff that makes your dog happy and keeps them out of trouble.",
@@ -645,7 +645,7 @@ Ask for a sit before meals, eye contact before throwing a toy, a wait before goi
     id: "obedience",
     tag: "Module 3",
     title: "Foundation Obedience",
-    price: 5,
+    price: 10,
     tagline: "The basics done right, plus fun extras when you're ready.",
     description:
       "Core obedience commands taught clearly and correctly — no professional experience needed. Once the basics are solid, a bonus section covers extra commands and fun tricks to keep things interesting.",
@@ -978,7 +978,7 @@ Regardless of the tool you choose, the principles remain the same: teach the beh
     id: "know",
     tag: "Module 4",
     title: "Know Your Dog",
-    price: 5,
+    price: 10,
     tagline: "Body language, genetics, instincts — understand what drives your dog.",
     description:
       "The knowledge that changes how you see your dog. Read their body language, understand their genetics and instincts, know the difference between working and show lines, and get the health and nutrition basics every owner should know.",
@@ -1569,9 +1569,9 @@ Search for local clubs for any sport that interests you. Most offer intro classe
 export const BUNDLE = {
   id: "bundle",
   title: "Full K9 Academy",
-  price: 20,
-  saves: 5,
-  totalIfSeparate: 25,
+  price: 40,
+  saves: 10,
+  totalIfSeparate: 50,
   exclusive: [
     {
       title: "Problem Solving Guide",

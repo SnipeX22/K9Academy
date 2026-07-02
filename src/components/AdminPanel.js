@@ -4,10 +4,6 @@ import { COURSES } from "../data/courses";
 
 const CMAP = Object.fromEntries([...COURSES.map(c=>[c.id,c.title]),["bundle","Full K9 Academy"]]);
 
-// ── GA4 Property ID — set this to your GA4 Property ID
-// Find it: analytics.google.com → Admin (gear icon) → Property Settings → Property ID
-// It looks like: 123456789 (numbers only, NOT the G-XXXXXXX measurement ID)
-const GA4_PROPERTY_ID = process.env.REACT_APP_GA4_PROPERTY_ID || "";
 
 function CustomersTab() {
   const [rows, setRows] = useState([]);
@@ -205,11 +201,9 @@ function BarChart({ data, label }) {
 // ── TRAFFIC TAB ────────────────────────────────────────────────
 function TrafficTab() {
   const [gaData, setGaData] = useState(null);
-  const [loading, setLoading] = useState(false);
+  const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
-  const [token, setToken] = useState("");
   const [range, setRange] = useState("28daysAgo");
-  const propId = GA4_PROPERTY_ID;
 
   const rangeLabels = {
     "7daysAgo": "Last 7 days",
@@ -217,107 +211,20 @@ function TrafficTab() {
     "90daysAgo": "Last 90 days",
   };
 
-  async function fetchGA() {
-    if (!token) { setError("Paste your access token below to load analytics."); return; }
-    if (!propId) { setError("Add your GA4 Property ID as REACT_APP_GA4_PROPERTY_ID in GitHub Secrets."); return; }
+  const fetchGA = useCallback(async () => {
     setLoading(true); setError("");
-
     try {
-      // Fetch overview metrics
-      const overviewRes = await fetch(
-        `https://analyticsdata.googleapis.com/v1beta/properties/${propId}:runReport`,
-        {
-          method: "POST",
-          headers: { "Authorization": `Bearer ${token}`, "Content-Type": "application/json" },
-          body: JSON.stringify({
-            dateRanges: [{ startDate: range, endDate: "today" }],
-            metrics: [
-              { name: "activeUsers" },
-              { name: "sessions" },
-              { name: "screenPageViews" },
-              { name: "averageSessionDuration" },
-              { name: "bounceRate" },
-              { name: "newUsers" },
-            ],
-          })
-        }
-      );
-      const overview = await overviewRes.json();
-      if (overview.error) { setError("GA Error: " + overview.error.message); setLoading(false); return; }
-
-      // Fetch daily sessions for chart
-      const dailyRes = await fetch(
-        `https://analyticsdata.googleapis.com/v1beta/properties/${propId}:runReport`,
-        {
-          method: "POST",
-          headers: { "Authorization": `Bearer ${token}`, "Content-Type": "application/json" },
-          body: JSON.stringify({
-            dateRanges: [{ startDate: range, endDate: "today" }],
-            dimensions: [{ name: "date" }],
-            metrics: [{ name: "sessions" }],
-            orderBys: [{ dimension: { dimensionName: "date" } }],
-            limit: 30,
-          })
-        }
-      );
-      const daily = await dailyRes.json();
-
-      // Fetch top traffic sources
-      const sourcesRes = await fetch(
-        `https://analyticsdata.googleapis.com/v1beta/properties/${propId}:runReport`,
-        {
-          method: "POST",
-          headers: { "Authorization": `Bearer ${token}`, "Content-Type": "application/json" },
-          body: JSON.stringify({
-            dateRanges: [{ startDate: range, endDate: "today" }],
-            dimensions: [{ name: "sessionDefaultChannelGroup" }],
-            metrics: [{ name: "sessions" }],
-            orderBys: [{ metric: { metricName: "sessions" }, desc: true }],
-            limit: 6,
-          })
-        }
-      );
-      const sources = await sourcesRes.json();
-
-      // Fetch top pages
-      const pagesRes = await fetch(
-        `https://analyticsdata.googleapis.com/v1beta/properties/${propId}:runReport`,
-        {
-          method: "POST",
-          headers: { "Authorization": `Bearer ${token}`, "Content-Type": "application/json" },
-          body: JSON.stringify({
-            dateRanges: [{ startDate: range, endDate: "today" }],
-            dimensions: [{ name: "pageTitle" }],
-            metrics: [{ name: "screenPageViews" }],
-            orderBys: [{ metric: { metricName: "screenPageViews" }, desc: true }],
-            limit: 5,
-          })
-        }
-      );
-      const pages = await pagesRes.json();
-
-      // Fetch devices
-      const devicesRes = await fetch(
-        `https://analyticsdata.googleapis.com/v1beta/properties/${propId}:runReport`,
-        {
-          method: "POST",
-          headers: { "Authorization": `Bearer ${token}`, "Content-Type": "application/json" },
-          body: JSON.stringify({
-            dateRanges: [{ startDate: range, endDate: "today" }],
-            dimensions: [{ name: "deviceCategory" }],
-            metrics: [{ name: "sessions" }],
-            orderBys: [{ metric: { metricName: "sessions" }, desc: true }],
-          })
-        }
-      );
-      const devices = await devicesRes.json();
-
-      setGaData({ overview, daily, sources, pages, devices });
-    } catch (e) {
-      setError("Network error — check your token and try again.");
+      const res = await sheets.getGA4Report(range);
+      if (res?.error) { setError(res.error.message || "Couldn't load analytics."); setGaData(null); }
+      else if (res?.overview?.error) { setError(res.overview.error.message); setGaData(null); }
+      else { setGaData(res); }
+    } catch {
+      setError("Network error loading analytics — try again in a moment.");
     }
     setLoading(false);
-  }
+  }, [range]);
+
+  useEffect(() => { fetchGA(); }, [fetchGA]);
 
   // Parse helpers
   const getMetric = (report, index) => {
@@ -338,24 +245,6 @@ function TrafficTab() {
     value: parseInt(r.metricValues[0].value)
   })) || [];
 
-  if (!propId) return (
-    <div className="acard">
-      <h3 style={{fontFamily:"'Bebas Neue',sans-serif",fontSize:22,marginBottom:12}}>Setup Required</h3>
-      <p style={{fontSize:14,color:"var(--muted)",lineHeight:1.8,marginBottom:16}}>
-        To enable analytics in your admin panel, add your GA4 Property ID as a GitHub Secret:
-      </p>
-      <ol style={{fontSize:13,color:"var(--muted)",lineHeight:2,paddingLeft:20}}>
-        <li>Go to <strong style={{color:"var(--cream)"}}>analytics.google.com</strong></li>
-        <li>Click the <strong style={{color:"var(--cream)"}}>gear icon</strong> (Admin) at the bottom left</li>
-        <li>Click <strong style={{color:"var(--cream)"}}>Property Settings</strong></li>
-        <li>Copy the <strong style={{color:"var(--cream)"}}>Property ID</strong> (numbers only, e.g. 123456789)</li>
-        <li>Go to your GitHub repo → <strong style={{color:"var(--cream)"}}>Settings → Secrets → Actions</strong></li>
-        <li>Add secret: <code style={{color:"var(--tan)"}}>REACT_APP_GA4_PROPERTY_ID</code> = your Property ID</li>
-        <li>Trigger a new build (edit any file and commit)</li>
-      </ol>
-    </div>
-  );
-
   return (
     <div>
       {/* Controls */}
@@ -366,39 +255,27 @@ function TrafficTab() {
             {Object.entries(rangeLabels).map(([v,l])=><option key={v} value={v}>{l}</option>)}
           </select>
         </div>
-        <div style={{flex:2,minWidth:200}}>
-          <div style={{fontSize:11,letterSpacing:"0.15em",textTransform:"uppercase",color:"var(--muted)",marginBottom:6}}>
-            Access Token — <a href="https://developers.google.com/oauthplayground" target="_blank" rel="noreferrer" style={{color:"var(--tan)"}}>Get one here</a>
-          </div>
-          <input className="fi" type="password" value={token} onChange={e=>setToken(e.target.value)} placeholder="Paste your OAuth2 access token" style={{fontSize:12}} />
-        </div>
         <button className="btn btn-gold btn-sm" onClick={fetchGA} disabled={loading} style={{flexShrink:0}}>
-          {loading ? "Loading..." : "Load Analytics"}
+          {loading ? "Loading..." : "Refresh"}
         </button>
       </div>
 
-      {/* Token instructions */}
-      {!gaData && !loading && (
+      {loading && !gaData && <div style={{padding:40,textAlign:"center",color:"var(--muted)"}}>Loading traffic data...</div>}
+
+      {error && (
         <div className="acard" style={{marginBottom:20,borderColor:"rgba(201,169,110,0.3)"}}>
-          <div style={{fontSize:11,letterSpacing:"0.15em",textTransform:"uppercase",color:"var(--tan)",marginBottom:10}}>How to get your Access Token</div>
-          <ol style={{fontSize:13,color:"var(--muted)",lineHeight:2,paddingLeft:20}}>
-            <li>Click the <strong style={{color:"var(--cream)"}}>Get one here</strong> link above</li>
-            <li>In Step 1, find and select <strong style={{color:"var(--cream)"}}>Google Analytics Data API v1</strong></li>
-            <li>Check <strong style={{color:"var(--cream)"}}>https://www.googleapis.com/auth/analytics.readonly</strong></li>
-            <li>Click <strong style={{color:"var(--cream)"}}>Authorize APIs</strong> and sign in with your Google account</li>
-            <li>Click <strong style={{color:"var(--cream)"}}>Exchange authorization code for tokens</strong></li>
-            <li>Copy the <strong style={{color:"var(--cream)"}}>Access token</strong> and paste it above</li>
-          </ol>
-          <div style={{fontSize:12,color:"var(--muted)",marginTop:10,padding:"8px 12px",border:"1px solid var(--border)",background:"rgba(0,0,0,0.2)"}}>
-            Note: Access tokens expire after 1 hour. You'll need to get a new one each time you visit this page.
-          </div>
+          <h3 style={{fontFamily:"'Bebas Neue',sans-serif",fontSize:22,marginBottom:12}}>Setup Required</h3>
+          <div className="ferr" style={{marginBottom:16}}>{error}</div>
+          <p style={{fontSize:13,color:"var(--muted)",lineHeight:1.8}}>
+            Traffic data loads automatically via your Google Apps Script — see the setup
+            steps at the top of <code style={{color:"var(--tan)"}}>google-apps-script.js</code> in
+            your repo (GA4_PROPERTY_ID + the analytics.readonly scope).
+          </p>
         </div>
       )}
 
-      {error && <div className="ferr" style={{marginBottom:16}}>{error}</div>}
-
       {/* Analytics Data */}
-      {gaData && (
+      {gaData && !error && (
         <>
           {/* Overview stats */}
           <div style={{display:"grid",gridTemplateColumns:"repeat(auto-fit,minmax(130px,1fr))",gap:2,marginBottom:20}}>
@@ -449,7 +326,6 @@ function TrafficTab() {
                   const total = gaData.devices.rows.reduce((s,row)=>s+parseInt(row.metricValues[0].value),0);
                   const val = parseInt(r.metricValues[0].value);
                   const pct = total > 0 ? Math.round((val/total)*100) : 0;
-                  const icons = { mobile:"📱", desktop:"🖥", tablet:"📱" };
                   return (
                     <div key={i} style={{marginBottom:10}}>
                       <div style={{display:"flex",justifyContent:"space-between",fontSize:12,marginBottom:4}}>
@@ -484,7 +360,7 @@ function TrafficTab() {
           )}
 
           <div style={{fontSize:11,color:"var(--muted)",marginTop:16,textAlign:"right"}}>
-            Showing {rangeLabels[range]} · <button onClick={fetchGA} style={{background:"none",border:"none",color:"var(--tan)",cursor:"pointer",fontSize:11,fontFamily:"'DM Sans',sans-serif"}}>Refresh</button>
+            Showing {rangeLabels[range]}
           </div>
         </>
       )}

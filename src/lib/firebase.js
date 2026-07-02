@@ -153,4 +153,15 @@ export const sheets = {
     if (DEMO) return;
     await sheetRequest({ action: "toggleCode", codeId, active });
   },
+
+  // ── Traffic (GA4, via Apps Script — no per-visit token needed) ──
+
+  async getGA4Report(range) {
+    if (DEMO) return {
+      overview: { rows: [{ metricValues: [{value:"128"},{value:"301"},{value:"842"},{value:"95"},{value:"0.42"},{value:"51"}] }] },
+      daily: { rows: [] }, sources: { rows: [] }, pages: { rows: [] }, devices: { rows: [] },
+    };
+    const res = await sheetRequest({ action: "getGA4Report", range });
+    return res || { error: { message: "No response from Apps Script — check REACT_APP_SHEET_URL." } };
+  },
 };

@@ -25,10 +25,35 @@
 //    - Who has access: Anyone
 // 10. Click Deploy → copy the Web App URL
 // 11. Paste that URL as REACT_APP_SHEET_URL in your GitHub Secrets
+//
+// ── TO ENABLE THE TRAFFIC TAB (GA4, no token needed) ────────────
+// 12. Set GA4_PROPERTY_ID below to your GA4 numeric Property ID
+//     (analytics.google.com → Admin → Property Settings → Property ID)
+// 13. In the Apps Script editor: Project Settings (gear icon, left
+//     sidebar) → check "Show appsscript.json manifest file in editor"
+// 14. Back in the editor, open appsscript.json. If it has no
+//     "oauthScopes" array, add one with ALL of these (adding an
+//     explicit list switches Apps Script out of auto-detect mode,
+//     so every scope the script needs must be listed):
+//       "oauthScopes": [
+//         "https://www.googleapis.com/auth/spreadsheets",
+//         "https://www.googleapis.com/auth/script.external_request",
+//         "https://www.googleapis.com/auth/analytics.readonly"
+//       ]
+//     If it already has an oauthScopes array, just add the
+//     analytics.readonly line to it.
+// 15. Click Deploy → Manage deployments → pencil icon → select
+//     "New version" → Deploy. You'll be asked to re-authorize —
+//     approve access to Google Analytics data.
+// (The Traffic tab now loads automatically for whoever opens the
+// admin panel — it runs as you, the script owner, so no one else
+// needs their own token.)
 // ═══════════════════════════════════════════════════════════════
 
 const SPREADSHEET_ID = "YOUR_SPREADSHEET_ID"; // paste your Sheet ID here
 // (find it in the URL: docs.google.com/spreadsheets/d/THIS_PART/edit)
+
+const GA4_PROPERTY_ID = "YOUR_GA4_PROPERTY_ID"; // paste your numeric GA4 Property ID here
 
 function doPost(e) {
   const data = JSON.parse(e.postData.contents);
@@ -61,6 +86,9 @@ function doPost(e) {
 
     } else if (action === "toggleCode") {
       result = toggleCode(ss, data.codeId, data.active);
+
+    } else if (action === "getGA4Report") {
+      result = getGA4Report(data.range);
     }
   } catch (err) {
     result = { error: err.toString() };
@@ -172,4 +200,75 @@ function toggleCode(ss, codeId, active) {
     }
   }
   return { success: false };
+}
+
+// ── Traffic (GA4) ──────────────────────────────────────────────
+// Runs as the script owner (you). No per-visit token needed —
+// this uses your own Google login's access, the same one that
+// already has Administrator rights on the GA4 property.
+
+function ga4Run(propertyId, token, body) {
+  const res = UrlFetchApp.fetch(
+    "https://analyticsdata.googleapis.com/v1beta/properties/" + propertyId + ":runReport",
+    {
+      method: "post",
+      contentType: "application/json",
+      headers: { Authorization: "Bearer " + token },
+      payload: JSON.stringify(body),
+      muteHttpExceptions: true,
+    }
+  );
+  return JSON.parse(res.getContentText());
+}
+
+function getGA4Report(range) {
+  if (!GA4_PROPERTY_ID || GA4_PROPERTY_ID === "YOUR_GA4_PROPERTY_ID") {
+    return { error: { message: "GA4_PROPERTY_ID is not set in the Apps Script — paste your numeric GA4 Property ID at the top of this file and redeploy." } };
+  }
+
+  const token = ScriptApp.getOAuthToken();
+  const dateRange = range || "28daysAgo";
+  const dr = [{ startDate: dateRange, endDate: "today" }];
+
+  const overview = ga4Run(GA4_PROPERTY_ID, token, {
+    dateRanges: dr,
+    metrics: [
+      { name: "activeUsers" }, { name: "sessions" }, { name: "screenPageViews" },
+      { name: "averageSessionDuration" }, { name: "bounceRate" }, { name: "newUsers" },
+    ],
+  });
+  if (overview.error) return { overview };
+
+  const daily = ga4Run(GA4_PROPERTY_ID, token, {
+    dateRanges: dr,
+    dimensions: [{ name: "date" }],
+    metrics: [{ name: "sessions" }],
+    orderBys: [{ dimension: { dimensionName: "date" } }],
+    limit: 30,
+  });
+
+  const sources = ga4Run(GA4_PROPERTY_ID, token, {
+    dateRanges: dr,
+    dimensions: [{ name: "sessionDefaultChannelGroup" }],
+    metrics: [{ name: "sessions" }],
+    orderBys: [{ metric: { metricName: "sessions" }, desc: true }],
+    limit: 6,
+  });
+
+  const pages = ga4Run(GA4_PROPERTY_ID, token, {
+    dateRanges: dr,
+    dimensions: [{ name: "pageTitle" }],
+    metrics: [{ name: "screenPageViews" }],
+    orderBys: [{ metric: { metricName: "screenPageViews" }, desc: true }],
+    limit: 5,
+  });
+
+  const devices = ga4Run(GA4_PROPERTY_ID, token, {
+    dateRanges: dr,
+    dimensions: [{ name: "deviceCategory" }],
+    metrics: [{ name: "sessions" }],
+    orderBys: [{ metric: { metricName: "sessions" }, desc: true }],
+  });
+
+  return { overview, daily, sources, pages, devices };
 }

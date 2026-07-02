@@ -978,7 +978,7 @@ Regardless of the tool you choose, the principles remain the same: teach the beh
     id: "know",
     tag: "Module 4",
     title: "Know Your Dog",
-    price: 10,
+    price: 5,
     tagline: "Body language, genetics, instincts — understand what drives your dog.",
     description:
       "The knowledge that changes how you see your dog. Read their body language, understand their genetics and instincts, know the difference between working and show lines, and get the health and nutrition basics every owner should know.",
@@ -1570,8 +1570,8 @@ export const BUNDLE = {
   id: "bundle",
   title: "Full K9 Academy",
   price: 40,
-  saves: 10,
-  totalIfSeparate: 50,
+  saves: 5,
+  totalIfSeparate: 45,
   exclusive: [
     {
       title: "Problem Solving Guide",

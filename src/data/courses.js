@@ -362,7 +362,7 @@ By 4 months, many puppies can hold it for 3–4 hours during the day and sleep t
     price: 10,
     tagline: "Enrichment, play, bonding, and keeping your dog mentally alive.",
     description:
-      "Ideas and strategies for enrichment, play, training games, and building a genuine bond with your dog. The stuff that makes your dog happy and keeps them out of trouble.",
+      "Ideas, games, and strategies for enrichment, play, drive building, training games, and building a genuine bond with your dog. The stuff that makes your dog happy and keeps them out of trouble.",
     includes: [
       "Enrichment ideas for every energy level",
       "Play and bonding activities",

@@ -62,7 +62,7 @@ export default function HomePage({ onBuy, onScrollToCourses, onLegal }) {
             Every course, every printable, every lesson — plus exclusive bonus content you won't find anywhere else.
           </p>
           <div className="bitems">
-            {COURSES.map(c=>(
+            {COURSES.filter(c => !c.bundleOnly).map(c=>(
               <div key={c.id} className="bitem"><strong>{c.title}</strong><span>{c.tagline}</span></div>
             ))}
             {BUNDLE.exclusive.map((e,i)=>(

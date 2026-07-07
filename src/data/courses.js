@@ -978,15 +978,16 @@ Regardless of the tool you choose, the principles remain the same: teach the beh
     id: "know",
     tag: "Module 4",
     title: "Know Your Dog",
-    price: 5,
-    tagline: "Body language, genetics, instincts — understand what drives your dog.",
+    price: 10,
+    tagline: "Body language, genetics, instincts — understand what drives your dog and how it impacts your training.",
     description:
       "The knowledge that changes how you see your dog. Read their body language, understand their genetics and instincts, know the difference between working and show lines, and get the health and nutrition basics every owner should know.",
     includes: [
       "Reading body language",
-      "Stress signals & calming cues",
+      "How emotions affect training",
+      "Your dog's learning style",
+      "Why your dog does what they do",
       "Genetics, drives & breed instincts",
-      "Working vs. show line differences",
       "Health & nutrition basics",
     ],
     lessons: [
@@ -1093,23 +1094,6 @@ Some dogs care more about toys than treats. These dogs may find a ball, tug toy,
 **Nature vs. Training** 
 Breed traits explain tendencies, not destiny. A Labrador can struggle with recall. A terrier can have excellent obedience. A German Shepherd can be calm around children. Training, socialization, genetics, environment, and individual personality all play a role. Breed tendencies simply help explain why certain behaviors may come more naturally to some dogs than others.
 
- **The Goal**
-The more you understand what your dog was bred to do, the easier it becomes to meet their needs. Instead of asking, "How do I stop my dog from doing this?" A better question is often: "What instinct is my dog trying to express, and how can I give them an appropriate outlet for it?"
-
-When you work with your dog's instincts instead of against them, training becomes easier, frustration decreases, and your relationship becomes much stronger.`,
-        checklist: [
-          "Researched original purpose of your dog's breed",
-          "Identified primary drives in your dog",
-          "Providing outlets appropriate to breed instincts",
-          "Redirecting instinctual behavior rather than just punishing it",
-        ],
-      },
-      {
-        title: "Working Lines vs. Show Lines",
-        content: `Many dog breeds have gradually split into two different populations: dogs bred primarily for appearance and dogs bred primarily for performance.
-
-This distinction is most obvious in breeds like German Shepherds, Belgian Malinois, Labrador Retrievers, Golden Retrievers, Cocker Spaniels, and several sporting breeds, but the concept exists across much of the dog world. Understanding the difference can help explain why two dogs of the same breed may behave completely differently despite looking similar on paper.
-
 **Show lines:** 
 Show lines are bred primarily for conformation. In other words, breeders select dogs based on how closely they match the breed standard and how well they perform in the show ring. Over many generations, this selection pressure emphasizes traits such as structure, movement, coat quality, proportions, and overall appearance. This doesn't mean show line dogs can't work. Many certainly can. However, performance traits often become secondary to appearance when breeding decisions are made.
 
@@ -1120,34 +1104,118 @@ Working lines are bred with performance as the primary goal. The exact traits be
 
 Generation after generation, the dogs that perform best are chosen for breeding. The result is often a dog with greater intensity, higher energy, stronger drives, and a greater desire to work.
 
-**Temperament Differences:**
-One of the biggest differences owners notice is intensity. Many show line dogs are content with a relatively simple lifestyle. They enjoy walks, training sessions, family time, and moderate exercise. Working line dogs often demand more. Many have a stronger desire to chase, search, tug, retrieve, solve problems, and engage with their environment. They frequently require more mental stimulation in addition to physical exercise.
+ **The Goal**
+The more you understand what your dog was bred to do, the easier it becomes to meet their needs. Instead of asking, "How do I stop my dog from doing this?" A better question is often: "What instinct is my dog trying to express, and how can I give them an appropriate outlet for it?"
 
-This doesn't make them "better." It simply makes them different. The right dog depends entirely on the owner's lifestyle and goals.
-
-**Drive and Energy:**
-A common mistake is assuming exercise alone will satisfy a working line dog. In reality, many working dogs need both physical and mental outlets. A thirty-minute walk may leave their body tired, but their brain still wants a job. This is why working line dogs often excel in obedience, agility, scent work, tracking, protection sports, dock diving, etc.
-
-The more appropriate outlets they receive, the easier they generally become to live with.
-
-**The Pros and Cons of Working Lines:**
-Working lines offer incredible potential. They are often highly trainable, deeply engaged with their handlers, and capable of advanced work that would be difficult for many pet-bred dogs.
-
-The tradeoff is that they typically require more investment. A working line dog that receives training, structure, and outlets often becomes an exceptional companion. A working line dog that receives none of those things may invent their own activities, and owners rarely enjoy the jobs they choose. Many behavioral problems in working dogs stem from unmet needs rather than bad temperaments.
-
-**The Pros and Cons of Show Lines:**
-Show lines are often criticized unfairly by working dog enthusiasts. Lower drive does not mean lower quality. Many show line dogs make outstanding companions because they fit naturally into modern households. They still require training, exercise, and enrichment, but their needs are often easier for the average family to meet.
-
-For many owners, a moderately driven dog is actually the better choice. The best dog is not the one with the most drive. The best dog is the one whose needs match your lifestyle.
-
-**What this means for you:**
-Understanding working lines and show lines helps set realistic expectations. If your working line dog seems intense, demanding, and constantly ready for the next challenge, that's not a flaw. It's the result of generations of selective breeding. If your show line dog seems more relaxed, less driven, or easier to settle, that's not a flaw either. That was the goal. Neither type is inherently better. 
-
-The key is recognizing the dog in front of you, understanding what they were bred to be, and giving them an outlet that allows them to thrive.`,
+When you work with your dog's instincts instead of against them, training becomes easier, frustration decreases, and your relationship becomes much stronger.`,
         checklist: [
+          "Researched original purpose of your dog's breed",
+          "Identified primary drives in your dog",
           "Know whether your dog is working or show line (if applicable)",
-          "Expectations calibrated to actual drive level",
-          "Training and enrichment scaled to dog's needs",
+          "Providing outlets appropriate to breed instincts",
+          "Redirecting instinctual behavior rather than just punishing it",
+        ],
+      },
+      {
+        title: "How Emotions Affect Training",
+        content: `Dogs don't just respond to commands, they respond to emotions. Every training session is influenced by both your emotional state and your dog's emotional state. Understanding this can make the difference between frustration and success.
+
+**Your Emotions Matter:** 
+Dogs are experts at reading body language, tone of voice, and even subtle changes in your breathing and movement. If you're calm and confident, your dog is more likely to feel secure and focused. If you're frustrated or angry, your dog may become anxious, shut down, or make even more mistakes. If you're nervous or unsure, your dog may lose confidence or begin making decisions on their own.
+
+Never start a training session in a bad mood or a bad mindset. If you find yourself getting frustrated, end the session on a simple success and take a break. Training should build confidence, not damage it. 
+
+**Your Dog's Emotions Matter:** 
+Before asking your dog to learn, consider how they're feeling. An excited dog may struggle to think clearly. Lower arousal with a few simple behaviors before expecting precision. Fear blocks learning. A scared dog isn't being stubborn, they're trying to stay safe. Build confidence first before increasing difficulty. When dogs don't understand what earns rewards, they may bark, jump, or disengage. Break the exercise into smaller, easier steps. 
+
+The ideal emotional state for learning is calm and engaged. Your dog is focused, motivated, and capable of processing new information.
+
+**Set Your Dog Up for Success:**
+Emotions are contagious. Dogs often mirror the emotions of their handler, this doesn't mean you have to be perfect, but being aware of your own emotions can dramatically improve your training sessions.
+
+Before every session, ask yourself: Is my dog physically tired or full of energy? Is my dog stressed, distracted, or overwhelmed? Am I patient and focused? Is this the right environment for what I'm asking? Training isn't just about teaching behaviors, it's about creating the right emotional environment for learning. A dog learns best when they feel safe, engaged, and motivated, and when their handler remains calm, consistent, and confident. The more you manage emotions on both ends of the leash, the faster your dog will learn and the stronger your relationship will become.`,
+        checklist: [
+          "Identify your dogs emotional state before training",
+          "Identify your emotional state before training",
+          "Never training when frustrated or with a bad mindset",
+          "Always setting your dog up for success",
+        ],
+      },
+      {
+        title: "Your Dog's Learning Style",
+        content: `No two dogs learn exactly the same way. While training principles stay consistent, the way each dog responds to rewards, corrections, and new challenges can be completely different. Learning to adapt to your dog's individual style will make training more effective and far more enjoyable for both of you.
+
+**Finding Your Dog's Motivation:** 
+Every dog works for something, they just don't all value the same reward. Some dogs will do almost anything for food, making treats an excellent way to teach new behaviors. Others care very little about food but become incredibly engaged the moment a favorite toy appears. Some dogs are most fulfilled by interacting with their owner, finding praise, affection, or the opportunity to work together more rewarding than food or toys.
+
+Pay attention to what your dog naturally chooses. The rewards they value the most are the ones that will produce the best results during training.
+
+**Understanding Your Dog's Response to Pressure:** 
+Dogs also differ in how they respond to challenges and correction. Some dogs are naturally resilient and recover quickly from mistakes. These dogs often enjoy difficult training sessions and remain confident even when they don't immediately succeed. Other dogs are more sensitive. Too much pressure or frustration can cause them to lose confidence, disengage, or stop offering behaviors altogether. These dogs often learn best with smaller steps, plenty of encouragement, and a high rate of success.
+
+Neither type is better than the other. They simply require different approaches.
+
+**Adapting Your Training Style:** 
+Successful trainers don't expect every dog to fit a single training method. Instead, they adjust their communication to fit the dog standing in front of them. A highly energetic, toy-driven dog may benefit from short, exciting sessions filled with movement and play. A thoughtful or cautious dog may need slower progression, clearer communication, and frequent opportunities to succeed before moving to more difficult exercises.
+
+Training should challenge your dog without overwhelming them. The goal is to build confidence while keeping them engaged and eager to learn.
+
+**When the Standard Method Isn't Working:** 
+If your dog isn't learning, it doesn't automatically mean they're stubborn or unwilling. More often, it means something in the training needs to change. The reward may not be valuable enough, the environment may be too distracting, the exercise may be too difficult, or your dog may simply need the behavior broken down into smaller, easier steps. Sometimes changing your timing, lowering expectations temporarily, or trying a different reward is all it takes to make progress.
+
+Good trainers don't keep repeating the same approach expecting a different result. They observe the dog, adjust their plan, and meet the dog where they are.
+
+**Key Takeaway:**
+The best training method isn't the one that works for someone else's dog, it's the one that works for yours. By understanding what motivates your dog, recognizing how they handle pressure, and adapting your training style to fit their personality, you'll build a stronger partnership and help your dog reach their full potential.`,
+        checklist: [
+          "Determined your dogs motivation",
+          "Tried different motivators (play, toys, food, praise)",
+          "Changed training style if needed",
+          "Adjusted session lengths and intensity to match your dog",
+        ],
+      },
+      {
+        title: "Why Your Dog Does What They Do",
+        content: `One of the biggest frustrations dog owners face is believing their dog is being stubborn, spiteful, or intentionally disobedient. In reality, behavior is driven by emotion, motivation, learning history, and the environment. Once you understand why your dog behaves the way they do, training becomes much less frustrating and much more effective.
+
+**Why Your Dog Ignores You Outside but Listens Perfectly Inside:** 
+Your dog isn't trying to embarrass you, they're dealing with a completely different world. Inside your home, there are very few distractions. Your dog knows the environment, feels comfortable, and has practiced those behaviors hundreds of times. Outside, however, they're surrounded by new smells, moving animals, people, cars, birds, other dogs, and countless exciting opportunities. To us, asking for a "sit" inside and outside feels like the same command. To your dog, they're two completely different situations.
+
+Dogs don't naturally generalize behaviors well. Just because your dog understands "sit" in your living room doesn't mean they automatically understand it in the front yard, at the park, or on a busy sidewalk. The environment also changes your dog's emotional state. A dog that is calm indoors may become highly excited or overstimulated outside, making it much harder for them to think clearly and respond. Training should always progress gradually. Master the behavior in easy environments before expecting reliability around distractions.
+
+**Why Your Dogs Behavior May Change Day-to-Day:** 
+Behavior isn't fixed. It changes depending on how your dog feels in that moment. Imagine someone asking you to give a presentation. Some days you're confident and relaxed. Other days you're tired, stressed, or overwhelmed. The task didn't change, but your ability to handle it did. Dogs experience the same thing.Poor sleep, physical discomfort, previous stressful experiences, loud noises, hormones, unfamiliar environments, or simply encountering too many exciting things throughout the day can lower a dog's tolerance.This is known as trigger stacking. Small stressors build on one another until something that normally wouldn't bother your dog suddenly causes barking, lunging, or avoidance.
+
+Looking at the whole picture instead of a single incident often explains seemingly inconsistent behavior.
+
+**Why Punishment Can Make Behaviors Worse:** 
+Punishment may stop a behavior temporarily, but it doesn't always solve the reason the behavior exists. If a fearful dog is punished for barking at strangers, they may stop barking, but they often don't stop feeling afraid. Instead, they learn that strangers predict both fear and punishment, making the emotional response even stronger over time.
+
+Similarly, punishing growling teaches a dog that warning signals are unsafe to use. The fear remains, but the warning disappears. That can create a dog that bites with little or no warning. Even when punishment suppresses behavior, it doesn't teach the dog what they should do instead.
+
+Successful training focuses on changing both the behavior and the underlying emotion whenever possible.
+
+**Why Your Dog "Knows Better" but Does It Anyway:** 
+This is one of the biggest misconceptions in dog training. People often assume that because a dog has successfully performed a behavior before, they should perform it perfectly every time, but learning doesn't work that way. Your dog may absolutely understand a cue, but if the reward for ignoring you is greater than the reward for listening, they'll often make the choice that benefits them most. If a squirrel runs across the yard, your recall is competing against one of the strongest natural instincts your dog has. Sometimes the issue isn't motivation at all. Your dog may be overstimulated, frightened, distracted, physically tired, or simply lacking enough practice in that particular environment.
+
+Knowing a behavior and being able to perform it under every level of distraction are two very different skills. Reliability is built through gradual exposure, repetition, and proofing, not by assuming your dog "knows better."
+
+**The Difference Between "Won't" and "Can't":** 
+One of the most valuable questions you can ask during training is whether your dog won't do something or can't do it.
+
+A dog that won't perform a behavior understands exactly what you're asking, is capable of doing it, and is simply choosing another option because it's more rewarding.
+
+A dog that can't perform the behavior is missing something important. They may not fully understand the cue, they may be overwhelmed by distractions, they may be too stressed to think clearly, or they may not yet have the emotional or physical ability to succeed.
+
+The challenge is that these situations often look exactly the same. Instead of assuming your dog is refusing to listen, ask yourself whether you've truly prepared them for success. Have they practiced enough? Is the environment too difficult? Are they emotionally capable of learning right now? When you begin asking "What is preventing my dog from succeeding?" instead of "Why is my dog being stubborn?", your training will become far more productive.
+
+**Understanding Your Dog:**
+Dogs don't behave randomly, and they don't misbehave out of spite. Every behavior has a reason. Whether it's excitement, fear, instinct, stress, lack of practice, or competing motivation, understanding the why behind the behavior allows you to address the real problem instead of simply reacting to the symptom. The best trainers don't just teach behaviors, they learn to understand the dog in front of them.`,
+        checklist: [
+          "Recognized behaviors that need work in different environments",
+          "Recognized if your dog can't or won't do something and why",
+          "Not punishing behaviors caused by emotions such as fear",
+          "Recognizing the reason behind each behavior",
         ],
       },
       {
@@ -1570,8 +1638,8 @@ export const BUNDLE = {
   id: "bundle",
   title: "Full K9 Academy",
   price: 40,
-  saves: 5,
-  totalIfSeparate: 45,
+  saves: 10,
+  totalIfSeparate: 50,
   exclusive: [
     {
       title: "Problem Solving Guide",

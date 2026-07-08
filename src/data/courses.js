@@ -1643,17 +1643,17 @@ Search for local clubs for any sport that interests you. Most offer intro classe
     includes: [],
     lessons: [
       {
-        title: "Building Cooperative Care",
+        title: "Cooperative Care",
         content: `Cooperative care means your dog is an active participant in their own handling, not something being wrestled into submission. This changes the entire experience of vet and groomer visits, for you and for them.
 
 **Why it matters:**
-A dog that has to be forced into every position at the vet is under acute stress every single visit and grows more resistant over time. A dog trained with cooperative care learns that offering their body for handling is what makes the process happen at all — a shift from something happening TO them to something they choose.
+A dog that has to be forced into every position at the vet is under acute stress every single visit and grows more resistant over time. A dog trained with cooperative care learns that offering their body for handling is what makes the process happen at all, a shift from something happening TO them to something they choose. It makes the experience better for everyone involved.
 
 **The chin rest:**
-Teach your dog to rest their chin in your open palm and hold. This becomes a "start button" — as long as their chin is in your hand, handling continues; the moment they lift it, everything stops. This gives your dog real control and reduces panic.
+Teach your dog to rest their chin in your open palm and hold. This becomes a "start button", as long as their chin is in your hand, handling continues; the moment they lift it, everything stops. This gives your dog real control and reduces panic.
 
 **Practicing at home first:**
-Before any real appointment, practice touching ears, paws, mouth, and tail base while your dog holds the chin rest. Pair every touch with a treat. Keep sessions under two minutes and end while your dog is still relaxed.
+Before any real appointment, practice touching ears, paws, mouth, and tail base while your dog holds the chin rest. Pair every touch with a treat. Keep sessions under two minutes and end while your dog is still relaxed. General touch desensitization can be done throughout the day during downtime as well.
 
 **Generalizing to the real environment:**
 Practice in the car, in the vet parking lot, and eventually in the lobby before ever seeing a technician. Ask your vet or groomer if you can do a "happy visit" — walking in, getting treats from staff, and leaving without any procedure at all.
@@ -1665,7 +1665,7 @@ Bring high-value treats the vet or groomer can use. Ask staff to go slow and let
           "Ears, paws, mouth, and tail base handled calmly during practice",
           "At least one 'happy visit' completed with no procedure",
           "High-value treats brought to every appointment",
-          "Staff briefed on go-slow / opt-in approach",
+          "Staff briefed on a go-slow approach",
         ],
       },
       {
@@ -1676,13 +1676,13 @@ Bring high-value treats the vet or groomer can use. Ask staff to go slow and let
 Pain changes behavior. A dog in pain or fear at the vet can bite even if they've never shown aggression before. Muzzle conditioning done in advance, calmly, at home, means the muzzle is simply routine at go-time rather than a crisis-mode fight.
 
 **Conditioning from scratch:**
-Start by smearing peanut butter or spray cheese on the inside of a basket muzzle and letting your dog push their nose in to lick, no strap fastened. Repeat until they push their nose in eagerly. Only then begin fastening the strap for a second or two before removing, building duration slowly over days.
+Start by smearing peanut butter or holding a treat on the inside of a basket muzzle and letting your dog push their nose in to lick, no strap fastened. Repeat until they push their nose in eagerly. Only then begin fastening the strap for a second or two before removing, building duration slowly over days.
 
 **Signs you're moving too fast:**
 Pawing at the muzzle, freezing, refusing to approach it, or trying to back away. Any of these mean drop back a step and rebuild at a slower pace.
 
 **Restraint conditioning:**
-Separately from the muzzle, practice brief gentle restraint holds (a hug-like hold around the chest, holding a paw still) paired with treats, so restraint itself isn't a novel, scary experience during an actual procedure.
+Separately from the muzzle, practice brief gentle restraint holds (a hug-like hold around the chest, holding a paw still) paired with treats, so restraint itself isn't a scary experience during an actual procedure.
 
 **Using it for real:**
 Once conditioned, a muzzle can be put on calmly before a stressful procedure, and removed as soon as it's done, ending the appointment on a positive note.`,
@@ -1691,12 +1691,12 @@ Once conditioned, a muzzle can be put on calmly before a stressful procedure, an
           "Strap fastened for increasing durations without distress",
           "No pawing, freezing, or avoidance during muzzle practice",
           "Brief restraint holds practiced and paired with treats",
-          "Muzzle removed immediately after procedure, ending on a positive note",
+          "Muzzle removed immediately after procedure",
         ],
       },
       {
         title: "Nail Trims & Sensitive Area Handling",
-        content: `Nail trims cause more stress than almost any other routine care task, mostly because most dogs' only experience with them is being pinned down.
+        content: `Nail trims cause more stress than almost any other routine care task, mostly because most dogs only experience with them is being pinned down.
 
 **Why dogs fight nail trims:**
 Paws are sensitive, and a bad experience (a quicked nail, being restrained too hard) creates a lasting negative association that generalizes to all foot handling.
@@ -1705,7 +1705,7 @@ Paws are sensitive, and a bad experience (a quicked nail, being restrained too h
 Touch a paw briefly, treat, release. Repeat across all four paws, several short sessions per week. Only progress to holding a paw and touching individual toes once your dog is relaxed with basic contact.
 
 **Introducing the tool before you use it:**
-Let your dog sniff and see the clippers or grinder, running a grinder near (not on) the paw so they get used to the sound first. Treat throughout.
+Let your dog sniff and see the clippers or grinder, running a grinder near (not on) the paw so they get used to the sound first. Treat throughout. Show them the trimmer or grinder throughout the day during play, meals, or other activities so it does not create bad associations.
 
 **One nail at a time:**
 Your first several sessions might only involve one or two nails, not the whole paw. Ending a session while your dog is calm teaches them that sessions end predictably and don't spiral into a wrestling match.
@@ -1713,10 +1713,13 @@ Your first several sessions might only involve one or two nails, not the whole p
 **Handling other sensitive areas:**
 The same graduated approach — brief touch, treat, release, gradually increasing duration and intrusiveness — applies to ears, teeth, and tail base checks. All of these become far easier vet visits when practiced regularly at home outside of the appointment itself.
 
+**Alternative methods:**
+Having overgrown nails can cause joint pain, so it's important to maintain them. Trimmers or grinders are normally the standard for nail care. For dogs that may not be desensitized to those yet, scratch boards can be a good alternative. Daily walks on pavement can also naturally wear down nails. In extreme cases, vets can provide sedated nail trims.
+
 **When to just get help:**
 If your dog is already highly reactive to nail trims, a groomer or vet tech experienced in low-stress handling — or a muzzle, per the previous lesson — is a reasonable bridge while you build the underlying tolerance.`,
         checklist: [
-          "All four paws tolerate brief handling calmly",
+          "All four paws tolerate brief handling",
           "Clippers or grinder introduced with sound before first real use",
           "Nail trims done a few nails at a time, ending on a calm note",
           "Ears, teeth, and tail base desensitized using the same method",
@@ -1729,10 +1732,10 @@ If your dog is already highly reactive to nail trims, a groomer or vet tech expe
   {
     id: "exclusive-adventure",
     tag: "Bundle Exclusive",
-    title: "Dog-Friendly Adventure Checklist",
+    title: "Dog-Friendly Adventure Guide",
     price: 0,
     bundleOnly: true,
-    tagline: "Everything you need to bring your dog along safely, wherever you're headed.",
+    tagline: "Everything you need to bring your dog along safely, wherever you're headed, plus a pet-friendly list of places.",
     description: "Hiking, road trips, and public spaces — the gear, training, and etiquette that make adventures with your dog actually enjoyable.",
     includes: [],
     lessons: [
@@ -1741,13 +1744,13 @@ If your dog is already highly reactive to nail trims, a groomer or vet tech expe
         content: `Bringing your dog on trails is one of the most rewarding parts of dog ownership, but it goes wrong fast without the right preparation.
 
 **Fitness and conditioning first:**
-Don't take a sedentary dog on an 8-mile trail on day one. Build up distance gradually over weeks, the same way you would for yourself, watching for excessive panting, lagging behind, or reluctance to continue as signs to turn back.
+Don't take a sedentary dog on an 8-mile trail on day one. Build up distance gradually over weeks, the same way you would for yourself, watching for excessive panting, lagging behind, or reluctance to continue as signs to turn back. Remember that puppies should not be walking nearly as much as an adult dog.
 
 **Recall and leash skills are non-negotiable:**
 Even on-leash, a dog that pulls hard toward every squirrel or hiker makes trails miserable and unsafe near cliffs or water. A hands-free hiking leash and a solid "leave it" are worth training before your first real trip, not during it.
 
 **Gear that matters:**
-A well-fitted harness (not just a collar) for control on uneven terrain, a collapsible water bowl, and enough water for both of you — dogs overheat faster than people and can't tell you they're in trouble until it's serious.
+A well-fitted harness (not just a collar) for control on uneven terrain, poop bags, a collapsible water bowl, and enough water for both of you — dogs overheat faster than people and can't tell you they're in trouble until it's serious.
 
 **Weather and terrain hazards:**
 Check paw pad tolerance on hot pavement or rocky terrain (a simple hand test: if it's too hot for your hand for five seconds, it's too hot for their paws). Know the signs of heatstroke: heavy panting, bright red gums, stumbling.
@@ -1779,7 +1782,7 @@ Plan a stop every 2–3 hours minimum for water, a bathroom break, and a short w
 Confirm pet policies directly before booking, never assume. Bring your dog's own bed or blanket to make unfamiliar rooms feel more settled, and never leave a dog that isn't confirmed comfortable being alone in a strange hotel room.
 
 **Packing list essentials:**
-Food (enough for the whole trip plus extra), medications, waste bags, a first-aid kit, proof of vaccination records, and a recent photo of your dog in case of separation.`,
+Food (enough for the whole trip plus extra), medications, poop bags, a first-aid kit, proof of vaccination records, and a recent photo of your dog in case of separation.`,
         checklist: [
           "Crash-tested restraint or crate used for every car trip",
           "Car tolerance built gradually if dog is anxious or carsick",
@@ -1799,19 +1802,115 @@ Dog-friendly means dogs are allowed, not that every dog there wants to meet your
 New sights, sounds, and smells are naturally overstimulating. Give your dog time to settle before expecting calm behavior — a few minutes of sniffing and observing a new environment on a loose leash before asking for anything.
 
 **Handling the unexpected:**
-Have an exit plan for overwhelming situations, like crowded patios or sudden loud noises. Practicing a quick U-turn and walk-away cue at home means you have a tool ready rather than being stuck in a bad spot.
+Have an exit plan for overwhelming situations, like crowded patios or sudden loud noises. Practicing a quick U-turn and walk-away at home means you have a tool ready rather than being stuck in a bad spot.
 
 **Patio and indoor manners:**
-A settle-on-a-mat behavior, practiced at home first, is the single most useful skill for cafes, breweries, and stores — teaching your dog to lie calmly on a designated spot regardless of distractions nearby.
+A settle command, practiced at home first, is the single most useful skill for cafes, breweries, and stores — teaching your dog to lie calmly on a designated spot regardless of distractions nearby.
 
 **Respecting the space:**
 Clean up immediately, keep your dog within the length of leash appropriate to the space, and don't assume every business is dog-friendly just because a nearby one was.`,
         checklist: [
           "Greetings only with consent from both handler and dog",
-          "Settle-on-a-mat behavior trained before first outing",
-          "Exit plan and U-turn cue practiced for overwhelming situations",
+          "Settle trained before first outing",
+          "Exit plan prepared for overwhelming situations",
           "Cleanup supplies carried on every outing",
           "Pet policy of each specific venue confirmed, not assumed",
+        ],
+      },
+      {
+        title: "Pet-Friendly Adventure List",
+        content: `A dog that's never practiced car travel can turn a road trip into a stressful ordeal for everyone in the vehicle.
+
+**Nature Adventures**
+Go on a hiking trail
+Visit a waterfall
+Explore a state park
+Explore a national park
+Walk on a boardwalk through wetlands
+Walk along a river
+Visit a scenic overlook
+Find a hidden nature trail
+Camp overnight
+Take a road trip just for your dog
+Visit a mountain
+Walk through a flower field
+Explore a cave area
+Walk after a fresh snowfall
+Walk in the rain
+
+**Water Adventures**
+Swim in a lake
+Swim in a river
+Visit a beach
+Paddleboard together
+Kayak together
+Canoe together
+Ride on a boat
+Splash through shallow creeks
+Play fetch in the water
+Dock dive
+Explore natural springs
+Visit a dog splash pad
+
+**City Adventures**
+Visit a café
+Eat at a restaurant
+Visit a brewery
+Visit a farmers market
+Walk through downtown
+Explore a new city
+Visit a pet store and pick a toy
+Visit an outdoor shopping center
+Walk through a holiday light display
+Visit a Christmas tree farm
+Explore a botanical garden
+Watch live music outdoors
+Visit a festival
+
+**Confidence Building Adventures**
+Walk across rocks
+Walk over logs
+Climb a hill
+Walk on metal grates
+Explore playground equipment
+Walk through tall grass
+Ride an escalator
+Ride an elevator
+Walk through automatic doors
+Visit a busy parking lot for neutrality training
+Relax quietly in a crowded public place
+
+**Seasonal Adventures**
+Visit a pumpkin patch
+Visit a sunflower field
+Play in snow
+See fireworks from a distance (if comfortable)
+Attend a seasonal parade or festival
+
+**Training Adventures**
+Complete a 5-mile hike
+Hike completely off leash (if safe)
+Practice recall in a new location
+Train on a busy sidewalk
+Visit a new park
+Visit a dog-friendly hardware store
+Practice calmness at a café
+Attend a dog sporting event
+Try scent work
+Try agility
+Try dock diving
+Try barn hunt
+
+**Bucket List Adventures**
+Stay in a dog-friendly cabin
+Stay at a dog-friendly hotel
+Take a beach vacation
+Visit another state together
+Find your dog's favorite place`,
+        checklist: [
+          "Tried at least 3 different adventures",
+          "Created a bucketlist",
+          "Planned a future adventure",
         ],
       },
     ],
@@ -1824,7 +1923,7 @@ Clean up immediately, keep your dog within the length of leash appropriate to th
     price: 0,
     bundleOnly: true,
     tagline: "Practical strategies for the dog that never seems to run out of gas.",
-    description: "Structured outlets, mental enrichment, and realistic expectations for owners of high-drive breeds and dogs with energy to spare.",
+    description: "Structured outlets, mental enrichment, and realistic expectations for owners of high-energy breeds and dogs with lots of energy to spare.",
     includes: [],
     lessons: [
       {
@@ -1832,7 +1931,7 @@ Clean up immediately, keep your dog within the length of leash appropriate to th
         content: `High-energy dogs don't need endless exercise, they need the right kind of exercise. Unstructured, repetitive activity often just creates a fitter dog that's still just as wound up.
 
 **The treadmill effect:**
-Purely repetitive exercise, like nonstop ball-throwing, builds cardiovascular fitness without teaching impulse control — meaning your dog gets more capable of running longer, not calmer overall. Some structure and stopping points need to be built in.
+Purely repetitive exercise, like nonstop ball-throwing, builds cardiovascular fitness without teaching impulse control, meaning your dog gets more capable of running longer, not calmer overall. Some structure and stopping points need to be built in.
 
 **Better outlets:**
 Activities that combine physical output with thinking: tracking games, structured fetch with a sit or wait between throws, tug with rules (out on cue, only starts on release), or flirt pole work with clear start and stop cues.
@@ -1840,11 +1939,11 @@ Activities that combine physical output with thinking: tracking games, structure
 **Sport as an outlet:**
 Agility, dock diving, disc, or scent work channel drive into something with rules and an off switch, which matters more long-term than raw exercise volume for many high-drive dogs.
 
-**Building in the off switch:**
+**The off switch:**
 End every high-arousal activity with a calming-down period — a chew, a settle cue, a few minutes of stillness before the next thing happens — so your dog learns arousal always comes back down, rather than staying wound up all evening.
 
 **Matching output to the individual dog:**
-Breed, age, and health all matter. A young working-line dog may genuinely need more than a senior or a breed with lower baseline drive — know your specific dog rather than following generic exercise minutes.`,
+Breed, age, and health all matter. A young working-line dog may need more than a senior or a breed with lower baseline drive — know your specific dog rather than following generic exercise minutes.`,
         checklist: [
           "Structured activities with rules used alongside free exercise",
           "At least one thinking-based outlet included weekly",
@@ -1858,23 +1957,23 @@ Breed, age, and health all matter. A young working-line dog may genuinely need m
         content: `Fifteen minutes of genuine mental work can tire a high-energy dog more than an hour of walking, because problem-solving is metabolically demanding in a way repetitive movement isn't.
 
 **Why enrichment works:**
-Sniffing, foraging, and problem-solving engage a dog's brain in ways that mirror natural behaviors like hunting and foraging, and satisfy drives that pure exercise doesn't touch — which is often why a physically tired dog is still restless.
+Sniffing, foraging, and problem-solving engage a dog's brain in ways that mirror natural behaviors like hunting and foraging, and satisfy drives that pure exercise doesn't touch, which is often why a physically tired dog is still restless.
 
 **Sniffing as enrichment:**
-A "sniffari" — a slow walk with no destination, letting your dog sniff as long as they want at each spot — is a low-impact but high-value outlet, especially for dogs with joint concerns or ones already getting plenty of physical exercise.
+A slow walk with no destination, letting your dog sniff as long as they want at each spot is a low-impact but high-value outlet, especially for dogs with joint concerns or ones already getting plenty of physical exercise.
 
 **Feeding as enrichment:**
-Skip the bowl. Scatter feed in grass, use a snuffle mat, or feed meals through food puzzles that require working for the food. This turns an otherwise passive daily event into meaningful mental work.
+Skip the bowl, scatter feed in grass, use a snuffle mat, or feed meals through food puzzles that require working for the food. This turns an otherwise passive daily event into meaningful mental work.
 
 **Training as enrichment:**
 Short daily training sessions (5–10 minutes) teaching new tricks or behaviors provide focused mental engagement most owners underuse, simply because they think of training as separate from "tiring the dog out."
 
-**Rotating novelty:**
+**Rotating enrichment:**
 Rotate toys and puzzles rather than leaving everything out permanently. Novelty itself is enriching, and a rotated toy gets re-engaged with as if it were new.`,
         checklist: [
           "At least one dedicated enrichment activity built into most days",
           "Meals delivered through foraging or puzzle feeders, not just a bowl",
-          "A no-destination sniff walk included weekly",
+          "A sniff walk daily",
           "Short daily training sessions used as mental, not just obedience, work",
           "Toys and puzzles rotated rather than all left out at once",
         ],
@@ -1887,7 +1986,7 @@ Rotate toys and puzzles rather than leaving everything out permanently. Novelty 
 This is often a release of built-up arousal, sometimes tied to natural activity patterns dogs share with their wild relatives, and it isn't necessarily a sign that today's exercise or enrichment "wasn't enough."
 
 **Don't fight it, redirect it:**
-Trying to force stillness during a genuine energy spike usually escalates things. Instead, redirect into an appropriate outlet — a short structured play session, a tug game with rules, or letting the zoomies happen safely in a yard rather than the living room.
+Trying to force stillness during a genuine energy spike usually escalates things. Instead, redirect into an appropriate outlet; a short structured play session, a tug game with rules, or letting the zoomies happen safely in a yard rather than the living room.
 
 **Prevention through timing:**
 If the witching hour reliably hits around the same time, schedule a structured outlet or a short walk right before it typically starts, using the predictable pattern to your advantage rather than reacting after the fact.
@@ -1896,7 +1995,7 @@ If the witching hour reliably hits around the same time, schedule a structured o
 Dog-proof the specific room where chaos tends to happen, remove anything breakable, and have a designated appropriate chew or toy ready to redirect mouthing before it starts on furniture or hands.
 
 **When it's excessive:**
-If the behavior seems distressed rather than playful — excessive panting, inability to settle even after redirection, self-harm — rather than classic zoomies, it's worth mentioning to your vet, since some hyperactivity has a medical component.`,
+If the behavior seems distressed rather than playful such as excessive panting, inability to settle even after redirection, self-harm rather than classic zoomies, it's worth mentioning to your vet, since some hyperactivity has a medical component.`,
         checklist: [
           "Timing of typical energy spikes identified and anticipated",
           "Appropriate outlet scheduled just before the usual spike window",

@@ -2012,9 +2012,9 @@ If the behavior seems distressed rather than playful such as excessive panting, 
 export const BUNDLE = {
   id: "bundle",
   title: "Full K9 Academy",
-  price: 40,
+  price: 50,
   saves: 10,
-  totalIfSeparate: 50,
+  totalIfSeparate: 60,
   exclusive: [
     {
       title: "Problem Solving Guide",
